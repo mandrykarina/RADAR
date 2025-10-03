@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-ULTRA STABLE - ИСПРАВЛЕНИЕ ЗАВИСАНИЯ НА 11 ЦИКЛЕ
-Проблема: зависание после Polygon/NewsAPI
-Решение: минимальные timeout, неблокирующие операции
+ULTRA STABLE + NORMALIZER
+Теперь fetcher сохраняет уже нормализованные новости
 """
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 import time
 import json
-import os
-import signal
 import threading
 from datetime import datetime, timedelta
 from typing import Dict, Any
@@ -19,14 +18,20 @@ from clients.fmp_client import FMPClient
 from clients.newsdata_client import NewsDataClient
 
 from config import API_KEYS, RATE_LIMITS
+from src.normalizer import normalize_batch   # ✅ импорт нормализатора
+
 
 
 class UltraStableFetcher:
-    """УЛЬТРА СТАБИЛЬНАЯ ВЕРСИЯ - НЕ ЗАВИСАЕТ!"""
+    """УЛЬТРА СТАБИЛЬНЫЙ ПАРСЕР + НОРМАЛИЗАТОР"""
 
     def __init__(self):
-        print("🚨 ULTRA STABLE NEWS FETCHER")
-        print("⚡ Максимальная защита от зависаний")
+        print("🚨 ULTRA STABLE NEWS FETCHER + NORMALIZER")
+
+        # Создаём папку data для файлов
+        self.data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+        self.data_dir = os.path.abspath(self.data_dir)
+        os.makedirs(self.data_dir, exist_ok=True)
 
         self.clients = {}
         self.request_counts = {
@@ -38,23 +43,27 @@ class UltraStableFetcher:
             'fmp': datetime.min, 'newsdata': datetime.min
         }
 
-        # Фиксированные файлы
+        # Файлы теперь лежат в папке data/
         self.fixed_filenames = {
-            'newsapi': 'news_newsapi_latest.json',
-            'polygon': 'news_polygon_latest.json', 
-            'finnhub': 'news_finnhub_latest.json',
-            'fmp': 'news_fmp_latest.json',
-            'newsdata': 'news_newsdata_latest.json'
+            'newsapi': os.path.join(self.data_dir, 'news_newsapi_latest.json'),
+            'polygon': os.path.join(self.data_dir, 'news_polygon_latest.json'),
+            'finnhub': os.path.join(self.data_dir, 'news_finnhub_latest.json'),
+            'fmp': os.path.join(self.data_dir, 'news_fmp_latest.json'),
+            'newsdata': os.path.join(self.data_dir, 'news_newsdata_latest.json')
         }
 
         self._init_clients()
         print(f"✅ Клиентов готово: {len(self.clients)}")
 
     def _init_clients(self):
-        """Быстрая инициализация без блокировок"""
-
-        apis = [('newsapi', NewsApiClient), ('polygon', PolygonClient), 
-                ('finnhub', FinnHubClient), ('fmp', FMPClient), ('newsdata', NewsDataClient)]
+        """Инициализация клиентов"""
+        apis = [
+            ('newsapi', NewsApiClient), 
+            ('polygon', PolygonClient), 
+            ('finnhub', FinnHubClient), 
+            ('fmp', FMPClient), 
+            ('newsdata', NewsDataClient)
+        ]
 
         for api_name, ClientClass in apis:
             try:
@@ -66,19 +75,17 @@ class UltraStableFetcher:
                 print(f"❌ {api_name.upper()}: {e}")
 
     def can_make_request(self, api_name: str) -> bool:
-        """Упрощенная проверка лимитов"""
+        """Проверка лимитов"""
         try:
             now = datetime.now()
             last = self.last_requests[api_name]
             passed = (now - last).total_seconds()
-
             return passed >= RATE_LIMITS.get(api_name, 60)
         except:
             return True
 
     def fetch_with_timeout(self, api_name: str) -> Dict[str, Any]:
-        """НОВОЕ: Запрос с жестким timeout через threading"""
-
+        """Запрос с жестким timeout"""
         result = {"source": api_name, "error": "timeout", "articles_count": 0}
 
         def _fetch():
@@ -89,7 +96,6 @@ class UltraStableFetcher:
                 if api_name == "newsapi":
                     to_date = datetime.now()
                     from_date = to_date - timedelta(hours=24)
-
                     data = self.clients["newsapi"].get_everything(
                         q="finance",
                         language="en",
@@ -110,7 +116,10 @@ class UltraStableFetcher:
                 elif api_name == "newsdata":
                     data = self.clients["newsdata"].latest_news(category="business", size=5)
 
-                # Подсчет быстро
+                else:
+                    data = {}
+
+                # Подсчёт статей
                 count = 0
                 if isinstance(data, dict):
                     if api_name == "newsapi":
@@ -120,12 +129,15 @@ class UltraStableFetcher:
                 elif isinstance(data, list):
                     count = len(data)
 
+                # ✅ нормализация
+                normalized = normalize_batch(api_name, data)
+
                 result = {
                     "source": api_name,
                     "timestamp": datetime.now().isoformat(),
                     "request_number": self.request_counts[api_name] + 1,
                     "articles_count": count,
-                    "raw_data": data
+                    "normalized": normalized
                 }
 
                 print(f"✅ {count}", flush=True)
@@ -137,10 +149,9 @@ class UltraStableFetcher:
                     "error": str(e)[:100]
                 }
 
-        # Запускаем в отдельном потоке с timeout
         thread = threading.Thread(target=_fetch, daemon=True)
         thread.start()
-        thread.join(timeout=8.0)  # ЖЕСТКИЙ timeout 8 секунд
+        thread.join(timeout=8.0)
 
         if thread.is_alive():
             print(f"⏰ TIMEOUT!", flush=True)
@@ -153,22 +164,21 @@ class UltraStableFetcher:
         return result
 
     def save_fast(self, result: Dict[str, Any]):
-        """БЫСТРОЕ сохранение без блокировок"""
+        """Сохранение нормализованных новостей"""
         try:
             api_name = result.get("source", "unknown")
-            filename = self.fixed_filenames.get(api_name, f"news_{api_name}_latest.json")
+            filename = self.fixed_filenames.get(api_name, os.path.join(self.data_dir, f"news_{api_name}_latest.json"))
 
-            # Быстрая запись
             with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(result, f, ensure_ascii=False, indent=None)  # Без форматирования
+                json.dump(result["normalized"], f, ensure_ascii=False, indent=2)
 
-            print(f"💾 {filename}", flush=True)
+            print(f"💾 Сохранено: {filename}", flush=True)
 
         except Exception as e:
             print(f"❌ Сохранение: {e}", flush=True)
 
     def run_cycle(self):
-        """УЛЬТРА-БЫСТРЫЙ цикл без зависаний"""
+        """Один цикл запросов"""
         total_requests = sum(self.request_counts.values()) + 1
         print(f"\n🔄 Цикл #{total_requests} - {datetime.now().strftime('%H:%M:%S')}")
 
@@ -177,7 +187,6 @@ class UltraStableFetcher:
 
         for api_name in apis:
             if api_name in self.clients and self.can_make_request(api_name):
-
                 result = self.fetch_with_timeout(api_name)
 
                 if "error" not in result:
@@ -186,7 +195,6 @@ class UltraStableFetcher:
                     self.last_requests[api_name] = datetime.now()
                     completed += 1
 
-                # Микро-пауза
                 time.sleep(0.1)
 
         if completed > 0:
@@ -197,8 +205,8 @@ class UltraStableFetcher:
         return completed > 0
 
     def run_forever(self):
-        """Главный цикл с защитой от зависаний"""
-        print("\n🔄 УЛЬТРА-СТАБИЛЬНЫЙ МОНИТОРИНГ")
+        """Основной цикл"""
+        print("\n🔄 УЛЬТРА-СТАБИЛЬНЫЙ МОНИТОРИНГ (с нормализацией)")
         print("⚡ Timeout 8 сек на каждый запрос")
         print("🚀 Неблокирующие операции")
         print("Ctrl+C для остановки\n")
@@ -212,17 +220,14 @@ class UltraStableFetcher:
 
                 try:
                     self.run_cycle()
-
-                    # БЫСТРАЯ пауза
                     print("⏰ Пауза 3 сек...")
                     for i in range(3):
                         time.sleep(1)
                         print(".", end="", flush=True)
                     print()
-
                 except Exception as e:
                     print(f"❌ Ошибка цикла: {e}")
-                    time.sleep(1)  # Короткая пауза
+                    time.sleep(1)
 
         except KeyboardInterrupt:
             print("\n\n🛑 ОСТАНОВЛЕНО")
@@ -230,8 +235,7 @@ class UltraStableFetcher:
 
 
 def main():
-    print("🚨 ULTRA STABLE NEWS FETCHER")
-    print("⚡ ИСПРАВЛЕНИЕ ЗАВИСАНИЯ НА 11 ЦИКЛЕ")
+    print("🚨 ULTRA STABLE FETCHER + NORMALIZER + DATA FOLDER")
     print("=" * 50)
 
     try:
@@ -241,14 +245,9 @@ def main():
             print("\n❌ Нет API ключей!")
             return
 
-        print("\n⚡ ЗАЩИТА ОТ ЗАВИСАНИЙ:")
-        print("• Timeout 8 сек на каждый запрос")
-        print("• Threading для неблокирующих операций") 
-        print("• Быстрая запись файлов")
-
         print("\nРежимы:")
-        print("1 - Тестовый цикл")
-        print("2 - Ультра-стабильный мониторинг")
+        print("1 - Один тестовый цикл")
+        print("2 - Постоянный мониторинг")
 
         choice = input("\nВыбор (1-2): ").strip()
 
