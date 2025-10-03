@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-10-03T18:52:58.096450",
+  "news": [
+    {
+      "id": "sample_1",
+      "source": "NewsAPI_bloomberg",
+      "source_credibility": 0.9,
+      "title": "ЦБ РФ неожиданно повысил ключевую ставку до 21%",
+      "content": "Центральный банк России принял решение повысить ключевую ставку с 19% до 21% годовых. Решение стало неожиданным для большинства аналитиков рынка. Повышение связано с ускорением инфляции и необходимостью охлаждения экономики. Рубль укрепился на 2% после объявления.",
+      "url": "https://bloomberg.com/news/cb-rate-increase",
+      "published_at": "2025-10-03T18:52:58.096455",
+      "keywords": [
+        "ЦБ",
+        "ставка",
+        "инфляция",
+        "рубль"
+      ],
+      "entities": [
+        "ЦБ РФ",
+        "Россия",
+        "рубль"
+      ],
+      "collected_at": "2025-10-03T18:52:58.096457",
+      "dedup_hash": "hash_cb_rate",
+      "credibility_score": 0.85,
+      "confirmation_count": 3,
+      "duplicate_group": "cb_rate_oct2025"
+    },
+    {
+      "id": "sample_2",
+      "source": "NewsAPI_reuters",
+      "source_credibility": 0.95,
+      "title": "Apple объявила о поглощении ИИ-стартапа за $5 млрд",
+      "content": "Компания Apple подтвердила приобретение стартапа в области искусственного интеллекта за 5 миллиардов долларов. Сделка направлена на укрепление позиций в области машинного обучения и голосовых помощников. Акции Apple выросли на 3% после объявления.",
+      "url": "https://reuters.com/apple-ai-acquisition",
+      "published_at": "2025-10-03T18:52:58.096459",
+      "keywords": [
+        "Apple",
+        "поглощение",
+        "ИИ",
+        "стартап"
+      ],
+      "entities": [
+        "Apple Inc.",
+        "AAPL",
+        "США"
+      ],
+      "collected_at": "2025-10-03T18:52:58.096461",
+      "dedup_hash": "hash_apple_ai",
+      "credibility_score": 0.9,
+      "confirmation_count": 2,
+      "duplicate_group": "apple_ai_oct2025"
+    }
+  ]
+}
