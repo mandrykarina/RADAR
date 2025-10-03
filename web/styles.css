@@ -1,0 +1,120 @@
+/* ====== Общие ====== */
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at top left, #0d0d1a, #1a0033, #0d0d1a);
+  background-attachment: fixed;
+  color: #e0e0ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* ====== Заголовок ====== */
+header {
+  text-align: center;
+  padding: 60px 20px 30px;
+}
+
+header h1 {
+  font-size: 4rem;
+  margin: 0;
+  font-weight: 800;
+  color: #b388ff;
+  text-shadow: 0 0 20px rgba(179,136,255,0.8),
+               0 0 40px rgba(138,43,226,0.6);
+}
+
+header p {
+  margin-top: 15px;
+  font-size: 1.2rem;
+  color: #cfcfff;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+/* ====== Форма ====== */
+.query-box {
+  width: 100%;
+  max-width: 700px;
+  margin: 40px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.query-box .label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.query-box input, .query-box select {
+  padding: 12px 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  outline: none;
+  min-width: 100px;
+  background: #1c1c2e;
+  color: #e0e0ff;
+  box-shadow: inset 0 0 8px rgba(179,136,255,0.6);
+}
+
+.query-box select {
+  cursor: pointer;
+}
+
+.query-box button {
+  padding: 12px 24px;
+  border: none;
+  background: linear-gradient(135deg, #9c27b0, #7c4dff);
+  color: white;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 0 15px rgba(156,39,176,0.6),
+              0 0 30px rgba(124,77,255,0.4);
+}
+
+.query-box button:hover {
+  background: linear-gradient(135deg, #7c4dff, #9c27b0);
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 0 25px rgba(156,39,176,0.9),
+              0 0 40px rgba(124,77,255,0.8);
+}
+
+/* ====== Карточка статьи ====== */
+.article {
+  max-width: 850px;
+  margin: 50px auto;
+  background: rgba(28, 28, 46, 0.95);
+  padding: 35px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(179,136,255,0.5),
+              0 0 40px rgba(138,43,226,0.4);
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.article h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+  color: #b388ff;
+  font-weight: 700;
+  text-shadow: 0 0 10px rgba(179,136,255,0.9);
+}
+
+.loading {
+  text-align: center;
+  margin-top: 30px;
+  color: #bbbaff;
+  font-style: italic;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RADAR – Анализ финансовых новостей</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Подключаем два шрифта -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <h1>RADAR</h1>
+    <p>Выявление и оценка горячих новостей в финансах</p>
+  </header>
+
+  <section class="query-box">
+    <span class="label">Выдать новость за</span>
+    <input type="number" id="timeValue" placeholder="1" min="1">
+    <select id="timeUnit">
+        <option value="минуту">неделю</option>
+      <option value="часа">час</option>
+      <option value="дней" selected>день</option>
+      
+      
+    </select>
+    <button onclick="analyzeQuery()">Анализировать</button>
+  </section>
+
+  <section id="result"></section>
+
+  <script src="app.js"></script>
+</body>
+</html>
