@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -5,8 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RADAR – Анализ финансовых новостей</title>
   <link rel="stylesheet" href="styles.css">
-  <!-- Подключаем два шрифта -->
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Эффектные шрифты -->
+   <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css2?family=Monoton&family=Orbitron:wght@500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -16,14 +19,12 @@
   </header>
 
   <section class="query-box">
-    <span class="label">Выдать новость за</span>
+    <span class="label">Выдать анализ новостей за</span>
     <input type="number" id="timeValue" placeholder="1" min="1">
     <select id="timeUnit">
-        <option value="минуту">неделю</option>
+      <option value="минуту">неделю</option>
       <option value="часа">час</option>
       <option value="дней" selected>день</option>
-      
-      
     </select>
     <button onclick="analyzeQuery()">Анализировать</button>
   </section>

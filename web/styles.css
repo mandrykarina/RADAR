@@ -1,4 +1,3 @@
-/* ====== Общие ====== */
 body {
   font-family: 'Inter', sans-serif;
   margin: 0;
@@ -19,12 +18,30 @@ header {
 }
 
 header h1 {
-  font-size: 4rem;
+  font-family: 'Monoton', cursive;
+  font-size: 4.5rem;
   margin: 0;
-  font-weight: 800;
-  color: #b388ff;
-  text-shadow: 0 0 20px rgba(179,136,255,0.8),
-               0 0 40px rgba(138,43,226,0.6);
+  font-weight: 400;
+  color: #ff4dff;
+  text-shadow: 0 0 10px #ff4dff,
+               0 0 30px #cc00cc,
+               0 0 60px #990099,
+               0 0 90px rgba(255,77,255,0.8);
+  animation: neonPulse 2s infinite alternate;
+}
+
+@keyframes neonPulse {
+  from {
+    text-shadow: 0 0 5px #ff4dff,
+                 0 0 15px #cc00cc,
+                 0 0 30px #990099;
+  }
+  to {
+    text-shadow: 0 0 20px #ff4dff,
+                 0 0 50px #cc00cc,
+                 0 0 80px #990099,
+                 0 0 120px rgba(255,77,255,0.9);
+  }
 }
 
 header p {
@@ -32,8 +49,10 @@ header p {
   font-size: 1.2rem;
   color: #cfcfff;
   font-weight: 400;
+  font-family: 'Raleway', sans-serif; /* Новый красивый шрифт */
   letter-spacing: 0.5px;
 }
+
 
 /* ====== Форма ====== */
 .query-box {
@@ -51,6 +70,8 @@ header p {
   font-size: 1.2rem;
   font-weight: 600;
   color: #fff;
+  font-family: 'Raleway', sans-serif; /* Новый красивый шрифт */
+  letter-spacing: 0.5px;
 }
 
 .query-box input, .query-box select {
@@ -63,6 +84,7 @@ header p {
   background: #1c1c2e;
   color: #e0e0ff;
   box-shadow: inset 0 0 8px rgba(179,136,255,0.6);
+  font-family: 'Inter', sans-serif;
 }
 
 .query-box select {
@@ -70,45 +92,56 @@ header p {
 }
 
 .query-box button {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1rem;
+  letter-spacing: 1px;
   padding: 12px 24px;
   border: none;
-  background: linear-gradient(135deg, #9c27b0, #7c4dff);
+  background: linear-gradient(135deg, #ff00ff, #7c4dff);
   color: white;
   border-radius: 12px;
-  font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 0 15px rgba(156,39,176,0.6),
-              0 0 30px rgba(124,77,255,0.4);
+  box-shadow: 0 0 15px #ff00ff,
+              0 0 30px rgba(124,77,255,0.6);
 }
 
 .query-box button:hover {
-  background: linear-gradient(135deg, #7c4dff, #9c27b0);
-  transform: translateY(-2px) scale(1.03);
-  box-shadow: 0 0 25px rgba(156,39,176,0.9),
-              0 0 40px rgba(124,77,255,0.8);
+  background: linear-gradient(135deg, #7c4dff, #ff00ff);
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 0 25px #ff00ff,
+              0 0 50px rgba(124,77,255,0.9);
 }
 
 /* ====== Карточка статьи ====== */
 .article {
+  font-family: 'Inter', sans-serif;
   max-width: 850px;
   margin: 50px auto;
   background: rgba(28, 28, 46, 0.95);
   padding: 35px;
   border-radius: 20px;
-  box-shadow: 0 0 20px rgba(179,136,255,0.5),
-              0 0 40px rgba(138,43,226,0.4);
+  box-shadow: 0 0 20px rgba(179,136,255,0.6),
+              0 0 40px rgba(255,0,255,0.4);
   line-height: 1.7;
   font-size: 1.05rem;
+  animation: fadeIn 0.7s ease-in;
 }
 
 .article h2 {
+  font-family: 'Orbitron', sans-serif;
   margin-top: 0;
   font-size: 1.8rem;
-  color: #b388ff;
+  color: #ff66ff;
   font-weight: 700;
-  text-shadow: 0 0 10px rgba(179,136,255,0.9);
+  text-shadow: 0 0 10px #ff4dff,
+               0 0 30px rgba(255,0,255,0.8);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .loading {
