@@ -1,37 +1,27 @@
 {
   "source": "marketaux",
-  "timestamp": "2025-10-04T15:59:42.027219",
+  "timestamp": "2025-10-04T17:14:21.687046",
   "raw_data": {
     "articles": [
       {
-        "title": "Week in review: Stocks jump despite shutdown; we bought more of our newest stocks",
-        "description": "The S&P 500 and Nasdaq logged four positive weeks out of the past five.",
-        "url": "https://www.cnbc.com/2025/10/04/week-in-review-stocks-jump-despite-shutdown-we-bought-more-of-our-newest-stocks.html",
-        "publishedAt": "2025-10-04T15:14:20.000000Z",
+        "title": "Tech Week Singapore 2025: AI, cloud, and security in focus",
+        "description": "WITH three days to go, Singapore is putting artificial intelligence under bright lights. On Oct. 8, Tech Week Singapore 2025 opens at the Sands Expo & Convention Centre, bringing policymakers and big tech together. The program is built around real-world impact under the theme “Connected Futures, Boundless Impact.” On the floor and on stage, cloud, AI infrastructure, cybersecurity, data, digital marketing, and e-commerce will be presented as parts of the same system.",
+        "url": "https://www.manilatimes.net/2025/10/05/business/sunday-business-it/tech-week-singapore-2025-ai-cloud-and-security-in-focus/2194834",
+        "publishedAt": "2025-10-04T16:11:00.000000Z",
         "source": {
-          "name": "cnbc.com"
+          "name": "manilatimes.net"
         },
-        "content": "Day three of the federal government shutdown came and went Friday, with no end in sight. The stock market saw more all-time highs before the rally ran out of st..."
+        "content": "WITH three days to go, Singapore is putting artificial intelligence under bright lights. On Oct. 8, Tech Week Singapore 2025 opens at the Sands Expo & Conventio..."
       },
       {
-        "title": "Stability With Scale",
-        "description": "SBI Large Cap Fund offers stability, scale, and predictability with proven large-cap focus and strong risk-adjusted returns.",
-        "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/stability-with-scale/article70117164.ece",
-        "publishedAt": "2025-10-04T15:13:48.000000Z",
+        "title": "PayPal's PYUSD Stablecoin Tops $1 Billion Market Cap After Spark Partnership",
+        "description": "PayPal (NASDAQ:PYPL) has warmly embraced crypto by enabling purchases via crypto, offering digital wallets, and creating its own stablecoin. That stablecoin, PYUSD, is pegged to the dollar, and it recently exceeded a $1 billion market cap after a ...",
+        "url": "https://finance.yahoo.com/news/paypals-pyusd-stablecoin-tops-1-154543932.html",
+        "publishedAt": "2025-10-04T15:45:43.000000Z",
         "source": {
-          "name": "thehindubusinessline.com"
+          "name": "finance.yahoo.com"
         },
-        "content": "Large-cap funds have long anchored equity investing, though recent years have tested this as mid- and small-cap funds stole the limelight. For retail investors ..."
-      },
-      {
-        "title": "Systematic, Data-Driven Approach",
-        "description": "JioBlackRock Flexi Cap Fund offers systematic active investing with AI, broad stock coverage, and low cost, but lacks live record.",
-        "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/systematic-data-driven-approach/article70115793.ece",
-        "publishedAt": "2025-10-04T15:12:41.000000Z",
-        "source": {
-          "name": "thehindubusinessline.com"
-        },
-        "content": "Jio BlackRock Mutual Fund has opened subscription for its first active equity scheme, the JioBlackRock Flexi Cap Fund, with the new fund offer (NFO) closing on ..."
+        "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\n\nPayPal (NASDAQ:PYPL) has warmly embraced crypto by enablin..."
       }
     ]
   }

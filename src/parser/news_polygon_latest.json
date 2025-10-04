@@ -1,8 +1,437 @@
 {
   "source": "polygon",
-  "timestamp": "2025-10-04T15:59:57.160731",
+  "timestamp": "2025-10-04T17:23:43.669959",
   "raw_data": {
     "articles": [
+      {
+        "id": "f354bb85aaa360e795790eb49452f306f4b7bbc59bc20d9a5aa97b106aa6b154",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Microsoft Stock Investors Are Growing More Concerned",
+        "author": "Parkev Tatevosian",
+        "published_utc": "2025-10-04T16:32:28Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/microsoft-stock-investors-are-growing-more-concern/?source=iedfolrf0000001",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "PLTR",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836299/msft.jpg",
+        "description": "Microsoft is experiencing investor skepticism about its substantial investments in artificial intelligence, with concerns that large capital expenditures might not generate sufficient returns.",
+        "keywords": [
+          "Microsoft",
+          "Artificial Intelligence",
+          "Capital Expenditures",
+          "Investor Concerns"
+        ],
+        "insights": [
+          {
+            "ticker": "MSFT",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Investors are worried about the company's high spending on AI and potential insufficient return on investment"
+          },
+          {
+            "ticker": "NVDA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in passing without specific context about its performance"
+          },
+          {
+            "ticker": "PLTR",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Briefly referenced without detailed analysis"
+          },
+          {
+            "ticker": "GOOG",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          },
+          {
+            "ticker": "GOOGL",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          },
+          {
+            "ticker": "AMZN",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          }
+        ]
+      },
+      {
+        "id": "a34c1afb2f9f9210019d9e2528581e4046a382f87030c046c6e97b620a6dad33",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Prediction: SoundHound AI Could Soar 50% by 2026",
+        "author": "Rick Orford",
+        "published_utc": "2025-10-04T16:30:35Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/prediction-soundhound-ai-could-soar-50-by-2026/?source=iedfolrf0000001",
+        "tickers": [
+          "SOUN",
+          "SOUNW"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836217/soundhound.png",
+        "description": "SoundHound AI is potentially entering a significant growth phase with emerging opportunities in automotive, enterprise, and commerce sectors, indicating promising technological developments.",
+        "keywords": [
+          "AI",
+          "technology",
+          "stock analysis",
+          "automotive",
+          "enterprise solutions"
+        ],
+        "insights": [
+          {
+            "ticker": "SOUN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "The article suggests the company is at an inflection point with potential growth in auto rollouts, enterprise wins, and new commerce channels, indicating optimistic future prospects"
+          },
+          {
+            "ticker": "SOUNW",
+            "sentiment": "positive",
+            "sentiment_reasoning": "The article suggests the company is at an inflection point with potential growth in auto rollouts, enterprise wins, and new commerce channels, indicating optimistic future prospects"
+          }
+        ]
+      },
+      {
+        "id": "6390f8f9436667fa19c2e27e610b15264d4c945f23823cb2387b1885bea1f67c",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "3 Reasons to Buy Uber Stock Like There's No Tomorrow",
+        "author": "Neil Patel",
+        "published_utc": "2025-10-04T16:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/3-reasons-buy-uber-stock-like-theres-no-tomorrow/?source=iedfolrf0000001",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835968/driver-and-passenger-in-car.jpg",
+        "description": "Uber has demonstrated significant growth, transforming from a money-losing operation to a profitable company with a strong network effect. The company dominates the ride-hailing market, has expanded to 15,000 cities, and shows potential for continued expansion through technological innovation and strategic partnerships.",
+        "keywords": [
+          "ride-sharing",
+          "autonomous vehicles",
+          "technology",
+          "network effect",
+          "profitability"
+        ],
+        "insights": [
+          {
+            "ticker": "UBER",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong financial performance with 57% revenue growth, 48% user growth, 82% operating income increase, dominant market position, and potential for future expansion through autonomous vehicle partnerships"
+          },
+          {
+            "ticker": "TSLA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a potential autonomous vehicle competitor, but also seen as a potential partnership opportunity for Uber"
+          }
+        ]
+      },
+      {
+        "id": "d618e208a3d05ef6e6c1eff3b41671b393b9256e30a773a6409551f8fbae65bf",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Bragar Eagel & Squire, P.C. Reminds Investors of VFC, Cytokinetics, Quanex, and RCI to Contact the Firm About their Rights in Filed Class Action Lawsuits",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:56:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161291/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-of-VFC-Cytokinetics-Quanex-and-RCI-to-Contact-the-Firm-About-their-Rights-in-Filed-Class-Action-Lawsuits.html",
+        "tickers": [
+          "VFC",
+          "CYTK",
+          "NX",
+          "RICK"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "Law firm Bragar Eagel & Squire, P.C. has filed class action lawsuits against V.F. Corporation, Cytokinetics, Quanex Building Products, and RCI Hospitality Holdings, alleging misleading statements and potential financial misconduct.",
+        "keywords": [
+          "class action",
+          "securities litigation",
+          "investor rights",
+          "misleading statements"
+        ],
+        "insights": [
+          {
+            "ticker": "VFC",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of concealing adverse facts about turnaround plans and making false statements about Vans brand growth trajectory"
+          },
+          {
+            "ticker": "CYTK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Allegedly misled investors about FDA drug approval timeline by omitting critical risk mitigation strategy"
+          },
+          {
+            "ticker": "NX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of hiding significant equipment maintenance issues and potential integration cost problems"
+          },
+          {
+            "ticker": "RICK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Alleged to have engaged in tax fraud and bribery, understating legal risks to investors"
+          }
+        ]
+      },
+      {
+        "id": "9b081e84e2b748770eb00833d8832dc165e2abbea938709fd4a23a5eecb23b04",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "LANTHEUS CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Reminds Investors to Contact the Firm regarding a Class Action Lawsuit Filed Against Lantheus Holdings, Inc.",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:52:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161290/0/en/LANTHEUS-CLASS-ACTION-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-to-Contact-the-Firm-regarding-a-Class-Action-Lawsuit-Filed-Against-Lantheus-Holdings-Inc.html",
+        "tickers": [
+          "LNTH"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "A class action lawsuit has been filed against Lantheus Holdings, alleging the company made false and misleading statements about Pylarify's competitive position and pricing dynamics during the period of February 26, 2025 to August 5, 2025.",
+        "keywords": [
+          "class action",
+          "lawsuit",
+          "securities",
+          "investor rights",
+          "Pylarify"
+        ],
+        "insights": [
+          {
+            "ticker": "LNTH",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company concealed material adverse facts about Pylarify's competitive position, misrepresented pricing dynamics, and potentially jeopardized the product's revenue and growth potential"
+          }
+        ]
+      },
+      {
+        "id": "a5ef802151f7301e04ab6344246dd91874cf7f4d555c3f3f1b58cd4a437209b5",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Bragar Eagel & Squire, P.C. Urges Investors of Tronox, Savara, Quantum, or Fly-E to Contact the Firm Regarding the Filed Class Action Lawsuits",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:47:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161289/0/en/Bragar-Eagel-Squire-P-C-Urges-Investors-of-Tronox-Savara-Quantum-or-Fly-E-to-Contact-the-Firm-Regarding-the-Filed-Class-Action-Lawsuits.html",
+        "tickers": [
+          "TROX",
+          "SVRA",
+          "QMCO",
+          "FLYE"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "Law firm Bragar Eagel & Squire has filed class action lawsuits against Tronox, Savara, Quantum, and Fly-E, alleging misleading statements and financial misrepresentations that negatively impacted investor interests.",
+        "keywords": [
+          "class action",
+          "securities litigation",
+          "investor rights",
+          "financial misrepresentation"
+        ],
+        "insights": [
+          {
+            "ticker": "TROX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock dropped 38% after revealing declining sales, reduced revenue guidance, and 60% dividend cut"
+          },
+          {
+            "ticker": "SVRA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock fell 31.69% after FDA refused to file their Biologics License Application due to insufficient information"
+          },
+          {
+            "ticker": "QMCO",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of improperly recognizing revenue and potentially needing to restate financial statements"
+          },
+          {
+            "ticker": "FLYE",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock plummeted 87% after revealing significant revenue decline and potential battery safety concerns"
+          }
+        ]
+      },
+      {
+        "id": "39f1d9fe7235fc9ecce0380f7fac23f6d39486b433836cb7aa57363fd7a8ecac",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "NGG Investor News: If You Have Suffered Losses in National Grid plc (NYSE: NGG), You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:31:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161288/673/en/NGG-Investor-News-If-You-Have-Suffered-Losses-in-National-Grid-plc-NYSE-NGG-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+        "tickers": [
+          "NGG"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm is investigating potential securities claims against National Grid following a Reuters report about a Heathrow airport fire caused by power grid maintenance failures, which led to a 5% drop in the company's stock price.",
+        "keywords": [
+          "securities claim",
+          "investor losses",
+          "power grid",
+          "Heathrow fire"
+        ],
+        "insights": [
+          {
+            "ticker": "NGG",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The article highlights a critical report suggesting systemic maintenance failures that caused a significant airport disruption, with an official report noting an unaddressed issue from seven years prior, which negatively impacted the company's stock price and reputation"
+          }
+        ]
+      },
+      {
+        "id": "f2dcf1fd72796ff6cbe92dbd3dde012fb631a1e0fa879368d002c320ccf7eac8",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages V.F. Corporation Investors to Secure Counsel Before Important Deadline in Securities Fraud Lawsuit – VFC",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:29:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161287/673/en/ROSEN-TOP-RANKED-INVESTOR-COUNSEL-Encourages-V-F-Corporation-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Fraud-Lawsuit-VFC.html",
+        "tickers": [
+          "VFC"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts V.F. Corporation investors about a securities fraud lawsuit alleging false statements about the company's turnaround plans, particularly regarding the Vans brand's growth strategy.",
+        "keywords": [
+          "securities fraud",
+          "class action",
+          "investor rights",
+          "turnaround plan"
+        ],
+        "insights": [
+          {
+            "ticker": "VFC",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company disseminated materially false and misleading statements about its turnaround plans, concealing significant reset actions needed for the Vans brand's growth, which suggests potential financial and strategic misrepresentation"
+          }
+        ]
+      },
+      {
+        "id": "a6615e9099c7ee4b46daaa1623afdf39b9f48b0122ff9623c473a817d4fa1908",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SNAP DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Snap Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – SNAP",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:26:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161286/673/en/SNAP-DEADLINE-ROSEN-GLOBAL-INVESTOR-COUNSEL-Encourages-Snap-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-SNAP.html",
+        "tickers": [
+          "SNAP"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts Snap Inc. investors about a securities class action lawsuit regarding potential misrepresentations of advertising revenue and growth expectations during April 29, 2025 to August 5, 2025.",
+        "keywords": [
+          "securities",
+          "class action",
+          "investor rights",
+          "advertising revenue"
+        ],
+        "insights": [
+          {
+            "ticker": "SNAP",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges that Snap created a false impression about its advertising revenue and growth potential, suggesting the company misled investors about its actual financial performance and execution capabilities"
+          }
+        ]
+      },
+      {
+        "id": "89563fd523c4fa10928f4c8577e39620704de6fec9813054a19dae8d67f7e0ba",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Should You Buy Tilray Brands Stock Before Oct. 9?",
+        "author": "David Jagielski",
+        "published_utc": "2025-10-04T15:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/should-you-buy-tilray-brands-stock-before-oct-9/?source=iedfolrf0000001",
+        "tickers": [
+          "TLRY"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835954/a-person-trimming-a-cannabis-plant.jpg",
+        "description": "Tilray Brands has seen a significant stock surge of 300% since July, driven by potential cannabis reform hopes. However, the company faces ongoing financial challenges, including declining cannabis sales and consistent operating losses, making it a highly speculative investment.",
+        "keywords": [
+          "cannabis",
+          "stock market",
+          "earnings",
+          "investment",
+          "marijuana reform"
+        ],
+        "insights": [
+          {
+            "ticker": "TLRY",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Despite recent stock rally, the company shows weak financial performance with declining core cannabis sales, consistent operating losses, minimal organic growth, and uncertain regulatory environment. The stock is considered highly speculative with significant investment risks."
+          }
+        ]
+      },
+      {
+        "id": "651b0eb4f358981fa5e23742b2651f3fc17fa8c8161927ec810b834750de794a",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "JASPER LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Reminds Investors a Jasper Investors to Contact the Firm Regarding Class Action Lawsuit",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:03:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161285/0/en/JASPER-LAWSUIT-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-a-Jasper-Investors-to-Contact-the-Firm-Regarding-Class-Action-Lawsuit.html",
+        "tickers": [
+          "JSPR",
+          "JSPRW"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "A class action lawsuit has been filed against Jasper Therapeutics alleging false and misleading statements about manufacturing controls, product prospects, and potential regulatory and commercial risks.",
+        "keywords": [
+          "class action",
+          "securities lawsuit",
+          "manufacturing compliance",
+          "clinical trials"
+        ],
+        "insights": [
+          {
+            "ticker": "JSPR",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made materially false statements about manufacturing controls, product manufacturing processes, and potential clinical/commercial prospects, suggesting significant operational and compliance issues"
+          },
+          {
+            "ticker": "JSPRW",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made materially false statements about manufacturing controls, product manufacturing processes, and potential clinical/commercial prospects, suggesting significant operational and compliance issues"
+          }
+        ]
+      },
       {
         "id": "e12f5d12bdc71fa742f1b635e6f99744717ce5882dfb19de2d363002f257101d",
         "publisher": {
@@ -1414,319 +1843,6 @@
             "ticker": "TSLA",
             "sentiment": "neutral",
             "sentiment_reasoning": "Used as a comparative benchmark for Rivian's potential growth trajectory, highlighted as a successful EV company with past significant stock performance"
-          }
-        ]
-      },
-      {
-        "id": "73a2bfb297ed5d4f9ed0acf9ab1c16978a87499c69c9c85dc5240ce3188f1d11",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "Shopify and Etsy Just Got a Surprising Boost From ChatGPT",
-        "author": "Jon Quast",
-        "published_utc": "2025-10-04T07:14:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/shopify-and-etsy-just-got-a-surprising-boost-from/?source=iedfolrf0000001",
-        "tickers": [
-          "ETSY",
-          "SHOP"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/835553/chatgptboost.png",
-        "description": "OpenAI launched Instant Checkout, a new feature allowing ChatGPT users to purchase products directly from Etsy and soon Shopify, potentially bringing millions of new buyers to these platforms.",
-        "keywords": [
-          "AI",
-          "e-commerce",
-          "ChatGPT",
-          "Instant Checkout",
-          "agentic AI"
-        ],
-        "insights": [
-          {
-            "ticker": "ETSY",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Partnership with ChatGPT could bring up to 7 million new buyers, potentially reversing stalled user growth and stock decline"
-          },
-          {
-            "ticker": "SHOP",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "Integration seen as strategic but likely more beneficial to Shopify's customers than the company itself"
-          }
-        ]
-      },
-      {
-        "id": "71d5337c2cb354c97e6976db73b44528445673b70fa2e693a2e7f850a576ea11",
-        "publisher": {
-          "name": "Benzinga",
-          "homepage_url": "https://www.benzinga.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-        },
-        "title": "Nvidia Competitor Cerebras Shelves IPO Plans Days After Touching $8 Billion Valuation",
-        "author": "Eva Mathew",
-        "published_utc": "2025-10-04T07:12:29Z",
-        "article_url": "https://www.benzinga.com/markets/ipos/25/10/48031409/nvidia-competitor-cerebras-shelves-ipo-plans-days-after-touching-8-billion-valuation",
-        "tickers": [
-          "NVDA"
-        ],
-        "image_url": "https://cdn.benzinga.com/files/images/story/2025/10/04/Stuttgart--Germany---03-30-2023-Mobile-P.jpeg?width=1200&height=800&fit=crop",
-        "description": "AI chipmaker Cerebras Systems has withdrawn its IPO plans shortly after raising $1.1 billion in funding and achieving an $8.1 billion valuation, despite previously filing for an IPO to compete with Nvidia in the AI chip market.",
-        "keywords": [
-          "AI",
-          "IPO",
-          "chip manufacturing",
-          "funding",
-          "valuation"
-        ],
-        "insights": [
-          {
-            "ticker": "NVDA",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Mentioned as a market leader in AI chips, with potential investments and strong market positioning"
-          }
-        ]
-      },
-      {
-        "id": "dd43736919a51bb4f0c00f062c6efb22dd67424052a1c68f5af7e45c9e2d49ac",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "Why Investing $5,000 in Lockheed Martin Stock Today Might Just Be a Brilliant Move",
-        "author": "Patrick Sanders",
-        "published_utc": "2025-10-04T07:05:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/why-investing-5000-in-lockheed-martin-stock-today/?source=iedfolrf0000001",
-        "tickers": [
-          "LMT"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/831738/gettyimages-184874549.jpg",
-        "description": "Despite a $1.6 billion write-down in Q2, Lockheed Martin remains a strong defense contractor with significant government contracts, consistent dividend growth, and potential for future expansion.",
-        "keywords": [
-          "defense",
-          "military aircraft",
-          "government contracts",
-          "dividends",
-          "investment"
-        ],
-        "insights": [
-          {
-            "ticker": "LMT",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "The company experienced significant program losses and earnings drop in Q2, but maintains a strong backlog of $166.5 billion, continues to win major contracts, has consistent dividend growth, and shows potential for future growth at 4-5% annually"
-          }
-        ]
-      },
-      {
-        "id": "4b8029d2e8a5d4fd19b7e1d0c1220b14f21a6c62449553427a4b3a186d5b65a6",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Skeena Resources Limited Announces the Filing of the Prospectus Supplement in Respect of Its Approximately C$125 Million Bought Deal Financing",
-        "author": "Skeena Resources Limited",
-        "published_utc": "2025-10-04T00:33:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161256/0/en/Skeena-Resources-Limited-Announces-the-Filing-of-the-Prospectus-Supplement-in-Respect-of-Its-Approximately-C-125-Million-Bought-Deal-Financing.html",
-        "tickers": [
-          "SKE"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/54dfd7bf-87ae-4fd9-a4e1-43106365a4f3",
-        "description": "Skeena Resources Limited has filed a prospectus supplement for a bought deal financing of 5,210,000 common shares at C$24.00 per share, raising approximately C$125 million, with potential additional proceeds through an over-allotment option.",
-        "keywords": [
-          "bought deal financing",
-          "prospectus",
-          "capital raise",
-          "mining",
-          "gold",
-          "silver"
-        ],
-        "insights": [
-          {
-            "ticker": "SKE",
-            "sentiment": "positive",
-            "sentiment_reasoning": "The company is raising significant capital (C$125 million) through a bought deal financing, indicating strong market confidence and potential for growth in its Eskay Creek Gold-Silver Project"
-          }
-        ]
-      },
-      {
-        "id": "c65a6ae406080888c6a0d23b34a10506ce7f848275124aed0c83205ebab22a95",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "MOH INVESTOR ALERT: Molina Healthcare, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - RGRD Law",
-        "author": "Robbins Geller Rudman & Dowd Llp",
-        "published_utc": "2025-10-04T00:25:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161255/0/en/MOH-INVESTOR-ALERT-Molina-Healthcare-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit-RGRD-Law.html",
-        "tickers": [
-          "MOH"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/a2879a30-a9fa-457e-97f6-7e2cd2528b7b",
-        "description": "Molina Healthcare faces a class action lawsuit alleging failure to disclose material adverse facts about medical cost trends and financial guidance, resulting in significant stock price decline during February-July 2025.",
-        "keywords": [
-          "securities fraud",
-          "class action lawsuit",
-          "medical cost trends",
-          "earnings guidance"
-        ],
-        "insights": [
-          {
-            "ticker": "MOH",
-            "sentiment": "negative",
-            "sentiment_reasoning": "Stock experienced substantial price drops after revealing lower-than-expected earnings, cutting financial guidance, and disclosing ongoing medical cost pressures across business lines"
-          }
-        ]
-      },
-      {
-        "id": "e5c37dee1322945c11d32ac42e2bd2bb5fbc8b4004296b6602016639ee13584f",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "SACH Pte. Ltd. Announces the Agreement and Plan of Merger with Quantumsphere Acquisition Corporation",
-        "author": "Sach Pte. Ltd.",
-        "published_utc": "2025-10-04T00:15:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161254/0/en/SACH-Pte-Ltd-Announces-the-Agreement-and-Plan-of-Merger-with-Quantumsphere-Acquisition-Corporation.html",
-        "tickers": [
-          "QUMS",
-          "QUMSR",
-          "QUMSU"
-        ],
-        "image_url": "https://www.globenewswire.com/news-release/2025/10/04/3161254/0/en/SACH-Pte-Ltd-Announces-the-Agreement-and-Plan-of-Merger-with-Quantumsphere-Acquisition-Corporation.html",
-        "description": "SACH Pte. Ltd., a Singapore-based technology company, announced a merger with Quantumsphere Acquisition Corporation, a special purpose acquisition company. The transaction values SACH at $300 million and will provide up to $82.8 million in cash proceeds, enabling the company to scale its innovative OMMiii social technology platform.",
-        "keywords": [
-          "merger",
-          "SPAC",
-          "technology",
-          "gamification",
-          "blockchain",
-          "OMMiii"
-        ],
-        "insights": [
-          {
-            "ticker": "QUMS",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Successfully identifies and partners with a high-growth technology company, achieving its SPAC merger objective and providing value to shareholders"
-          },
-          {
-            "ticker": "QUMSR",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Successfully identifies and partners with a high-growth technology company, achieving its SPAC merger objective and providing value to shareholders"
-          },
-          {
-            "ticker": "QUMSU",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Successfully identifies and partners with a high-growth technology company, achieving its SPAC merger objective and providing value to shareholders"
-          }
-        ]
-      },
-      {
-        "id": "c27e0d148834f52c5f822f14a1da2ae07a9c59d7c6c529e8dcba19eb7263bd40",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "ALT FINAL DEADLINE: ROSEN, A GLOBAL AND LEADING FIRM, Encourages Altimmune, Inc. Investors with Losses in Excess of $50K to Secure Counsel Before Important October 6 Deadline in Securities Class Action – ALT",
-        "author": "Rosen Law Firm",
-        "published_utc": "2025-10-04T00:02:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161252/673/en/ALT-FINAL-DEADLINE-ROSEN-A-GLOBAL-AND-LEADING-FIRM-Encourages-Altimmune-Inc-Investors-with-Losses-in-Excess-of-50K-to-Secure-Counsel-Before-Important-October-6-Deadline-in-Securiti.html",
-        "tickers": [
-          "ALT"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
-        "description": "Rosen Law Firm alerts Altimmune investors about a securities class action lawsuit regarding misleading information about the IMPACT Phase 2b MASH trial results, with an October 6, 2025 deadline to join the action.",
-        "keywords": [
-          "securities lawsuit",
-          "class action",
-          "investor rights",
-          "IMPACT trial",
-          "MASH trial"
-        ],
-        "insights": [
-          {
-            "ticker": "ALT",
-            "sentiment": "negative",
-            "sentiment_reasoning": "The lawsuit alleges the company created a false impression about trial results, concealed higher placebo group responses, and failed to meet statistical significance for the primary endpoint, suggesting potential securities fraud"
-          }
-        ]
-      },
-      {
-        "id": "520e34c292abb8c40f83ae5db85882dde7a38636e56b54228e65912e09617448",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Barkly Launches Innovative Safety Dog Leash Designed to Empower Women on Everyday Walks",
-        "author": "Dr. Holly Jordan And Drew Evenson",
-        "published_utc": "2025-10-03T23:18:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/03/3161251/0/en/Barkly-Launches-Innovative-Safety-Dog-Leash-Designed-to-Empower-Women-on-Everyday-Walks.html",
-        "tickers": [
-          "AMZN",
-          "SHOP"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/2d402161-7f85-49f8-ab42-6c9b3423ef23",
-        "description": "Barkly, a women-founded pet tech company, introduces a retractable dog leash with integrated personal safety features like a 130-decibel alarm and strobe light, designed to help women feel more secure while walking their dogs.",
-        "keywords": [
-          "pet tech",
-          "safety",
-          "dog leash",
-          "women's safety",
-          "personal protection"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "Mentioned as a sales platform for the Barkly leash, with no significant impact on the company's performance"
-          },
-          {
-            "ticker": "SHOP",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "Referenced as another sales channel for the product, with no notable additional context"
-          }
-        ]
-      },
-      {
-        "id": "c29bc6a5300e0ba8f649f5b65098cc8a5956e3b1e67689621c62bfefed3a63c1",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Mactores Signs Strategic AWS Partnership to Accelerate Enterprise GenAI Adoption by 80%",
-        "author": "Balkrishna Heroor",
-        "published_utc": "2025-10-03T23:17:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/03/3161250/0/en/Mactores-Signs-Strategic-AWS-Partnership-to-Accelerate-Enterprise-GenAI-Adoption-by-80.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7f1bfed7-7c6d-4908-b744-87b0c9b0a43a",
-        "description": "Mactores has signed a Strategic Collaboration Agreement with AWS and achieved the AWS Generative AI Competency, enabling enterprises to deploy generative AI solutions 80% faster and demonstrating significant ROI across multiple industries.",
-        "keywords": [
-          "generative AI",
-          "AWS",
-          "enterprise transformation",
-          "data modernization",
-          "AI innovation"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Successfully partnered with Mactores to expand generative AI capabilities and support enterprise innovation through native services like Amazon Bedrock and SageMaker"
           }
         ]
       }

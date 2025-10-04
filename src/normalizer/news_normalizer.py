@@ -1,22 +1,30 @@
 import os
 import json
 import hashlib
-from datetime import datetime
-from pathlib import Path
-from typing import Dict, Any, List
-
+import time
+from datetime import datetime, timezone
+from uuid import uuid4
+import requests
+from bs4 import BeautifulSoup
 from newspaper import Article
 from langdetect import detect
-import re
 from collections import Counter
+import re
 
+# === Папки ===
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+PARSER_DIR = os.path.join(BASE_DIR, "parser")
+DATA_DIR = os.path.join(BASE_DIR, "data")
+NORMALIZED_DIR = os.path.join(DATA_DIR, "normalized")
 
-# === Папка для хранения нормализованных файлов ===
-DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "normalized"
-DATA_DIR.mkdir(parents=True, exist_ok=True)
+os.makedirs(PARSER_DIR, exist_ok=True)
+os.makedirs(NORMALIZED_DIR, exist_ok=True)
 
+# === ScraperAPI (для обхода 401/403) ===
+SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY", "")  # можно задать через .env
+SCRAPER_API_URL = f"https://api.scraperapi.com?api_key={SCRAPER_API_KEY}&url=" if SCRAPER_API_KEY else None
 
-# === Карта доверия источников ===
+# === Уровни доверия источникам ===
 SOURCE_CREDIBILITY = {
     "newsdata": 1,
     "marketaux": 2,
@@ -26,135 +34,200 @@ SOURCE_CREDIBILITY = {
 }
 
 
-# === Хелпер: генерация ID ===
-def generate_id(text: str) -> str:
+# === ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ ===
+
+def generate_hash(text: str) -> str:
     return hashlib.md5(text.encode("utf-8")).hexdigest()
 
 
-# === Хелпер: ключевые слова ===
 def extract_keywords(text: str, top_n: int = 10) -> list:
-    if not text:
-        return []
-    words = re.findall(r'\b[a-zA-Z]{4,}\b', text.lower())
-    common = Counter(words).most_common(top_n)
-    return [w for w, _ in common]
+    """Простое выделение ключевых слов по частоте"""
+    text = re.sub(r"[^a-zA-Zа-яА-Я\s]", "", text)
+    words = text.lower().split()
+    stop_words = {"the", "and", "for", "that", "this", "with", "from", "was", "were", "will", "have", "has", "are"}
+    words = [w for w in words if len(w) > 3 and w not in stop_words]
+    return [w for w, _ in Counter(words).most_common(top_n)]
 
 
-# === Шаг 1: загрузка текста по URL ===
-def enrich_news_item(news: dict) -> dict:
-    """Скачивает текст статьи по URL и дополняет поля."""
-    url = news.get("url")
+def enrich_from_url(article: dict) -> dict:
+    """Скачивает текст новости по URL и дополняет недостающие поля"""
+    url = article.get("url")
     if not url:
-        return news
+        return article
 
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/127.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.google.com/",
+        "Connection": "keep-alive",
+    }
+
+    # === 1️⃣ Попытка через newspaper3k ===
     try:
-        article = Article(url)
-        article.download()
-        article.parse()
+        art = Article(url)
+        art.download()
+        art.parse()
 
-        # Контент
-        if not news.get("content") or len(news["content"]) < 100:
-            news["content"] = article.text or None
+        if art.text and len(art.text) > 200:
+            article["content"] = art.text.strip()
+            if art.authors:
+                article["author"] = ", ".join(art.authors)
+            if art.publish_date:
+                article["published_at"] = art.publish_date.isoformat()
 
-        # Автор
-        if not news.get("author"):
-            news["author"] = ", ".join(article.authors) if article.authors else None
+            if not article.get("language"):
+                try:
+                    article["language"] = detect(art.text[:500])
+                except:
+                    pass
 
-        # Язык
-        if not news.get("language"):
-            try:
-                news["language"] = detect(article.text[:500]) if article.text else None
-            except:
-                news["language"] = None
+            article["keywords"] = extract_keywords(art.text)
+            print(f"✅ Newspaper3k успешно извлек {len(art.text)} символов из {url[:60]}...")
+            return article
+    except Exception:
+        pass
 
-        # Категория (простейшая эвристика по URL)
-        if not news.get("category"):
-            if "crypto" in url:
-                news["category"] = "crypto"
-            elif "stock" in url:
-                news["category"] = "stocks"
-            elif "economy" in url:
-                news["category"] = "economy"
+    # === 2️⃣ Попытка вручную через requests + BeautifulSoup ===
+    try:
+        resp = requests.get(url, headers=headers, timeout=10)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.text, "html.parser")
+            paragraphs = [p.get_text() for p in soup.find_all("p")]
+            text = "\n".join(paragraphs).strip()
+            if text:
+                article["content"] = text
+                article["keywords"] = extract_keywords(text)
+                if not article.get("language"):
+                    try:
+                        article["language"] = detect(text[:500])
+                    except:
+                        pass
+                print(f"✅ BeautifulSoup успешно извлек {len(text)} символов из {url[:60]}...")
+                return article
+        elif resp.status_code in (401, 403) and SCRAPER_API_URL:
+            # === 3️⃣ Попытка через ScraperAPI ===
+            print(f"⚠️ 401 для {url[:70]}... → ScraperAPI")
+            scraper_url = SCRAPER_API_URL + url
+            r2 = requests.get(scraper_url, headers=headers, timeout=15)
+            if r2.status_code == 200:
+                soup = BeautifulSoup(r2.text, "html.parser")
+                paragraphs = [p.get_text() for p in soup.find_all("p")]
+                text = "\n".join(paragraphs).strip()
+                if text:
+                    article["content"] = text
+                    article["keywords"] = extract_keywords(text)
+                    if not article.get("language"):
+                        try:
+                            article["language"] = detect(text[:500])
+                        except:
+                            pass
+                    print(f"✅ ScraperAPI успешно получил текст ({len(text)} символов)")
+                    return article
             else:
-                news["category"] = None
-
-        # Ключевые слова
-        if not news.get("keywords"):
-            news["keywords"] = extract_keywords(news.get("content", ""), 8)
-
-        # Обновляем время
-        news["updated_at"] = datetime.utcnow().isoformat()
-
+                print(f"⚠️ ScraperAPI не помог ({r2.status_code}) для {url[:60]}...")
+        else:
+            print(f"⚠️ HTTP {resp.status_code} для {url[:60]}...")
     except Exception as e:
-        print(f"⚠️ Ошибка загрузки {url[:50]}...: {e}")
+        print(f"⚠️ Ошибка при загрузке {url[:60]}...: {e}")
 
-    return news
+    # === 4️⃣ fallback — хотя бы description ===
+    if not article.get("content") and article.get("description"):
+        article["content"] = article["description"]
+
+    return article
 
 
-# === Шаг 2: нормализация новости ===
-def normalize_news_item(item: dict, source_name: str) -> Dict[str, Any]:
-    """Приведение новости к единому формату"""
-    unique_str = f"{item.get('title','')}_{item.get('url','')}_{source_name}"
-    uid = generate_id(unique_str)
+# === ОСНОВНАЯ НОРМАЛИЗАЦИЯ ===
+
+def normalize_article(article: dict, source: str) -> dict:
+    now = datetime.now(timezone.utc).isoformat()
+    uid = article.get("id") or generate_hash(article.get("url", str(uuid4())))
+    content = article.get("content") or article.get("description") or None
 
     normalized = {
         "id": uid,
-        "title": item.get("title") or None,
-        "content": item.get("content") or item.get("description") or None,
-        "url": item.get("url") or None,
-        "source": source_name,
-
-        "author": item.get("author") or None,
-        "language": item.get("language") or None,
-        "country": item.get("country") or None,
-        "category": item.get("category") or None,
-        "tags": item.get("tags") or [],
-        "tickers": item.get("tickers") or [],
-        "keywords": item.get("keywords") or [],
-        "entities": item.get("entities") or [],
-
+        "title": article.get("title") or article.get("headline") or None,
+        "content": content,
+        "url": article.get("url") or None,
+        "source": source,
+        "author": article.get("author") or None,
+        "language": article.get("language") or None,
+        "country": article.get("country") or None,
+        "category": article.get("category") or None,
+        "tags": article.get("tags") or [],
+        "tickers": article.get("tickers") or [],
+        "keywords": article.get("keywords") or [],
+        "entities": article.get("entities") or [],
         "sentiment": None,
         "relevance": None,
         "hotness": None,
-
-        "source_credibility": SOURCE_CREDIBILITY.get(source_name.lower(), None),
+        "source_credibility": SOURCE_CREDIBILITY.get(source.lower(), None),
         "credibility_score": None,
         "is_duplicate": -1,
-
-        "collected_at": datetime.utcnow().isoformat(),
+        "collected_at": now,
         "created_at": None,
         "updated_at": None,
-        "published_at": item.get("published_at") or None
+        "published_at": article.get("published_at") or None,
     }
 
-    return normalized
-
-
-# === Шаг 3: пакетная нормализация и сохранение ===
-def normalize_batch(raw_data: List[dict], source_name: str, save: bool = True):
-    normalized = []
-    for item in raw_data:
-        norm = normalize_news_item(item, source_name)
-        enriched = enrich_news_item(norm)   # <--- ДОПОЛНЕНИЕ
-        normalized.append(enriched)
-
-    if save:
-        out_file = DATA_DIR / f"normalized_{source_name}.json"
-        with open(out_file, "w", encoding="utf-8") as f:
-            json.dump(normalized, f, ensure_ascii=False, indent=2)
-        print(f"✅ Сохранено {len(normalized)} новостей → {out_file}")
+    # Попробуем обогатить недостающие поля по URL
+    if not normalized["content"] or len(normalized["content"]) < 200:
+        normalized = enrich_from_url(normalized)
 
     return normalized
 
 
-# === Для ручного теста ===
+def load_articles(file_path: str) -> list:
+    """Загружает статьи из JSON"""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            if "filtered_articles" in data:
+                return data["filtered_articles"]
+            if "raw_data" in data and isinstance(data["raw_data"], dict):
+                return data["raw_data"].get("articles", [])
+        return []
+    except Exception as e:
+        print(f"⚠️ Ошибка чтения {file_path}: {e}")
+        return []
+
+
+def normalize_file(input_path: str, output_path: str, source: str):
+    """Обрабатывает один JSON-файл"""
+    articles = load_articles(input_path)
+    normalized = [normalize_article(a, source) for a in articles]
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(normalized, f, ensure_ascii=False, indent=2)
+    print(f"💾 [{source}] {len(normalized)} новостей → {output_path}")
+
+
+def main(cycles: int = 2, delay: int = 5):
+    """Запускает циклическую нормализацию"""
+    sources = {
+        "newsapi": ("news_newsapi_latest.json", "newsapi.json"),
+        "polygon": ("news_polygon_latest.json", "polygon.json"),
+        "finnhub": ("news_finnhub_latest.json", "finnhub.json"),
+        "marketaux": ("news_marketaux_latest.json", "marketaux.json"),
+        "newsdata": ("news_newsdata_latest.json", "newsdata.json"),
+    }
+
+    for cycle in range(1, cycles + 1):
+        print(f"\n🔁 ЦИКЛ {cycle}/{cycles} ({datetime.now(timezone.utc).strftime('%H:%M:%S')})")
+        for source, (input_name, output_name) in sources.items():
+            input_path = os.path.join(PARSER_DIR, input_name)
+            output_path = os.path.join(NORMALIZED_DIR, output_name)
+            normalize_file(input_path, output_path, source)
+        if cycle < cycles:
+            print(f"⏳ Пауза {delay} сек...\n")
+            time.sleep(delay)
+    print("\n✅ Все файлы сохранены в data/normalized/")
+
+
 if __name__ == "__main__":
-    # Тестовая новость
-    sample = [{
-        "title": "Test article about Bitcoin market crash",
-        "url": "https://www.cnbc.com/2025/10/04/week-in-review-stocks-jump-despite-shutdown-we-bought-more-of-our-newest-stocks.html",
-        "description": "Market crash expected...",
-        "published_at": "2025-10-04T12:00:00Z"
-    }]
-
-    normalize_batch(sample, "marketaux", save=True)
+    main()
