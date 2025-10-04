@@ -1,0 +1,619 @@
+{
+  "source": "newsapi",
+  "timestamp": "2025-10-04T18:19:45.205793",
+  "raw_data": {
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Bruce Gil",
+        "title": "Dogecoin Has Made It to Wall Street",
+        "description": "The first memecoin ETFs have hit the stock market, legitimizing the once too-online digital currency.",
+        "url": "https://gizmodo.com/dogecoin-has-made-it-to-wall-street-2000663698",
+        "urlToImage": "https://gizmodo.com/app/uploads/2023/06/4b1fc4c2df74bfac346230a21592d2ef.jpg",
+        "publishedAt": "2025-09-25T15:40:25Z",
+        "content": "Are meme coins a legitimate investment now? Well, Wall Street seems to think so. Last week, REX Financial and Osprey Funds launched the first Dogecoin exchange-traded fund (ETF).\r\nBasically, an ETF i… [+3310 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Adam Willems",
+        "title": "The Loophole Turning Stablecoins Into a Trillion-Dollar Fight",
+        "description": "The GENIUS Act barred stablecoin issuers from paying interest. But in allowing cryptocurrency exchanges to offer rewards, it set off a high-stakes clash with the US banking industry.",
+        "url": "https://www.wired.com/story/genius-act-loophole-stablecoins-banks/",
+        "urlToImage": "https://media.wired.com/photos/68af5a88eaf1f91a40368487/191:100/w_1280,c_limit/Banking-Industry-Fliping-Out-Geius-Act-Business-2224974930.jpg",
+        "publishedAt": "2025-09-03T11:00:00Z",
+        "content": "Crypto advocates see things differently. They claim stablecoin rewards create healthy market pressure and could drive big banks to provide more competitive interest rates in an effort to keep custome… [+4278 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Robinhood Is Building a Social Network for Following Market Movers’ Trades",
+        "description": "Robinhood is jumping on the finance influencer bandwagon",
+        "url": "https://gizmodo.com/robinhood-launches-social-feed-stock-trades-2000656886",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/robin_hood-1200x675.jpg",
+        "publishedAt": "2025-09-10T18:24:45Z",
+        "content": "Social media has an unprecedented sway over stock prices.\r\nFinancial influencers give stock advice on YouTube and TikTok. Trading communities on X and Reddit resurrect financially undesirable stocks … [+3701 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Bruce Gil",
+        "title": "Feds Scrutinizing Potential Insider Trading in Major Crypto Deals",
+        "description": "Wall Street regulators are reportedly flagging suspicious trading in the stocks of companies that have announced big crypto bets.",
+        "url": "https://gizmodo.com/feds-scrutinizing-potential-insider-trading-in-major-crypto-deals-2000664439",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/09/An-image-of-Bitcoin-cryptocurrency.jpg",
+        "publishedAt": "2025-09-27T13:00:35Z",
+        "content": "Federal regulators are scrutinizing a growing number of companies that have embraced so-called crypto-treasury strategies this year, after unusual trading patterns in their shares caught their attent… [+2741 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Madison Hoff",
+        "title": "3 big things you need to know about the economy following today's brutal jobs report",
+        "description": "Friday's jobs report shows it's a brutal time to look for work, the US isn't in a recession, and there's a high chance the Fed cuts interest rates.",
+        "url": "https://www.businessinsider.com/jobs-report-what-to-know-about-todays-economy-2025-9",
+        "urlToImage": "https://i.insider.com/68bb159957d362d375e79e2b?width=1200&format=jpeg",
+        "publishedAt": "2025-09-05T17:35:54Z",
+        "content": "Job seekers should consider networking and broadening their job search, experts told Business Insider.Chase Stevens/Las Vegas Review-Journal/Tribune News Service via Getty Images\r\n<ul><li>Today's job… [+5600 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Fueled by AI Hype, Google Becomes Fourth Company to Pass $3 Trillion Market Cap",
+        "description": "AI hype is driving trillion-dollar gains for tech giants. Is there a bubble?",
+        "url": "https://gizmodo.com/fueled-by-ai-hype-google-becomes-fourth-company-to-pass-3-trillion-market-cap-2000658927",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/shutterstock_2673774019-1200x675.jpg",
+        "publishedAt": "2025-09-15T19:25:38Z",
+        "content": "On Monday, Google’s parent company, Alphabet, became the fourth company to reach a market value of $3 trillion, and every member of this exclusive club has something in common.\r\nAll it took was a rat… [+3959 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Hamza Shaban",
+        "title": "Retail spending is starting to look more and more like the labor market",
+        "description": "Spending data shows a resilient consumer powering the economy, but that strength is skewed.",
+        "url": "https://finance.yahoo.com/news/retail-spending-is-starting-to-look-more-and-more-like-the-labor-market-100017692.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZL_1NFdgOU7bzDsMy3ZqmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/3fcc4f80-9326-11f0-9bbe-d4cb9dc42720",
+        "publishedAt": "2025-09-17T10:00:17Z",
+        "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The Chart of the Day\r\n</li><li>What we're watching\r\n</li><li>What we… [+2383 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Faisal Islam: Will the US tech bromance turn around the UK economy?",
+        "description": "In the week the UK hosted Donald Trump for a second state visit, the country also rolled out the red carpet for US tech firms.",
+        "url": "https://www.bbc.com/news/articles/cn4w7wp24llo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dfdf/live/d81c9b60-956e-11f0-bc5b-7ff2de9d2e33.jpg",
+        "publishedAt": "2025-09-19T23:03:55Z",
+        "content": "Faisal IslamEconomics editor\r\nIn the old Camden Town Hall opposite London's St Pancras station, away from the white tie and tails of the pageantry at Windsor Castle, was perhaps the most substantive … [+7560 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Nick Lichtenberg",
+        "title": "Top analyst says you weren’t crazy for thinking the economy felt worse than it looked the last 3 years. The ‘rolling recession’ just ended",
+        "description": "\"Central to our view,\" Morgan Stanley's Mike Wilson argues, \"is the notion that the economy has been much weaker\" than the headline numbers suggest.",
+        "url": "https://finance.yahoo.com/news/top-analyst-says-weren-t-162013016.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/31bWIXEcGI5kar7VbdWFbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/399ce34c191c303e76686f2644d4f898",
+        "publishedAt": "2025-09-08T16:20:13Z",
+        "content": "Economic headlines have been grim recently. The jobs report from July shattered the narrative that the economy of 2025 was strong, revising previous figures downward and revealing something close to … [+5406 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jim Edwards",
+        "title": "The AI boom is unsustainable unless tech spending goes ‘parabolic,’ Deutsche Bank warns: ‘This is highly unlikely’",
+        "description": "“In the absence of tech-related spending, the U.S. would be close to, or in, recession this year,” George Saravelos says.",
+        "url": "https://finance.yahoo.com/news/ai-boom-unsustainable-unless-tech-105907536.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oWubxpPW36wKpjQ2TWlPpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/37b447aeaf9259d9bdeaf69fd8f79d86",
+        "publishedAt": "2025-09-23T10:59:07Z",
+        "content": "<ul><li>The current AI boom is not sustainable, a Deutsche Bank research note warned this morning, because tech spending wont remain parabolic. AI capex is now so massive it is keeping the U.S. out o… [+3968 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Harvard Business Review"
+        },
+        "author": "Christian Catalini",
+        "title": "Does Bitcoin Belong on Your Balance Sheet?",
+        "description": "What leaders need to understand about the asset and the network to right-size their company’s exposure.",
+        "url": "https://hbr.org/2025/09/does-bitcoin-belong-on-your-balance-sheet",
+        "urlToImage": "https://hbr.org/resources/images/article_assets/2025/09/Sep25_05_MarianoPascual.jpg",
+        "publishedAt": "2025-09-05T13:00:00Z",
+        "content": "This year, mainstream corporate finance has become embroiled in a debate that would have felt unthinkable even a few years ago: How much crypto belongs on your balance sheet? Bitcoins latest ralliesn… [+529 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Aldi warns food prices may rise if Budget lifts costs",
+        "description": "Giles Hurley says the chancellor must consider any policies which raise business costs 'very carefully',",
+        "url": "https://www.bbc.com/news/articles/c0r0zr7ed9yo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91c9/live/84c16ae0-9168-11f0-9445-855b018b8b05.png",
+        "publishedAt": "2025-09-15T06:03:05Z",
+        "content": "The boss of Aldi has warned that any measures in the Budget that further increase costs on employers could lead to higher food prices.\r\nGiles Hurley, chief executive of Aldi UK, said the impact of la… [+3620 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance Video",
+        "title": "Bitcoin has more room to run in October: A closer look",
+        "description": "Bitcoin (BTC-USD) rises to kick off October — historically the cryptocurrency's strongest month. Yahoo Finance Senior Reporter Ines Ferré outlines some...",
+        "url": "https://finance.yahoo.com/video/bitcoin-more-room-run-october-203130946.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/miuApA7UCv4GhMB87earzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/47aced40-9fce-11f0-b7eb-96196b9806be",
+        "publishedAt": "2025-10-02T20:31:30Z",
+        "content": "All right, Bitcoin peaking back above $120,000 on Thursday \r\nand there may be more gas in the tank. October is traditionally a strong month for the cryptocurrency and as Fray joins us now to discuss … [+1450 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Dlnews.com"
+        },
+        "author": "Pedro Solimano",
+        "title": "Why Bitcoin whales sold $16bn: ‘It’s not a good signal for the market’",
+        "description": "Large holders, or whales, have sold 147,000 Bitcoin since August. That translates to over $16 billion. \"It's not a good signal for the market,\" said...",
+        "url": "https://www.dlnews.com/articles/markets/bitcoin-whales-sell-16bn-in-troubling-signal-expert-says/",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mglEu3Qa17iQxDxTrlggMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/59bde3be67e7abb47acdf95359a7f5a7",
+        "publishedAt": "2025-09-24T20:37:41Z",
+        "content": "Things dont bode well for Bitcoin.\r\nOver the past month, Bitcoin whales, the term for entities that hold upwards of 1,000 Bitcoin, have sold over $16 billion worth of coins. The selling is happening … [+2439 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Jennifer Sor",
+        "title": "3 reasons the US can't count on wealthy Americans to keep the economy going strong",
+        "description": "Wealthy Americans may not be able to power the economy with spending as much as some people think, BCA Research says.",
+        "url": "https://www.businessinsider.com/recession-outlook-americans-wealthy-consumer-spending-stocks-job-market-2025-9",
+        "urlToImage": "https://i.insider.com/68d6d583cc993f9955cf04fd?width=1200&format=jpeg",
+        "publishedAt": "2025-09-28T09:15:01Z",
+        "content": "Mike Kemp/In Pictures via Getty Images\r\n<ul><li>The US may not be able to rely on rich Americans to power the economy, BCA Research said.</li><li>High-earning households have been a pillar of consume… [+3623 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Ece Yildirim",
+        "title": "Dyson Isn’t Doing So Great",
+        "description": "The company's annual profits were nearly slashed in half despite record sales.",
+        "url": "https://gizmodo.com/dyson-isnt-doing-so-great-2000665674",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/shutterstock_2477406313-1200x675.jpg",
+        "publishedAt": "2025-09-30T19:25:18Z",
+        "content": "Consumer electronics giant Dyson’s profits were nearly halved in 2024, despite selling more products this year than they have ever before.\r\nThe company’s pre-tax profit for 2024 fell to £561 million … [+2872 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Nvidia invests $5 billion into Intel to jointly develop PC and data center chips",
+        "description": "Nvidia is throwing Intel a $5 billion life raft, just weeks after similar stakes from the US government and SoftBank. Nvidia is investing $5 billion in Intel common stock in a collaboration that will see the pair “jointly develop multiple generations of custo…",
+        "url": "https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/0ddda295-ba99-4ec9-b4c1-d5f3e2a83e7_mid.png?quality=90&strip=all&crop=0,3.3725004329696,100,93.254999134061",
+        "publishedAt": "2025-09-18T11:37:15Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe investment will see Intel help Nvidia build x86 chips that integrate RTX GPU chiplets.\r\nThe investment will see Intel help Nvidia build x86 chips that integr… [+3303 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Scott Horsley",
+        "title": "Government shutdown could delay key economic reports at an especially sensitive time",
+        "description": "The federal government shutdown, which began overnight, will delay key reports on the U.S. economy, including a monthly snapshot of the job market, which was scheduled for release on Friday.",
+        "url": "https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F97%2F944ee6b741348e61dd922f0eb86f%2Fgettyimages-2233901120.jpg",
+        "publishedAt": "2025-10-01T11:00:00Z",
+        "content": "A key report on the job market will not be published on Friday, as scheduled, as a result of the government shutdown. That means businesses and policymakers will be left guessing about the strength o… [+2229 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock",
+        "description": "Elon Musk is responding to the unprecedented pay package proposal from Tesla’s board of directors by increasing his stake in the company. Musk bought $1 billion in Tesla stock through an irrevocable trust on September 12th, according to a regulatory filing re…",
+        "url": "https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "publishedAt": "2025-09-15T15:02:42Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIt was Musks first open-market purchase of Tesla shares in over five years.\r\nIt was Musks first open-market purchase of Tesla shares in over five years.\r\nby\r\nAnd… [+3666 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Madison Hoff",
+        "title": "Job seekers at their wits' end are finding a few silver linings",
+        "description": "The US isn't in an official recession, but things have slowed down, including the job market. If you need a job, you could try contract work.",
+        "url": "https://www.businessinsider.com/what-to-do-if-need-job-frustrating-frozen-labor-market-2025-9",
+        "urlToImage": "https://i.insider.com/68bb2f4857d362d375e7a367?width=1200&format=jpeg",
+        "publishedAt": "2025-09-07T08:00:02Z",
+        "content": "Recent job seekers told Business Insider they've tried various techniques to find a job but are still looking.Joe Raedle/Getty Images\r\n<ul><li>Job seekers are feeling pessimistic about the job market… [+7040 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Riley Gutiérrez McDermid",
+        "title": "The Next Two Weeks Could Redefine Tech",
+        "description": "Wall Street is nervously watching the next 14 trading sessions to see if they wind up on the bull or bear side of the street.",
+        "url": "https://gizmodo.com/the-next-two-weeks-could-redefine-tech-2000653033",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/114-days-1200x675.jpg",
+        "publishedAt": "2025-09-04T11:00:52Z",
+        "content": "There’s always something at risk when it comes to investing. But right now, it is definitely smart to keep your eyes open for major market disturbances.\r\nWith the risk-reward balance in the U.S. equi… [+4803 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner",
+        "description": "Electronic Arts has announced it is being acquired and taken private in a $55 billion deal involving Silver Lake, Saudi Arabia’s Public Investment Fund, and Affinity Partners, which is founded and led by Donald Trump’s son-in-law, Jared Kushner. The deal is e…",
+        "url": "https://www.theverge.com/news/787112/electronic-arts-55-billion-privacte-acquisition-pif-silver-lake-affinity-partners",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK098_EA_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-09-29T12:51:27Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSilver Lake, PIF, and Affinity Partners will take the gaming giant private.\r\nSilver Lake, PIF, and Affinity Partners will take the gaming giant private.\r\nby\r\nEmm… [+3083 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Khyathi Dalal",
+        "title": "Ethereum Plummets Below $4,000 As Whale Trader Takes $36 Million Loss",
+        "description": "Ethereum (CRYPTO: ETH) has dipped below the $4,000 mark, triggering massive losses for one whale trader and renewing fears about further downside...",
+        "url": "https://finance.yahoo.com/news/ethereum-plummets-below-4-000-132235572.html",
+        "urlToImage": "https://media.zenfs.com/en/Benzinga/8d05a3c30629bf4523f0857f4bfcb55a",
+        "publishedAt": "2025-09-25T13:22:35Z",
+        "content": "Ethereum (CRYPTO: ETH) has dipped below the $4,000 mark, triggering massive losses for one whale trader and renewing fears about further downside.\r\n<table><tr><td>Cryptocurrency\r\n</td><td>Ticker\r\n</t… [+2191 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "What the Hell Is Going on With Crypto Billionaire Justin Sun and Donald Trump?",
+        "description": "\"I believe that a truly great financial brand must be built on fairness, transparency, and trust—not on unilateral actions that freeze investor assets,\" Sun tweeted Thursday.",
+        "url": "https://gizmodo.com/justin-sun-wlfi-cryptocurrency-donald-trump-2000654420",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/09/justin-sun-2022-1200x675.jpg",
+        "publishedAt": "2025-09-05T17:30:06Z",
+        "content": "World Liberty Financial’s crypto token WLFI started trading on exchanges Monday, which was great news for President Donald Trump’s family, who holds a reported 22.5 billion tokens. The move instantly… [+5425 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Five challenges facing Mark Carney",
+        "description": "From a faltering economy to high expectation from the public, parliament's return could bring challenges for Canada's new PM.",
+        "url": "https://www.bbc.com/news/articles/ckg2700vzrko",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/74ca/live/106d7ec0-8f12-11f0-bf0b-13ad835103b3.jpg",
+        "publishedAt": "2025-09-15T04:59:38Z",
+        "content": "Jessica MurphyBBC News, Toronto\r\nA trade war with its largest economic partner, a faltering economy - and a lot of promises to deliver on. \r\nThese are only some of the high-stake tests facing Canadia… [+6842 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Tanuka De",
+        "title": "Coinbase Trading Above 200-Day SMA: Is it Time to Add the Stock?",
+        "description": "Coinbase trades above its 200-day SMA as growth moves, strong liquidity, and global expansion fuel momentum despite valuation concerns.",
+        "url": "https://finance.yahoo.com/news/coinbase-trading-above-200-day-174000932.html",
+        "urlToImage": "https://media.zenfs.com/en/zacks.com/0545e5b8407d0d6988390ad023279192",
+        "publishedAt": "2025-09-12T17:40:00Z",
+        "content": "Coinbase Global COIN is trading above its 200-day simple moving average (SMA), signaling a bullish trend. The 50-day and 200-day SMAs are key indicators for traders and analysts to identify support a… [+6405 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CoinDesk"
+        },
+        "author": "CoinDesk",
+        "title": "Peter Schiff Challenges Michael Saylor's BTC Strategy",
+        "description": "Euro Capital CEO Peter Schiff is challenging Michael Saylor’s bitcoin strategy over the critical issue of liquidity. The crypto skeptic argued that billions ...",
+        "url": "https://videos.coindesk.com/previews/2gv4H3Y5",
+        "urlToImage": "https://media.zenfs.com/en/coindesk_75/5b36dbdca6457294f41b1dddcc73dfe6",
+        "publishedAt": "2025-09-29T15:49:46Z",
+        "content": "Euro Capital CEO Peter Schiff is challenging Michael Saylors bitcoin strategy over the critical issue of liquidity. The crypto skeptic argued that billions of dollars in gold could be sold with limit… [+187 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Emmalyse Brownstein,Bradley Saacks",
+        "title": "From hedge funds to banks: 3 execs reveal their go-to hiring question",
+        "description": "From a CEO to a CIO, 3 finance executives share the interview questions they use to spot standout candidates",
+        "url": "https://www.businessinsider.com/interview-questions-goldman-sachs-hedge-funds-cintive-michael-lehman-2025-9",
+        "urlToImage": "https://i.insider.com/68bb1f27f9db348adc0af021?width=1200&format=jpeg",
+        "publishedAt": "2025-09-06T09:00:01Z",
+        "content": "Rich Schimel, Sara Naison-Tarajano, and Michael LehmanCitadel; Goldman Sachs; Premiere Wealth Partners\r\n<ul><li>Three leaders in finance shared their favorite interview question to assess use on job … [+4821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinspeaker"
+        },
+        "author": "Vini Barbosa",
+        "title": "BlackRock Continues to Offload Millions in Bitcoin, Ethereum, But for How Long?",
+        "description": "BlackRock is the world’s largest asset manager and the leading institution in Bitcoin BTC $114 077 24h volatility: 1.5% Market cap: $2.27 T Vol. 24h: $52.57 ...",
+        "url": "https://www.coinspeaker.com/blackrock-continues-to-offload-millions-in-bitcoin-ethereum-but-for-how-long/",
+        "urlToImage": "https://media.zenfs.com/en/coinspeaker_us_106/7c9e106f900927bba811c91ecab1924f",
+        "publishedAt": "2025-09-09T22:24:24Z",
+        "content": "BlackRock is the world’s largest asset manager and the leading institution in Bitcoin and Ethereum exchange-traded funds (ETFs), offering via iShares products IBIT and ETHA, traded on Nasdaq. Differe… [+2992 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Emmalyse Brownstein",
+        "title": "From the bench to the boardroom: What sports taught me about winning in finance",
+        "description": "Sara Naison-Tarajano of Goldman Sachs shares how her sports experiences shaped her success in finance, highlighting resilience and a growth mindset.",
+        "url": "https://www.businessinsider.com/goldman-partner-sara-naison-tarajano-basketball-getting-sidelined-wealth-management-2025-9",
+        "urlToImage": "https://i.insider.com/68c47db0f9db348adc0b6ac1?width=1200&format=jpeg",
+        "publishedAt": "2025-09-16T09:00:02Z",
+        "content": "Sara Naison-Tarajano, Goldman Sachs' global head of private wealth management capital markets and the firm's Apex family office business.Goldman Sachs\r\n<ul><li>Sara Naison-Tarajano's sports backgroun… [+4892 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "jsor@businessinsider.com (Jennifer Sor)",
+        "title": "The former CEO of Goldman Sachs thinks that America is due for a crisis — and pinpoints the area of the market he's most worried about",
+        "description": "Ex-Goldman Sachs CEO Lloyd Blankfein pointed to one area of the market that worries him: private credit.",
+        "url": "https://www.businessinsider.com/us-economy-outlook-crisis-debt-private-credit-lloyd-blankfein-goldman-sachs-2025-9",
+        "urlToImage": "https://i.insider.com/68c2fbdcf9db348adc0b4aac?width=1200&format=jpeg",
+        "publishedAt": "2025-09-11T16:54:00Z",
+        "content": "The chief executive who led Goldman Sachs during one of the most turbulent periods in the history of markets thinks the US economy may be due for a crisis. \r\nLloyd Blankfein, the former CEO of Goldma… [+3669 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Market ructions and cabinet reshuffles will help shape Reeves' Budget",
+        "description": "OBR spreadsheets, bond markets, and backbench unhappiness on cuts will all influence the chancellor's thinking.",
+        "url": "https://www.bbc.com/news/articles/cqxzr0jdpngo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d595/live/76d09e90-8a6c-11f0-8ba8-9d1af6a803b3.jpg",
+        "publishedAt": "2025-09-07T00:12:49Z",
+        "content": "Faisal IslamEconomics editor\r\nIt's been a bruising first week back for the government, full of resignations, reshuffles, and ructions in markets. \r\nAll of this will have an impact on what ends up in … [+6139 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Radek Strnad",
+        "title": "SoundHound AI (SOUN) Stock Trades Up, Here Is Why",
+        "description": "Shares of voice AI technology company SoundHound AI (NASDAQ:SOUN) jumped 2.1% in the afternoon session after it received continued positive commentary from...",
+        "url": "https://finance.yahoo.com/news/soundhound-ai-soun-stock-trades-183609103.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MsZyaQR3RskJGzdqTSUsOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/8ed4c6a2243c4010c470b97ef20372b4",
+        "publishedAt": "2025-09-15T18:36:09Z",
+        "content": "Shares of voice AI technology company SoundHound AI (NASDAQ:SOUN) jumped 2.1% in the afternoon session after it received continued positive commentary from Wall Street analysts.\r\nThe move follows sev… [+2458 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Chris Price",
+        "title": "Bank of England raises alarm over new tax raid",
+        "description": "The Bank of England has warned that fears of another Labour tax raid are already impacting the economy as it kept interest rates on hold at 4pc.",
+        "url": "https://uk.finance.yahoo.com/news/bank-england-raises-alarm-over-171911421.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S1UGhu0vhfIcTrP_GrrU7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_818/e5cc1f0e3efbfeec6e6f84132b6617fa",
+        "publishedAt": "2025-09-18T17:19:11Z",
+        "content": "The Bank said it would shrink its balance sheet by £70bn in the year ahead, a slower pace than the £100bn reduction of last year.\r\nIn an open letter to Mr Bailey, Ms Reeves admitted that inflation wa… [+29945 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jason Ma",
+        "title": "This housing data is the ‘most critical economic variable’ for predicting recessions, and it’s now at the lowest level since pandemic shutdowns",
+        "description": "Moody’s own leading economic indicator that uses machine learning has estimated the odds of a recession in the next 12 months are now at 48%.",
+        "url": "https://finance.yahoo.com/news/housing-data-most-critical-economic-190933391.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FKXOadC3YxrIatmFW7ljYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTA-/https://media.zenfs.com/en/fortune_175/7ab500ea89ca8e08b866b832fd57aad5",
+        "publishedAt": "2025-09-14T19:09:33Z",
+        "content": "The housing market is long been seen as an early warning sign for recessions, and one data point in particular has caught the attention of Moodys Analytics chief economist Mark Zandi.\r\nIn social medi… [+2372 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Max Zahn",
+        "title": "Would a government shutdown hurt the economy? Experts explain",
+        "description": "The federal government is hurtling toward a possible shutdown Tuesday night.",
+        "url": "https://abcnews.go.com/Business/government-shutdown-hurt-economy-experts-explain/story?id=126038221",
+        "urlToImage": "https://i.abcnewsfe.com/a/1d3819ec-fa25-4eba-9564-f00394ec028e/capitol-2-gty-gmh-250929_1759169305756_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-09-30T09:13:48Z",
+        "content": "The federal government is hurtling toward a possible shutdown at a delicate moment for the nation's economy, as a hiring slowdown stokes recession fears and inflation proves difficult to fully contai… [+5722 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Kwan Wei Kevin Tan",
+        "title": "A finance veteran says junior bankers aren't doomed — they're actually supercharged by AI",
+        "description": "Sopnendu Mohanty worked at Citi for nearly two decades. He says AI will help junior bankers engage their clients more effectively.",
+        "url": "https://www.businessinsider.com/finance-veteran-ai-will-not-doom-junior-bankers-2025-9",
+        "urlToImage": "https://i.insider.com/68c7d007183847aa39d6c08b?width=1200&format=jpeg",
+        "publishedAt": "2025-09-24T00:30:01Z",
+        "content": "Sopnendu Mohanty, who spent nearly two decades at Citi, told Business Insider that using AI will benefit both banks and their junior hires.GFTN\r\n<ul><li>Sopnendu Mohanty is the cofounder and group CE… [+2588 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Khyathi Dalal",
+        "title": "Bitcoin At $113,000 Waiting For 'Final Rotation' As Analyst Forecasts One Last Dominance Push",
+        "description": "Bitcoin (CRYPTO: BTC) is hovering around $113,000 as analysts expect the crypto king to stage a dominance rebound in the upcoming month. What Happened...",
+        "url": "https://finance.yahoo.com/news/bitcoin-113-000-waiting-final-153729531.html",
+        "urlToImage": "https://media.zenfs.com/en/Benzinga/e4f4ac8bf2b9b87a278f4871be83e9e1",
+        "publishedAt": "2025-09-30T15:37:21Z",
+        "content": "Bitcoin (CRYPTO: BTC) is hovering around $113,000 as analysts expect the crypto king to stage a dominance rebound in the upcoming month.\r\nWhat Happened: Crypto analyst Benjamin Cowenexpects Bitcoin d… [+1868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Coinspeaker"
+        },
+        "author": "Bhushan Akolkar",
+        "title": "$3.38 Billion in Bitcoin Options Expiry Raises Concerns of September Volatility",
+        "description": "With $3.38 billion of Bitcoin BTC $110 973 24h volatility: 0.5% Market cap: $2.21 T Vol. 24h: $58.02 B options expiry on Sept. 5, BTC price is showing some...",
+        "url": "https://www.coinspeaker.com/3-8-billion-in-bitcoin-options-expiry-raises-concerns-of-september-volatility/",
+        "urlToImage": "https://media.zenfs.com/en/coinspeaker_us_106/764f3138d5e0b36231b29ac44c2c3485",
+        "publishedAt": "2025-09-05T10:46:04Z",
+        "content": "With $3.38 billion of Bitcoin options expiry on Sept. 5, BTC price is showing some strength with 1.77% upside. Now it has increased to $112,500 levels. Analysts are expecting September to be a month … [+2102 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Analysis by Stephen Collinson, CNN",
+        "title": "Why a near-fistfight at a MAGA nightspot spells danger for the global economy",
+        "description": "It gives new meaning to the term economic meltdown.",
+        "url": "https://www.cnn.com/2025/09/09/politics/bessent-pulte-trump-lutnick-economy-tariffs-analysis",
+        "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/44dec41f2718136d369712a8ff362868",
+        "publishedAt": "2025-09-09T04:00:08Z",
+        "content": "Treasury Secretary Scott Bessent and Federal Housing Finance Agency chief Bill Pulte. - Getty Images/Shutterstock\r\nIt gives new meaning to the term economic meltdown.\r\nReports that fists almost flew … [+8228 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Simply Wall St",
+        "title": "Undervalued Small Caps With Insider Activity To Explore In September 2025",
+        "description": "As September 2025 unfolds, the U.S. stock market faces renewed volatility with major indices like the S&P 500 and Nasdaq Composite starting the month on a...",
+        "url": "https://finance.yahoo.com/news/undervalued-small-caps-insider-activity-113942474.html",
+        "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/75a6275a0d81fd5fbc47ebecee672e4c",
+        "publishedAt": "2025-09-03T11:39:42Z",
+        "content": "As September 2025 unfolds, the U.S. stock market faces renewed volatility with major indices like the S&amp;P 500 and Nasdaq Composite starting the month on a downward trend amid ongoing tech sector … [+6230 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "jmann@insider.com (Jyoti Mann)",
+        "title": "Klarna chairman sent a stark post-IPO message to CEO: 'We're 10 years behind Revolut'",
+        "description": "Klarna CEO Sebastian Siemiatkowski kicked off its internal conference for employees last week with a rap performance.",
+        "url": "https://www.businessinsider.com/klarna-ceo-chairman-ipo-message-behind-revolut-2025-9",
+        "urlToImage": "https://i.insider.com/68d3c368f9db348adc0c0d9a?width=1200&format=jpeg",
+        "publishedAt": "2025-09-24T13:24:37Z",
+        "content": "At Klarna's big employee conference last week in Stockholm, CEO Sebastian Siemiatkowski swapped spreadsheets for a rap performance and then confronted a sobering reality. Even as Klarna basks in its … [+2318 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jamie Stone",
+        "title": "Top 5 Investments Boomers Should Make in Retirement — Even if It’s Begrudgingly",
+        "description": "Even reluctant investors can benefit from these 5 smart retirement moves. Learn where boomers should put their money to stay secure and grow wealth.",
+        "url": "https://finance.yahoo.com/news/top-5-investments-boomers-retirement-125507372.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oZA1sRTOPPTdOUSP00TZ9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/844449bbcc8ce08bc7dcd42c6b079dc0",
+        "publishedAt": "2025-10-03T12:55:07Z",
+        "content": "While baby boomers may prefer the comfort of traditional savings accounts and certificates of deposit (CDs), financial experts are urging retirees to embrace investments they might otherwise avoid.\r\n… [+2256 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "AJ Dellinger",
+        "title": "Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble",
+        "description": "If not for AI spending, the bank says the US would be in a recession.",
+        "url": "https://gizmodo.com/deutsche-bank-notices-that-a-needle-is-getting-dangerously-close-to-the-ai-bubble-2000663370",
+        "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
+        "publishedAt": "2025-09-25T11:00:00Z",
+        "content": "Money seems to endlessly flow in the AI space, whether it’s Nvidia announcing a $100 billion investment in OpenAI or OpenAI planning to build more massive data centers before the first $500 billion p… [+2714 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Riya Anand",
+        "title": "3 S&P 500 Bank Stocks With More Than 4% Dividend Yield to Watch",
+        "description": "KEY, BOH, and CMA each boast dividend yields above 4%, strong balance sheets, and revenue growth momentum.",
+        "url": "https://finance.yahoo.com/news/3-p-500-bank-stocks-153800985.html",
+        "urlToImage": "https://media.zenfs.com/en/zacks.com/d6db472302789f9a12a5cceaac1bb375",
+        "publishedAt": "2025-09-24T15:38:00Z",
+        "content": "With the Federal Reserve reducing interest rates and economic growth showing resilience, the outlook for the banking sector is turning more favorable. Lower borrowing costs will likely stimulate loan… [+5960 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Brent D. Griffiths",
+        "title": "Powell says AI may be hurting entry-level jobs: 'Hard to say how big it is'",
+        "description": "Jerome Powell says that while the job creation is slowing \"broadly,\" AI is also likely affecting the job market.",
+        "url": "https://www.businessinsider.com/powell-ai-entry-level-jobs-market-2025-9",
+        "urlToImage": "https://i.insider.com/68cb1a46f9db348adc0bacb7?width=1200&format=jpeg",
+        "publishedAt": "2025-09-17T21:04:40Z",
+        "content": "Federal Reserve Chair Jerome Powell said AI is probably having some effect on the entry-level job market.Yasin Ozturk/Anadolu via Getty Images\r\n<ul><li>Jerome Powell said AI is likely affecting the j… [+2208 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jared Blikre",
+        "title": "Forget the September slump: Why this market continues to rally",
+        "description": "Listen and subscribe to Stocks In Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcast. History has investors bracing for a...",
+        "url": "https://finance.yahoo.com/video/forget-september-slump-why-market-100001329.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NO2ZJ7I.MZbY8oxLQQHc.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/39261eb0-8cee-11f0-ab6c-4631c2d19e69",
+        "publishedAt": "2025-09-09T10:00:01Z",
+        "content": "Welcome to Stocks and Translation, Yahoo Finance's video podcast that cuts through the market mayhem, the noisy numbers, and the hyperbole to give you the information you need to make the right trade… [+23976 chars]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1908 @@
+{
+  "source": "polygon",
+  "timestamp": "2025-10-04T18:20:19.063703",
+  "raw_data": {
+    "articles": [
+      {
+        "id": "52ce007a476086e1afae3dbf74b2c73d539aa41ae9c14643251e02e97dbce0a8",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, A LEADING AND RANKED FIRM, Encourages Cytokinetics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – CYTK",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T18:00:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161295/673/en/ROSEN-A-LEADING-AND-RANKED-FIRM-Encourages-Cytokinetics-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CYTK.html",
+        "tickers": [
+          "CYTK"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm is notifying Cytokinetics investors about a potential securities class action lawsuit related to misleading statements about a New Drug Application submission and FDA approval timeline for aficamten.",
+        "keywords": [
+          "securities class action",
+          "FDA",
+          "drug approval",
+          "investor rights"
+        ],
+        "insights": [
+          {
+            "ticker": "CYTK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company made false or misleading statements about its drug approval process, potentially causing investor damages, which suggests significant regulatory and disclosure issues"
+          }
+        ]
+      },
+      {
+        "id": "45dc1c1de619ab56d7a25d7748ec4c205ff25dcd801a98f42769afa8f1514652",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, HIGHLY RANKED INVESTOR COUNSEL, Encourages Fortinet, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – FTNT",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T17:43:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161294/673/en/ROSEN-HIGHLY-RANKED-INVESTOR-COUNSEL-Encourages-Fortinet-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-FTNT.html",
+        "tickers": [
+          "FTNT"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts Fortinet investors about a potential securities class action lawsuit alleging false statements regarding FortiGate unit upgrades and revenue projections during the period of November 8, 2024 to August 6, 2025.",
+        "keywords": [
+          "securities lawsuit",
+          "investor rights",
+          "class action",
+          "FortiGate",
+          "misrepresentation"
+        ],
+        "insights": [
+          {
+            "ticker": "FTNT",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges that Fortinet made materially false and misleading statements about their product refresh cycle, revenue projections, and upgrade potential, suggesting intentional misrepresentation of business performance"
+          }
+        ]
+      },
+      {
+        "id": "ee663f27e41039d3c433870d3d43d578bfb87e7030e40f0b3c435a8a5c4eef13",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "If You Invested $10,000 in Apple Stock 10 Years Ago, Here's How Much You'd Have Today",
+        "author": "Neil Patel",
+        "published_utc": "2025-10-04T17:32:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/invested-10000-apple-stock-10-years-ago-how-much/?source=iedfolrf0000001",
+        "tickers": [
+          "AAPL",
+          "NVDA"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835750/excited-happy-person-waving-fist-and-looking-at-phone.jpg",
+        "description": "An analysis of Apple's stock performance over the past decade reveals an impressive 938% total return, transforming a $10,000 investment into $103,800, significantly outperforming the S&P 500's 321% return.",
+        "keywords": [
+          "Apple",
+          "stock investment",
+          "market performance",
+          "technology",
+          "long-term returns"
+        ],
+        "insights": [
+          {
+            "ticker": "AAPL",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong financial performance with 119% net income growth, successful product diversification, growing services division, and significant stock price appreciation"
+          },
+          {
+            "ticker": "NVDA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Briefly mentioned in context of market valuation, no detailed performance analysis provided"
+          }
+        ]
+      },
+      {
+        "id": "78fc23a99dec1c88ecc2e2613145b6a15e7e9063f43188ee0a3192835ffc8e38",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Where Will Plug Power Be in 25 Years?",
+        "author": "Ryan Vanzo",
+        "published_utc": "2025-10-04T17:14:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/where-will-plug-power-be-in-25-years/?source=iedfolrf0000001",
+        "tickers": [
+          "PLUG"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835703/gettyimages-175165308-1201x802-c248ac3.jpg",
+        "description": "Plug Power, a hydrogen fuel cell company, has struggled to achieve profitability despite promising renewable energy technology. While hydrogen fuel shows potential, significant challenges remain in cost-competitiveness and technology adoption.",
+        "keywords": [
+          "hydrogen fuel",
+          "renewable energy",
+          "fuel cells",
+          "clean technology",
+          "energy innovation"
+        ],
+        "insights": [
+          {
+            "ticker": "PLUG",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Persistent financial challenges, substantial quarterly losses ($227 million), ongoing profitability issues, and uncertainty about long-term technology adoption and market viability"
+          }
+        ]
+      },
+      {
+        "id": "56a344e69b93059f352e09b2e3b0ee0ee0ecea96c0c68da367323c95af936df7",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Beyond Streaming: Netflix's Quiet Moves Into Gaming and Live Experiences",
+        "author": "Lawrence Nga",
+        "published_utc": "2025-10-04T17:14:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/beyond-streaming-netflixs-quiet-moves-into-gaming/?source=iedfolrf0000001",
+        "tickers": [
+          "NFLX",
+          "DIS"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/833183/gettyimages-1670575525-601x401-05d96dc.jpg",
+        "description": "Netflix is diversifying its business model by exploring gaming, immersive venues, live sports, and entertainment, aiming to transform from a pure streaming platform into a broader entertainment ecosystem.",
+        "keywords": [
+          "streaming",
+          "gaming",
+          "live events",
+          "expansion",
+          "entertainment"
+        ],
+        "insights": [
+          {
+            "ticker": "NFLX",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Demonstrating strategic growth by exploring multiple entertainment avenues like gaming, themed venues, live sports, and expanding content formats to increase user engagement and potential revenue streams"
+          },
+          {
+            "ticker": "DIS",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a comparative reference for Netflix's venue strategy"
+          }
+        ]
+      },
+      {
+        "id": "187af7009c119f69915248c420b9956b1c56ab6a8a6f3c7362fd85d98b283db7",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Don't Miss This Major Announcement From The Trade Desk and What It Means for the Long Term",
+        "author": "Daniel Sparks",
+        "published_utc": "2025-10-04T17:07:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/dont-miss-this-major-announcement-from-the-trade-d/?source=iedfolrf0000001",
+        "tickers": [
+          "TTD",
+          "ROKU",
+          "AMZN"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836233/streaming-tv.jpg",
+        "description": "The Trade Desk partnered with DirecTV to co-develop a custom version of its Ventura TV operating system, aiming to create a neutral platform for smart TV advertising with improved transparency and efficiency.",
+        "keywords": [
+          "connected TV",
+          "advertising",
+          "TV operating system",
+          "digital ads",
+          "streaming"
+        ],
+        "insights": [
+          {
+            "ticker": "TTD",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "The partnership offers potential strategic benefits but comes with operational challenges and uncertain near-term financial impact"
+          },
+          {
+            "ticker": "ROKU",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a competitor with potential conflicts of interest in the TV OS and advertising space"
+          },
+          {
+            "ticker": "AMZN",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Viewed as a competing platform with potential conflicts between content ownership and advertising"
+          }
+        ]
+      },
+      {
+        "id": "aca539035bdbdab05c0d4ee20d5d3fba6a3a8ed8cb964fd3d9f52efda3133922",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "2 Problems Rivian, Lucid, and Tesla Will Face After the EV Tax Credit Expiration",
+        "author": "Ryan Vanzo",
+        "published_utc": "2025-10-04T17:05:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/rivian-and-lucid-face-a-harsh-reality-after-the-ev/?source=iedfolrf0000001",
+        "tickers": [
+          "TSLA",
+          "RIVN",
+          "LCID"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835557/gettyimages-152404829-1200x960-4134ff9.jpg",
+        "description": "Electric vehicle manufacturers Tesla, Rivian, and Lucid face significant financial challenges due to the elimination of U.S. tax credits and CAFE regulatory credits by September 30, 2025, which will likely reduce EV demand and eliminate a profitable revenue stream.",
+        "keywords": [
+          "electric vehicles",
+          "EV subsidies",
+          "tax credits",
+          "regulatory credits",
+          "automotive industry"
+        ],
+        "insights": [
+          {
+            "ticker": "TSLA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose billions in annual revenue from regulatory credits and face potential reduced demand due to tax credit elimination"
+          },
+          {
+            "ticker": "RIVN",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose $100 million in credit revenue and struggle with profitability amid reduced EV demand"
+          },
+          {
+            "ticker": "LCID",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose hundreds of millions in profitable credit sales and face challenges with budget vehicle market entry"
+          }
+        ]
+      },
+      {
+        "id": "f354bb85aaa360e795790eb49452f306f4b7bbc59bc20d9a5aa97b106aa6b154",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Microsoft Stock Investors Are Growing More Concerned",
+        "author": "Parkev Tatevosian",
+        "published_utc": "2025-10-04T16:32:28Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/microsoft-stock-investors-are-growing-more-concern/?source=iedfolrf0000001",
+        "tickers": [
+          "MSFT",
+          "NVDA",
+          "PLTR",
+          "GOOG",
+          "GOOGL",
+          "AMZN"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836299/msft.jpg",
+        "description": "Microsoft is experiencing investor skepticism about its substantial investments in artificial intelligence, with concerns that large capital expenditures might not generate sufficient returns.",
+        "keywords": [
+          "Microsoft",
+          "Artificial Intelligence",
+          "Capital Expenditures",
+          "Investor Concerns"
+        ],
+        "insights": [
+          {
+            "ticker": "MSFT",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Investors are worried about the company's high spending on AI and potential insufficient return on investment"
+          },
+          {
+            "ticker": "NVDA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in passing without specific context about its performance"
+          },
+          {
+            "ticker": "PLTR",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Briefly referenced without detailed analysis"
+          },
+          {
+            "ticker": "GOOG",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          },
+          {
+            "ticker": "GOOGL",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          },
+          {
+            "ticker": "AMZN",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in a speculative prediction without substantive discussion"
+          }
+        ]
+      },
+      {
+        "id": "a34c1afb2f9f9210019d9e2528581e4046a382f87030c046c6e97b620a6dad33",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Prediction: SoundHound AI Could Soar 50% by 2026",
+        "author": "Rick Orford",
+        "published_utc": "2025-10-04T16:30:35Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/prediction-soundhound-ai-could-soar-50-by-2026/?source=iedfolrf0000001",
+        "tickers": [
+          "SOUN",
+          "SOUNW"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836217/soundhound.png",
+        "description": "SoundHound AI is potentially entering a significant growth phase with emerging opportunities in automotive, enterprise, and commerce sectors, indicating promising technological developments.",
+        "keywords": [
+          "AI",
+          "technology",
+          "stock analysis",
+          "automotive",
+          "enterprise solutions"
+        ],
+        "insights": [
+          {
+            "ticker": "SOUN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "The article suggests the company is at an inflection point with potential growth in auto rollouts, enterprise wins, and new commerce channels, indicating optimistic future prospects"
+          },
+          {
+            "ticker": "SOUNW",
+            "sentiment": "positive",
+            "sentiment_reasoning": "The article suggests the company is at an inflection point with potential growth in auto rollouts, enterprise wins, and new commerce channels, indicating optimistic future prospects"
+          }
+        ]
+      },
+      {
+        "id": "6390f8f9436667fa19c2e27e610b15264d4c945f23823cb2387b1885bea1f67c",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "3 Reasons to Buy Uber Stock Like There's No Tomorrow",
+        "author": "Neil Patel",
+        "published_utc": "2025-10-04T16:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/3-reasons-buy-uber-stock-like-theres-no-tomorrow/?source=iedfolrf0000001",
+        "tickers": [
+          "UBER",
+          "TSLA"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835968/driver-and-passenger-in-car.jpg",
+        "description": "Uber has demonstrated significant growth, transforming from a money-losing operation to a profitable company with a strong network effect. The company dominates the ride-hailing market, has expanded to 15,000 cities, and shows potential for continued expansion through technological innovation and strategic partnerships.",
+        "keywords": [
+          "ride-sharing",
+          "autonomous vehicles",
+          "technology",
+          "network effect",
+          "profitability"
+        ],
+        "insights": [
+          {
+            "ticker": "UBER",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong financial performance with 57% revenue growth, 48% user growth, 82% operating income increase, dominant market position, and potential for future expansion through autonomous vehicle partnerships"
+          },
+          {
+            "ticker": "TSLA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a potential autonomous vehicle competitor, but also seen as a potential partnership opportunity for Uber"
+          }
+        ]
+      },
+      {
+        "id": "d618e208a3d05ef6e6c1eff3b41671b393b9256e30a773a6409551f8fbae65bf",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Bragar Eagel & Squire, P.C. Reminds Investors of VFC, Cytokinetics, Quanex, and RCI to Contact the Firm About their Rights in Filed Class Action Lawsuits",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:56:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161291/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-of-VFC-Cytokinetics-Quanex-and-RCI-to-Contact-the-Firm-About-their-Rights-in-Filed-Class-Action-Lawsuits.html",
+        "tickers": [
+          "VFC",
+          "CYTK",
+          "NX",
+          "RICK"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "Law firm Bragar Eagel & Squire, P.C. has filed class action lawsuits against V.F. Corporation, Cytokinetics, Quanex Building Products, and RCI Hospitality Holdings, alleging misleading statements and potential financial misconduct.",
+        "keywords": [
+          "class action",
+          "securities litigation",
+          "investor rights",
+          "misleading statements"
+        ],
+        "insights": [
+          {
+            "ticker": "VFC",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of concealing adverse facts about turnaround plans and making false statements about Vans brand growth trajectory"
+          },
+          {
+            "ticker": "CYTK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Allegedly misled investors about FDA drug approval timeline by omitting critical risk mitigation strategy"
+          },
+          {
+            "ticker": "NX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of hiding significant equipment maintenance issues and potential integration cost problems"
+          },
+          {
+            "ticker": "RICK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Alleged to have engaged in tax fraud and bribery, understating legal risks to investors"
+          }
+        ]
+      },
+      {
+        "id": "9b081e84e2b748770eb00833d8832dc165e2abbea938709fd4a23a5eecb23b04",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "LANTHEUS CLASS ACTION ALERT: Bragar Eagel & Squire, P.C. Reminds Investors to Contact the Firm regarding a Class Action Lawsuit Filed Against Lantheus Holdings, Inc.",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:52:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161290/0/en/LANTHEUS-CLASS-ACTION-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-to-Contact-the-Firm-regarding-a-Class-Action-Lawsuit-Filed-Against-Lantheus-Holdings-Inc.html",
+        "tickers": [
+          "LNTH"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "A class action lawsuit has been filed against Lantheus Holdings, alleging the company made false and misleading statements about Pylarify's competitive position and pricing dynamics during the period of February 26, 2025 to August 5, 2025.",
+        "keywords": [
+          "class action",
+          "lawsuit",
+          "securities",
+          "investor rights",
+          "Pylarify"
+        ],
+        "insights": [
+          {
+            "ticker": "LNTH",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company concealed material adverse facts about Pylarify's competitive position, misrepresented pricing dynamics, and potentially jeopardized the product's revenue and growth potential"
+          }
+        ]
+      },
+      {
+        "id": "a5ef802151f7301e04ab6344246dd91874cf7f4d555c3f3f1b58cd4a437209b5",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Bragar Eagel & Squire, P.C. Urges Investors of Tronox, Savara, Quantum, or Fly-E to Contact the Firm Regarding the Filed Class Action Lawsuits",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:47:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161289/0/en/Bragar-Eagel-Squire-P-C-Urges-Investors-of-Tronox-Savara-Quantum-or-Fly-E-to-Contact-the-Firm-Regarding-the-Filed-Class-Action-Lawsuits.html",
+        "tickers": [
+          "TROX",
+          "SVRA",
+          "QMCO",
+          "FLYE"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "Law firm Bragar Eagel & Squire has filed class action lawsuits against Tronox, Savara, Quantum, and Fly-E, alleging misleading statements and financial misrepresentations that negatively impacted investor interests.",
+        "keywords": [
+          "class action",
+          "securities litigation",
+          "investor rights",
+          "financial misrepresentation"
+        ],
+        "insights": [
+          {
+            "ticker": "TROX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock dropped 38% after revealing declining sales, reduced revenue guidance, and 60% dividend cut"
+          },
+          {
+            "ticker": "SVRA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock fell 31.69% after FDA refused to file their Biologics License Application due to insufficient information"
+          },
+          {
+            "ticker": "QMCO",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of improperly recognizing revenue and potentially needing to restate financial statements"
+          },
+          {
+            "ticker": "FLYE",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock plummeted 87% after revealing significant revenue decline and potential battery safety concerns"
+          }
+        ]
+      },
+      {
+        "id": "39f1d9fe7235fc9ecce0380f7fac23f6d39486b433836cb7aa57363fd7a8ecac",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "NGG Investor News: If You Have Suffered Losses in National Grid plc (NYSE: NGG), You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:31:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161288/673/en/NGG-Investor-News-If-You-Have-Suffered-Losses-in-National-Grid-plc-NYSE-NGG-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+        "tickers": [
+          "NGG"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm is investigating potential securities claims against National Grid following a Reuters report about a Heathrow airport fire caused by power grid maintenance failures, which led to a 5% drop in the company's stock price.",
+        "keywords": [
+          "securities claim",
+          "investor losses",
+          "power grid",
+          "Heathrow fire"
+        ],
+        "insights": [
+          {
+            "ticker": "NGG",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The article highlights a critical report suggesting systemic maintenance failures that caused a significant airport disruption, with an official report noting an unaddressed issue from seven years prior, which negatively impacted the company's stock price and reputation"
+          }
+        ]
+      },
+      {
+        "id": "f2dcf1fd72796ff6cbe92dbd3dde012fb631a1e0fa879368d002c320ccf7eac8",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages V.F. Corporation Investors to Secure Counsel Before Important Deadline in Securities Fraud Lawsuit – VFC",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:29:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161287/673/en/ROSEN-TOP-RANKED-INVESTOR-COUNSEL-Encourages-V-F-Corporation-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Fraud-Lawsuit-VFC.html",
+        "tickers": [
+          "VFC"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts V.F. Corporation investors about a securities fraud lawsuit alleging false statements about the company's turnaround plans, particularly regarding the Vans brand's growth strategy.",
+        "keywords": [
+          "securities fraud",
+          "class action",
+          "investor rights",
+          "turnaround plan"
+        ],
+        "insights": [
+          {
+            "ticker": "VFC",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company disseminated materially false and misleading statements about its turnaround plans, concealing significant reset actions needed for the Vans brand's growth, which suggests potential financial and strategic misrepresentation"
+          }
+        ]
+      },
+      {
+        "id": "a6615e9099c7ee4b46daaa1623afdf39b9f48b0122ff9623c473a817d4fa1908",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SNAP DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Snap Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – SNAP",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T15:26:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161286/673/en/SNAP-DEADLINE-ROSEN-GLOBAL-INVESTOR-COUNSEL-Encourages-Snap-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-SNAP.html",
+        "tickers": [
+          "SNAP"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts Snap Inc. investors about a securities class action lawsuit regarding potential misrepresentations of advertising revenue and growth expectations during April 29, 2025 to August 5, 2025.",
+        "keywords": [
+          "securities",
+          "class action",
+          "investor rights",
+          "advertising revenue"
+        ],
+        "insights": [
+          {
+            "ticker": "SNAP",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges that Snap created a false impression about its advertising revenue and growth potential, suggesting the company misled investors about its actual financial performance and execution capabilities"
+          }
+        ]
+      },
+      {
+        "id": "89563fd523c4fa10928f4c8577e39620704de6fec9813054a19dae8d67f7e0ba",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Should You Buy Tilray Brands Stock Before Oct. 9?",
+        "author": "David Jagielski",
+        "published_utc": "2025-10-04T15:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/should-you-buy-tilray-brands-stock-before-oct-9/?source=iedfolrf0000001",
+        "tickers": [
+          "TLRY"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835954/a-person-trimming-a-cannabis-plant.jpg",
+        "description": "Tilray Brands has seen a significant stock surge of 300% since July, driven by potential cannabis reform hopes. However, the company faces ongoing financial challenges, including declining cannabis sales and consistent operating losses, making it a highly speculative investment.",
+        "keywords": [
+          "cannabis",
+          "stock market",
+          "earnings",
+          "investment",
+          "marijuana reform"
+        ],
+        "insights": [
+          {
+            "ticker": "TLRY",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Despite recent stock rally, the company shows weak financial performance with declining core cannabis sales, consistent operating losses, minimal organic growth, and uncertain regulatory environment. The stock is considered highly speculative with significant investment risks."
+          }
+        ]
+      },
+      {
+        "id": "651b0eb4f358981fa5e23742b2651f3fc17fa8c8161927ec810b834750de794a",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "JASPER LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Reminds Investors a Jasper Investors to Contact the Firm Regarding Class Action Lawsuit",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:03:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161285/0/en/JASPER-LAWSUIT-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Investors-a-Jasper-Investors-to-Contact-the-Firm-Regarding-Class-Action-Lawsuit.html",
+        "tickers": [
+          "JSPR",
+          "JSPRW"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "A class action lawsuit has been filed against Jasper Therapeutics alleging false and misleading statements about manufacturing controls, product prospects, and potential regulatory and commercial risks.",
+        "keywords": [
+          "class action",
+          "securities lawsuit",
+          "manufacturing compliance",
+          "clinical trials"
+        ],
+        "insights": [
+          {
+            "ticker": "JSPR",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made materially false statements about manufacturing controls, product manufacturing processes, and potential clinical/commercial prospects, suggesting significant operational and compliance issues"
+          },
+          {
+            "ticker": "JSPRW",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made materially false statements about manufacturing controls, product manufacturing processes, and potential clinical/commercial prospects, suggesting significant operational and compliance issues"
+          }
+        ]
+      },
+      {
+        "id": "e12f5d12bdc71fa742f1b635e6f99744717ce5882dfb19de2d363002f257101d",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "FORTINET LAWSUIT ALERT: Bragar Eagel & Squire, P.C. Reminds Fortinet, Inc. Investors to Contact the Firm About Their Rights in Class Action Lawsuit",
+        "author": "Bragar Eagel & Squire, P.C.",
+        "published_utc": "2025-10-04T15:00:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161283/0/en/FORTINET-LAWSUIT-ALERT-Bragar-Eagel-Squire-P-C-Reminds-Fortinet-Inc-Investors-to-Contact-the-Firm-About-Their-Rights-in-Class-Action-Lawsuit.html",
+        "tickers": [
+          "FTNT"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+        "description": "A class action lawsuit has been filed against Fortinet alleging misrepresentation of product refresh cycle and firewall upgrade potential, resulting in significant stock price decline after earnings call revelations.",
+        "keywords": [
+          "lawsuit",
+          "class action",
+          "securities",
+          "stock",
+          "firewalls",
+          "upgrade cycle"
+        ],
+        "insights": [
+          {
+            "ticker": "FTNT",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock price fell over 22% after earnings call revealed limitations in product refresh cycle, potential misrepresentation of upgrade potential, and concerns about business impact of older product lines"
+          }
+        ]
+      },
+      {
+        "id": "c49a66b9bda90318c74e498c7698b27ce446dcfe148422f20dcb0a16167e6280",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Musk Could Spell the End of Big Telecom",
+        "author": "James Altucher",
+        "published_utc": "2025-10-04T15:00:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161284/0/en/Musk-Could-Spell-the-End-of-Big-Telecom.html",
+        "tickers": [
+          "T",
+          "TBB",
+          "TpA",
+          "TpC",
+          "VZ",
+          "TMUS",
+          "TMUSI",
+          "TMUSL",
+          "TMUSZ",
+          "CCZ",
+          "CMCSA"
+        ],
+        "image_url": "https://www.globenewswire.com/news-release/2025/10/04/3161284/0/en/Musk-Could-Spell-the-End-of-Big-Telecom.html",
+        "description": "Starlink, Elon Musk's satellite internet system, is poised to revolutionize global internet access by offering fast, reliable connectivity worldwide, potentially challenging traditional telecom providers and bringing internet to billions of unconnected people.",
+        "keywords": [
+          "Starlink",
+          "satellite internet",
+          "telecom disruption",
+          "global connectivity"
+        ],
+        "insights": [
+          {
+            "ticker": "T",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a legacy provider being directly challenged by Starlink's innovative technology"
+          },
+          {
+            "ticker": "TBB",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a legacy provider being directly challenged by Starlink's innovative technology"
+          },
+          {
+            "ticker": "TpA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a legacy provider being directly challenged by Starlink's innovative technology"
+          },
+          {
+            "ticker": "TpC",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a legacy provider being directly challenged by Starlink's innovative technology"
+          },
+          {
+            "ticker": "VZ",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Threatened by Starlink's potential to undermine traditional wireless network infrastructure"
+          },
+          {
+            "ticker": "TMUS",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Identified as part of the telecom industry facing potential disruption from satellite internet"
+          },
+          {
+            "ticker": "TMUSI",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Identified as part of the telecom industry facing potential disruption from satellite internet"
+          },
+          {
+            "ticker": "TMUSL",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Identified as part of the telecom industry facing potential disruption from satellite internet"
+          },
+          {
+            "ticker": "TMUSZ",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Identified as part of the telecom industry facing potential disruption from satellite internet"
+          },
+          {
+            "ticker": "CCZ",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Criticized for raising service costs at rates far exceeding inflation"
+          },
+          {
+            "ticker": "CMCSA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Criticized for raising service costs at rates far exceeding inflation"
+          }
+        ]
+      },
+      {
+        "id": "96e3b64ce42035a9b61bfb6e9fab66265879cbbdafe921a2a025f3eef21e74e8",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Important Notice to Long-Term Shareholders of Elevance Health, Inc. (NYSE: ELV); Humana Inc. (NYSE: HUM); Maison Solutions Inc. (NASDAQ: MSS); and Vestis Corp. (NYSE: VSTS): Grabar Law Office is Investigating Claims on Your Behalf",
+        "author": "Joshua H. Grabar",
+        "published_utc": "2025-10-04T14:27:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161282/0/en/Important-Notice-to-Long-Term-Shareholders-of-Elevance-Health-Inc-NYSE-ELV-Humana-Inc-NYSE-HUM-Maison-Solutions-Inc-NASDAQ-MSS-and-Vestis-Corp-NYSE-VSTS-Grabar-Law-Office-is-Invest.html",
+        "tickers": [
+          "ELV",
+          "HUM",
+          "MSS",
+          "VSTS"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/6c801a52-ae63-4c0d-a62c-5713903ad05d",
+        "description": "Grabar Law Office is investigating potential securities fraud and fiduciary duty breaches for several companies, including Elevance Health, Humana, Maison Solutions, and Vestis Corp, alleging misleading financial statements and undisclosed material risks.",
+        "keywords": [
+          "securities fraud",
+          "shareholder investigation",
+          "fiduciary duty",
+          "class action lawsuit"
+        ],
+        "insights": [
+          {
+            "ticker": "ELV",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Allegations of misleading statements about cost monitoring and premium rate negotiations, particularly regarding Medicaid patient costs"
+          },
+          {
+            "ticker": "HUM",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Accused of downplaying pressures on adjusted EPS from increased medical costs and healthcare procedure utilization"
+          },
+          {
+            "ticker": "MSS",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Allegations of failing to disclose related party transactions and potential fraudulent activities involving CEO and visa program"
+          },
+          {
+            "ticker": "VSTS",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Claims of underinvestment, outdated facilities, and underperforming sales force leading to significant stock price decline"
+          }
+        ]
+      },
+      {
+        "id": "6f9331d7176a379eb40f195c3d480e1fdd2164a82d3acd95c6c39b4fe86ecdb0",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Experts: Rivian's Sales May Be \"Dreadful\" in 2026",
+        "author": "Ryan Vanzo",
+        "published_utc": "2025-10-04T14:25:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/experts-rivians-sales-may-be-dreadful-in-2026/?source=iedfolrf0000001",
+        "tickers": [
+          "RIVN",
+          "TSLA",
+          "LCID"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836125/line-of-_rivian-trucks-in-parking-lot_rivian.jpg",
+        "description": "Rivian faces potential demand challenges in 2026 due to the elimination of federal EV tax credits, which could depress sales and make their vehicles less affordable. The company plans to launch its R2 model at around $45,000, potentially mitigating some market challenges.",
+        "keywords": [
+          "Electric Vehicles",
+          "EV Market",
+          "Tax Credits",
+          "Rivian",
+          "Tesla"
+        ],
+        "insights": [
+          {
+            "ticker": "RIVN",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Potential sales slowdown due to loss of federal tax credits, increased vehicle costs, and expected demand overhang in 2026"
+          },
+          {
+            "ticker": "TSLA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a historical reference for EV sales growth, no direct negative or positive implications discussed"
+          },
+          {
+            "ticker": "LCID",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Explicitly noted as potentially suffering more than Rivian from tax credit elimination"
+          }
+        ]
+      },
+      {
+        "id": "e8ba7502d7fd6690f179b28b5afaa1b89d516045f61a832d1a52c3cadb4a247e",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "SoFi Stock: Buy or Sell?",
+        "author": "Travis Hoium",
+        "published_utc": "2025-10-04T14:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/sofi-stock-buy-or-sell/?source=iedfolrf0000001",
+        "tickers": [
+          "SOFI"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835284/copy-of-tmf-yt-thumbnails-59.png",
+        "description": "SoFi stock has experienced significant growth in 2025, with potential for further expansion due to fundamental changes in its risk profile and growth trajectory.",
+        "keywords": [
+          "SoFi",
+          "high-growth stocks",
+          "stock performance",
+          "investing"
+        ],
+        "insights": [
+          {
+            "ticker": "SOFI",
+            "sentiment": "positive",
+            "sentiment_reasoning": "The article suggests the stock has been 'on fire' in 2025, indicating strong market performance and potential future growth opportunities. The company's fundamental changes are viewed as potentially beneficial for investors."
+          }
+        ]
+      },
+      {
+        "id": "5f985cdcd8fa6f5c9b644321487a651e234b9f069b649b63bdc7dd24ddefe278",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Could First Majestic Silver's $12 Stock Be a Backdoor AI Play?",
+        "author": "William Dahl",
+        "published_utc": "2025-10-04T14:10:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/first-majestic-silvers-12-stock-be-an-ai-play/?source=iedfolrf0000001",
+        "tickers": [
+          "AG",
+          "PAAS",
+          "HL",
+          "HLpB"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835490/gettyimages-134059508.jpg",
+        "description": "The AI revolution is driving massive demand for silver in nuclear reactors, solar panels, and electric vehicles, creating significant opportunities for silver mining companies like First Majestic Silver.",
+        "keywords": [
+          "AI",
+          "silver",
+          "nuclear energy",
+          "renewable energy",
+          "electric vehicles"
+        ],
+        "insights": [
+          {
+            "ticker": "AG",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Company has seen 100% stock price increase, record quarterly performance, strong cash position, and is well-positioned to benefit from increasing silver demand driven by AI and clean energy technologies"
+          },
+          {
+            "ticker": "PAAS",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned briefly in comparison to First Majestic's financial metrics, no specific performance details provided"
+          },
+          {
+            "ticker": "HL",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned briefly in comparison to First Majestic's financial metrics, no specific performance details provided"
+          },
+          {
+            "ticker": "HLpB",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned briefly in comparison to First Majestic's financial metrics, no specific performance details provided"
+          }
+        ]
+      },
+      {
+        "id": "8c6ae3ed637dd45f025bc24c985abc645f51f2f76e8a0bae98bad2992dbc3cbf",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Tesla Deliveries Soar in Q3. But What Will Q4 Look Like?",
+        "author": "Daniel Sparks",
+        "published_utc": "2025-10-04T14:05:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/tesla-deliveries-soar-in-q3-but-what-will-q4-look/?source=iedfolrf0000001",
+        "tickers": [
+          "TSLA",
+          "RIVN",
+          "LCID"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836188/4-teslas-in-a-line-at-a-charging-station.png",
+        "description": "Tesla reported a 29% quarter-over-quarter increase in Q3 deliveries, reaching 497,099 vehicles, driven by consumers rushing to purchase before a $7,500 clean-vehicle credit expired. While the surge is impressive, Q4 might see a slowdown, with long-term growth potential tied to more affordable models and autonomous driving technology.",
+        "keywords": [
+          "Tesla",
+          "electric vehicles",
+          "deliveries",
+          "federal tax credit",
+          "autonomous driving"
+        ],
+        "insights": [
+          {
+            "ticker": "TSLA",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong Q3 deliveries (7% year-over-year growth), potential for future growth with affordable models and autonomous technology, despite potential Q4 slowdown"
+          },
+          {
+            "ticker": "RIVN",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "No specific performance details mentioned in the article"
+          },
+          {
+            "ticker": "LCID",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "No specific performance details mentioned in the article"
+          }
+        ]
+      },
+      {
+        "id": "24995d95cff4a56e72922550db84ef8cface4bec6b6a00097dbfbd4f7da5bc26",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SHAREHOLDER RIGHTS ALERT: Halper Sadeh LLC Investigates WOW, FCCO, SMLR on Behalf of Shareholders",
+        "author": "Halper Sadeh Llc",
+        "published_utc": "2025-10-04T13:41:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161278/0/en/SHAREHOLDER-RIGHTS-ALERT-Halper-Sadeh-LLC-Investigates-WOW-FCCO-SMLR-on-Behalf-of-Shareholders.html",
+        "tickers": [
+          "WOW",
+          "FCCO",
+          "SMLR"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/54cbaf70-16fe-4ac1-8956-c2d21ff8ae45",
+        "description": "Law firm Halper Sadeh LLC is investigating potential securities law violations and fiduciary duty breaches for several companies involving mergers and sales transactions.",
+        "keywords": [
+          "shareholder rights",
+          "securities law",
+          "mergers",
+          "acquisitions"
+        ],
+        "insights": [
+          {
+            "ticker": "WOW",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Potential sale to DigitalBridge Investments and Crestview Partners at $5.20 per share under investigation"
+          },
+          {
+            "ticker": "FCCO",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Merger with Signature Bank of Georgia being investigated for potential legal issues"
+          },
+          {
+            "ticker": "SMLR",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Proposed sale to Strive, Inc. at 21.05 Class A common shares per share under legal review"
+          }
+        ]
+      },
+      {
+        "id": "709f4b4c29138720a91245155ddca965c1fd31f618c532eb36716c481ed14b2e",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SHAREHOLDER RIGHTS ALERT: Halper Sadeh LLC Investigates ODP and AL on Behalf of Shareholders",
+        "author": "Halper Sadeh Llc",
+        "published_utc": "2025-10-04T13:39:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161277/0/en/SHAREHOLDER-RIGHTS-ALERT-Halper-Sadeh-LLC-Investigates-ODP-and-AL-on-Behalf-of-Shareholders.html",
+        "tickers": [
+          "ODP",
+          "AL"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/54cbaf70-16fe-4ac1-8956-c2d21ff8ae45",
+        "description": "Law firm Halper Sadeh LLC is investigating potential securities law violations and fiduciary duty breaches for several companies undergoing significant corporate transactions, including ODP Corporation and Air Lease Corporation.",
+        "keywords": [
+          "shareholder rights",
+          "securities investigation",
+          "corporate transactions",
+          "mergers",
+          "acquisitions"
+        ],
+        "insights": [
+          {
+            "ticker": "ODP",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Potential sale to Atlas Holdings affiliate at $28.00 per share, with ongoing investigation suggesting possible legal scrutiny of transaction terms"
+          },
+          {
+            "ticker": "AL",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Proposed sale to multiple entities (Sumitomo Corporation, SMBC Aviation Capital, Apollo, Brookfield) at $65.00 per share, with law firm investigating potential irregularities"
+          }
+        ]
+      },
+      {
+        "id": "ed3d0d3d59e6621431db92d422e1dad4c8a42a742a885a46d3cef158cadbf413",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates VECO, BRNS, VRNT on Behalf of Shareholders",
+        "author": "Halper Sadeh Llc",
+        "published_utc": "2025-10-04T13:37:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161276/0/en/SHAREHOLDER-INVESTIGATION-Halper-Sadeh-LLC-Investigates-VECO-BRNS-VRNT-on-Behalf-of-Shareholders.html",
+        "tickers": [
+          "VECO",
+          "BRNS",
+          "VRNT"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/54cbaf70-16fe-4ac1-8956-c2d21ff8ae45",
+        "description": "Law firm Halper Sadeh LLC is investigating potential securities law violations and fiduciary duty breaches for several companies involving mergers and acquisitions.",
+        "keywords": [
+          "shareholder rights",
+          "securities investigation",
+          "mergers",
+          "acquisitions"
+        ],
+        "insights": [
+          {
+            "ticker": "VECO",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Potential sale to Axcelis Technologies with fixed share exchange ratio, suggesting routine corporate transaction"
+          },
+          {
+            "ticker": "BRNS",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Merger with Clywedog Therapeutics with standard share conversion terms"
+          },
+          {
+            "ticker": "VRNT",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Proposed sale to Thoma Bravo at a defined cash price, indicating a standard acquisition process"
+          }
+        ]
+      },
+      {
+        "id": "337c7155a80ff14ec947099a45176d61af909273677082c6eaa3541534f8946d",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates PRO, EA, MRUS on Behalf of Shareholders",
+        "author": "Halper Sadeh Llc",
+        "published_utc": "2025-10-04T13:33:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161275/0/en/SHAREHOLDER-INVESTIGATION-Halper-Sadeh-LLC-Investigates-PRO-EA-MRUS-on-Behalf-of-Shareholders.html",
+        "tickers": [
+          "PRO",
+          "EA",
+          "MRUS"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/54cbaf70-16fe-4ac1-8956-c2d21ff8ae45",
+        "description": "Law firm Halper Sadeh LLC is investigating potential securities law violations and fiduciary duty breaches related to recent corporate sales involving PROS Holdings, Electronic Arts, and Merus N.V.",
+        "keywords": [
+          "shareholder rights",
+          "securities investigation",
+          "corporate sales",
+          "mergers"
+        ],
+        "insights": [
+          {
+            "ticker": "PRO",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Potential sale to Thoma Bravo at $23.25 per share being investigated for possible legal issues"
+          },
+          {
+            "ticker": "EA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Proposed sale to investor consortium at $210.00 per share under legal review"
+          },
+          {
+            "ticker": "MRUS",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Potential sale to Genmab A/S at $97.00 per share being examined for potential shareholder concerns"
+          }
+        ]
+      },
+      {
+        "id": "d90d8284c389978f7bdb5a797c7fe9d77a3a10ebf2b2d393074ff291501944ef",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Direxion Closing Three ETFs",
+        "author": "Direxion",
+        "published_utc": "2025-10-04T12:52:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161273/0/en/Direxion-Closing-Three-ETFs.html",
+        "tickers": [
+          "AAPU"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/82a23850-f8aa-448d-a01b-124ad56a5ce7",
+        "description": "Direxion Shares ETF Trust will liquidate three ETFs (WFH, EVAV, XXCH) due to insufficient investment assets, with trading ceasing on October 23, 2025, and complete liquidation by October 30, 2025.",
+        "keywords": [
+          "ETF liquidation",
+          "investment assets",
+          "fund closure"
+        ],
+        "insights": [
+          {
+            "ticker": "AAPU",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Closing three ETFs indicates financial underperformance and inability to attract sufficient investment assets"
+          }
+        ]
+      },
+      {
+        "id": "6dd38aba072230eaac88183fad191bc25c371e19add920f3c82f55006b519a57",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "FCX Investor News: If You Have Suffered Losses in Freeport-McMoRan Inc. (NYSE: FCX), You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T12:38:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161272/673/en/FCX-Investor-News-If-You-Have-Suffered-Losses-in-Freeport-McMoRan-Inc-NYSE-FCX-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+        "tickers": [
+          "FCX"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm is investigating potential securities claims for Freeport-McMoRan shareholders following a press release about a fatal mud rush incident at the Grasberg Block Cave mine in Indonesia, which caused the stock to drop 16.95%.",
+        "keywords": [
+          "securities claims",
+          "investor losses",
+          "mining incident",
+          "stock drop"
+        ],
+        "insights": [
+          {
+            "ticker": "FCX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock dropped 16.95% after reporting a fatal incident at their Indonesian mine, suggesting significant operational and potential legal challenges"
+          }
+        ]
+      },
+      {
+        "id": "29230cbb6508d80cb4b84ec4220129f872cc85e4d722e8ebd44a6a48732e0762",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "My 3 Favorite Stocks to Buy Right Now",
+        "author": "James Brumley",
+        "published_utc": "2025-10-04T12:37:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/my-3-favorite-stocks-to-buy-right-now/?source=iedfolrf0000001",
+        "tickers": [
+          "AMZN",
+          "TWLO",
+          "DKNG"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835829/thinking-investor-using-a-laptop-computer.jpg",
+        "description": "The article discusses three stocks with potential investment opportunities: Amazon facing cloud computing challenges, Twilio leveraging AI for customer service, and DraftKings maintaining strong market position despite competitive pressures.",
+        "keywords": [
+          "AI",
+          "cloud computing",
+          "sports betting",
+          "stock analysis",
+          "investing"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Despite AWS slowdown and margin challenges, the company shows promise in AI development, maintains strong e-commerce dominance, and has significant cloud computing backlog"
+          },
+          {
+            "ticker": "TWLO",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Reaccelerating sales growth, strong AI-powered customer service solutions, trading below analyst price target, and potential for earnings growth"
+          },
+          {
+            "ticker": "DKNG",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Projected 33.5% revenue growth, operating in 28 states, majority of analysts consider it a strong buy with significant upside potential"
+          }
+        ]
+      },
+      {
+        "id": "cca9b4ec12417fbfc165ac5047d55db67bd66887e99464a39f624fa1a3ef3b81",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Why's Everyone Talking About Costco Stock?",
+        "author": "Lawrence Nga",
+        "published_utc": "2025-10-04T12:17:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/whys-everyone-talking-about-costco-stock/?source=iedfolrf0000001",
+        "tickers": [
+          "COST"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835764/costco-shopping-warehouse-wholesale.jpg",
+        "description": "Costco stands out as a unique retailer with a member-first business model, generating significant revenue from membership fees and maintaining high customer loyalty. The company shows strong potential for international expansion and consistent growth, trading at a premium valuation that reflects its robust business strategy.",
+        "keywords": [
+          "retail",
+          "membership",
+          "growth",
+          "international expansion",
+          "e-commerce"
+        ],
+        "insights": [
+          {
+            "ticker": "COST",
+            "sentiment": "positive",
+            "sentiment_reasoning": "High membership renewal rates (90%+), consistent profitability, global expansion potential, strong customer loyalty, and a unique business model that generates substantial recurring revenue through membership fees"
+          }
+        ]
+      },
+      {
+        "id": "70fd5accfbca51c54d3b1fa44595c4329d3bddf3b87901f79cc02d6c0c18cd3a",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "3 Tech Stocks Perfect for Gen Xers to Add to Their Portfolios",
+        "author": "Leo Sun",
+        "published_utc": "2025-10-04T12:10:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/3-tech-stocks-perfect-for-gen-xers-to-add/?source=iedfolrf0000001",
+        "tickers": [
+          "META",
+          "ASML",
+          "CRWD"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835102/mother-daughter-laptop.jpg",
+        "description": "A Motley Fool analyst recommends three tech stocks for Gen X investors: Meta Platforms, ASML, and CrowdStrike, highlighting their growth potential, market positioning, and future prospects in technology and digital sectors.",
+        "keywords": [
+          "investing",
+          "technology",
+          "stocks",
+          "Gen X",
+          "cybersecurity",
+          "social media",
+          "semiconductors"
+        ],
+        "insights": [
+          {
+            "ticker": "META",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong user base of 3.48 billion monthly active users, AI-powered ad targeting, expected revenue growth of 16% CAGR, and reasonable valuation at 25x next year's earnings"
+          },
+          {
+            "ticker": "ASML",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Monopoly in lithography systems, crucial for semiconductor manufacturing, expected revenue growth of 10% CAGR, and technological leadership in chip production"
+          },
+          {
+            "ticker": "CRWD",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Serves 300 Fortune 500 companies, cloud-based cybersecurity platform, expected revenue growth of 22% CAGR, and projected profitability by fiscal 2027"
+          }
+        ]
+      },
+      {
+        "id": "60f5a55da5416bd3e493c2b7adefb7d5a4ec4131876795f29d23eb6ca209abb8",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "2 Dirt Cheap Dividend Stocks to Buy Before It's Too Late",
+        "author": "Daniel Miller",
+        "published_utc": "2025-10-04T11:15:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/2-dirt-cheap-dividend-stocks-to-buy-before-its-too/?source=iedfolrf0000001",
+        "tickers": [
+          "ALB",
+          "ALBpA",
+          "STZ"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835597/beer_bottles.jpg",
+        "description": "The article highlights two dividend stocks trading at significant discounts: Albemarle, a lithium producer with long-term potential in electric vehicle battery markets, and Constellation Brands, a leading beverage company with a strong Mexican beer portfolio.",
+        "keywords": [
+          "dividend stocks",
+          "lithium",
+          "electric vehicles",
+          "beverages",
+          "investment"
+        ],
+        "insights": [
+          {
+            "ticker": "ALB",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Positive long-term outlook due to electric vehicle growth, low-cost lithium production, and trading at a 58% discount to fair value with a 2% dividend yield"
+          },
+          {
+            "ticker": "ALBpA",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Positive long-term outlook due to electric vehicle growth, low-cost lithium production, and trading at a 58% discount to fair value with a 2% dividend yield"
+          },
+          {
+            "ticker": "STZ",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mixed outlook with near-term challenges in beer demand, but strong long-term positioning with diverse product portfolio, trading at a 41% discount to fair value and offering a 3% dividend yield"
+          }
+        ]
+      },
+      {
+        "id": "f020952b22e51969f4f9761219fdcfff4225383a1ecb0ca12505778a92ed5216",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "CHTR LEGAL NOTICE: Charter Communications, Inc. Faces Securities Fraud Class Action due to Customer Decline – Contact BFA Law if You Lost Money",
+        "author": "Bleichmar Fonti & Auld Llp",
+        "published_utc": "2025-10-04T11:07:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161269/0/en/CHTR-LEGAL-NOTICE-Charter-Communications-Inc-Faces-Securities-Fraud-Class-Action-due-to-Customer-Decline-Contact-BFA-Law-if-You-Lost-Money.html",
+        "tickers": [
+          "CHTR"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "description": "Charter Communications faces a securities fraud class action lawsuit after experiencing significant internet customer declines following the end of the Affordable Connectivity Program (ACP), with stock price dropping 18.4% after reporting a loss of 117,000 internet customers in Q2 2025.",
+        "keywords": [
+          "securities fraud",
+          "ACP",
+          "customer decline",
+          "stock price",
+          "lawsuit"
+        ],
+        "insights": [
+          {
+            "ticker": "CHTR",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Company experienced substantial customer losses, stock price decline, and is facing a class action lawsuit alleging misleading statements about the impact of ACP program termination"
+          }
+        ]
+      },
+      {
+        "id": "cd7e0f872b920634cb3cd8b5322061becb595f0f1271f258ddf5acbb37fa05f0",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "MLTX LEGAL NOTICE: MoonLake Immunotherapeutics Faces Securities Fraud Investigation due to Drug Trial Results – Contact BFA Law if You Lost Money",
+        "author": "Bleichmar Fonti & Auld Llp",
+        "published_utc": "2025-10-04T11:07:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161271/0/en/MLTX-LEGAL-NOTICE-MoonLake-Immunotherapeutics-Faces-Securities-Fraud-Investigation-due-to-Drug-Trial-Results-Contact-BFA-Law-if-You-Lost-Money.html",
+        "tickers": [
+          "MLTX"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "description": "MoonLake Immunotherapeutics experienced a significant stock price drop after reporting disappointing Phase 3 trial results for its investigational drug sonelokimab, leading to a potential securities fraud investigation.",
+        "keywords": [
+          "securities fraud",
+          "drug trial",
+          "biotechnology",
+          "stock price",
+          "clinical trials"
+        ],
+        "insights": [
+          {
+            "ticker": "MLTX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Stock price plummeted by nearly 90% after reporting unsuccessful Phase 3 trial results, raising concerns about the drug's regulatory approval and commercial viability"
+          }
+        ]
+      },
+      {
+        "id": "c8cedf5da63e3046c91fb3316fe4a5d27532ff2e18d64ebc91600ea4dff9c830",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "KMX LEGAL NOTICE: CarMax, Inc. Faces Securities Fraud Investigation due to Demand Issues – Contact BFA Law if You Lost Money",
+        "author": "Bleichmar Fonti & Auld Llp",
+        "published_utc": "2025-10-04T11:07:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161270/0/en/KMX-LEGAL-NOTICE-CarMax-Inc-Faces-Securities-Fraud-Investigation-due-to-Demand-Issues-Contact-BFA-Law-if-You-Lost-Money.html",
+        "tickers": [
+          "KMX"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+        "description": "CarMax reported significant sales declines in Q2 2025, attributing the drop to a 'pull forward' in demand before tariff announcements, causing its stock price to fall by approximately 20%.",
+        "keywords": [
+          "securities fraud",
+          "used car sales",
+          "stock decline",
+          "tariffs",
+          "earnings report"
+        ],
+        "insights": [
+          {
+            "ticker": "KMX",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Experienced 5.4% retail used unit sales decline, 6.3% comparable store used unit sales decline, and net earnings dropped from $132.8 million to $95.4 million, triggering a 20% stock price reduction"
+          }
+        ]
+      },
+      {
+        "id": "0d687d15fb51d186711237350d753af51256cdc25f8a20fdba234c22f49eb410",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Breaking Up Is Hard to Do, as NASA Kicks Sierra Space to the Curb",
+        "author": "Rich Smith",
+        "published_utc": "2025-10-04T11:07:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/breaking-up-is-hard-to-do-as-nasa-kicks-sierra-spa/?source=iedfolrf0000001",
+        "tickers": [
+          "NOC"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835729/sierra-space-dream-chaser-in-the-factory-is-sierra-space.jpg",
+        "description": "NASA has effectively reduced support for Sierra Space's Dream Chaser spacecraft after a decade of delays, potentially removing the company from its Commercial Re-Supply mission contract and signaling skepticism about the spacecraft's viability.",
+        "keywords": [
+          "NASA",
+          "space",
+          "spacecraft",
+          "ISS",
+          "commercial resupply"
+        ],
+        "insights": [
+          {
+            "ticker": "NOC",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Secured 14 of the 32 total ISS resupply mission launches, maintaining a strong position in NASA's commercial resupply program"
+          }
+        ]
+      },
+      {
+        "id": "67fee57b4048ffa65e9c336ddb8ac0743fc254dff8f98d4d5e577a6811920d22",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "3 Reasons to Buy Costco Stock Like There's No Tomorrow",
+        "author": "Chris Neiger",
+        "published_utc": "2025-10-04T10:30:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/3-reasons-to-buy-costco-stock-like-no-tomorrow/?source=iedfolrf0000001",
+        "tickers": [
+          "COST"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835574/warehouse-wholesaler-shopping-costco-sam_s-club-1200x800-5b2df79.jpg",
+        "description": "Costco continues to demonstrate robust financial performance with rising sales, expanding e-commerce, and strong membership growth, particularly among younger customers. The company's high renewal rates and ability to navigate economic challenges make it an attractive long-term investment.",
+        "keywords": [
+          "retail",
+          "e-commerce",
+          "membership",
+          "growth",
+          "investment"
+        ],
+        "insights": [
+          {
+            "ticker": "COST",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong financial metrics including 6.5% same-store sales growth, 11% EPS increase, 13.5% e-commerce sales growth, high membership renewal rates (93%), expanding store footprint, and successful attraction of younger customers"
+          }
+        ]
+      },
+      {
+        "id": "dd24122c43bbe7a2c20b59e6bb241d3b83a2664763ccda381e831fefcdc278eb",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Why IBM Stock Soared 16% in September",
+        "author": "Tim Green",
+        "published_utc": "2025-10-04T10:25:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/why-ibm-stock-soared-16-in-september/?source=iedfolrf0000001",
+        "tickers": [
+          "IBM",
+          "HSBC",
+          "NVDA",
+          "ORCL"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836115/gettyimages-2179167623.jpg",
+        "description": "IBM experienced significant stock gains in September, driven by breakthroughs in AI and quantum computing, with notable achievements including $7.5 billion in generative AI business and a quantum computing demonstration with HSBC that improved bond trading predictions.",
+        "keywords": [
+          "AI",
+          "quantum computing",
+          "enterprise solutions",
+          "technology innovation"
+        ],
+        "insights": [
+          {
+            "ticker": "IBM",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong performance in AI enterprise solutions, quantum computing progress, expected revenue growth of at least 5% in 2025, and potential for long-term technological impact"
+          },
+          {
+            "ticker": "HSBC",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Collaborative partner in quantum computing demonstration, but no direct performance metrics discussed"
+          },
+          {
+            "ticker": "NVDA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in context of AI computing deal with OpenAI, but no specific performance details provided"
+          },
+          {
+            "ticker": "ORCL",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned in context of AI computing deal, but no specific performance details discussed"
+          }
+        ]
+      },
+      {
+        "id": "9726756a9946b406bed50cccd2dc9cc61e98582efec20c0a1e1c04ff6118ab85",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Dangbei Joins Amazon UK's Prime Big Deal Days with Savings Up to £400",
+        "author": "Dangbei Pr Team",
+        "published_utc": "2025-10-04T09:30:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161267/0/en/Dangbei-Joins-Amazon-UK-s-Prime-Big-Deal-Days-with-Savings-Up-to-400.html",
+        "tickers": [
+          "AMZN"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
+        "description": "Dangbei is offering significant discounts on its range of 4K and portable projectors during Amazon UK's Prime Big Deal Days from October 4-10, 2025, with savings up to £400 on various models.",
+        "keywords": [
+          "projectors",
+          "4K",
+          "Amazon",
+          "Prime Big Deal Days",
+          "discounts"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Hosting a promotional event that attracts technology vendors and provides consumers with attractive deals"
+          }
+        ]
+      },
+      {
+        "id": "bc38dc6a6795064cb2bd734da4aa914159df3fd3025d1ebba39ef6efd3391fad",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Monroe® bringt Luftfederreihe für Nutzfahrzeuge auf den Markt",
+        "author": "Driv (Tenneco)",
+        "published_utc": "2025-10-04T08:56:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161266/0/de/Monroe-bringt-Luftfederreihe-f%C3%BCr-Nutzfahrzeuge-auf-den-Markt.html",
+        "tickers": [
+          "MRCC",
+          "MBGYY",
+          "IVCGF"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/52d09922-48ac-47ce-ae07-d45782016779",
+        "description": "Monroe has introduced a new comprehensive range of air springs for commercial vehicles, featuring advanced technical improvements that enhance vehicle safety, performance, and durability across multiple truck and bus manufacturers.",
+        "keywords": [
+          "air springs",
+          "commercial vehicles",
+          "vehicle safety",
+          "automotive parts"
+        ],
+        "insights": [
+          {
+            "ticker": "MRCC",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Launching innovative product line with multiple technical improvements and compatibility with major vehicle manufacturers"
+          },
+          {
+            "ticker": "MBGYY",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a compatible vehicle manufacturer"
+          },
+          {
+            "ticker": "IVCGF",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a compatible vehicle manufacturer"
+          }
+        ]
+      },
+      {
+        "id": "4b2438ffad579c9ddf13e3df2b658027024f3d8fffbc1c395409773dc2175930",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Monroe® lance une gamme de ressorts pneumatiques pour véhicules utilitaires",
+        "author": "Sylvain Gary",
+        "published_utc": "2025-10-04T08:56:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161266/0/fr/Monroe-lance-une-gamme-de-ressorts-pneumatiques-pour-v%C3%A9hicules-utilitaires.html",
+        "tickers": [
+          "MRCC"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/52d09922-48ac-47ce-ae07-d45782016779",
+        "description": "Monroe has introduced a new comprehensive range of high-performance air springs for commercial vehicles, designed to enhance safety, durability, and vehicle productivity across multiple truck and bus manufacturers.",
+        "keywords": [
+          "air springs",
+          "commercial vehicles",
+          "automotive parts",
+          "suspension technology"
+        ],
+        "insights": [
+          {
+            "ticker": "MRCC",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Launched innovative product line with advanced technical improvements, focusing on safety, durability, and performance for commercial vehicles"
+          }
+        ]
+      },
+      {
+        "id": "75a8950573eca61852375d0998b04b6656359b789891c54d396fdd2e4fc9a8b7",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Should You Buy Wolfspeed Stock Right Now?",
+        "author": "Johnny Rice",
+        "published_utc": "2025-10-04T08:31:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/should-you-buy-wolfspeed-right-now/?source=iedfolrf0000001",
+        "tickers": [
+          "WOLF"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/834815/wolfstockdilution.jpg",
+        "description": "Wolfspeed emerged from Chapter 11 bankruptcy by reducing debt by 70% and replacing existing stock with new shares, resulting in shareholders receiving only one new share for every 120 previously owned.",
+        "keywords": [
+          "bankruptcy",
+          "stock dilution",
+          "electric vehicle market",
+          "chipmaker"
+        ],
+        "insights": [
+          {
+            "ticker": "WOLF",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The company underwent significant stock dilution, reduced shareholder value dramatically during bankruptcy, faces ongoing challenges in the electric vehicle market, and still has unresolved operational issues despite debt reduction"
+          }
+        ]
+      },
+      {
+        "id": "fb3f86c7837fc9559bdd1cccac234810119d8994aacbf9bcd43e3606d5a13af6",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Dangbei partecipa ai Prime Big Deal Days di Amazon Italia con sconti fino a 300 €",
+        "author": "Dangbei Pr Office",
+        "published_utc": "2025-10-04T08:30:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161264/0/it/Dangbei-partecipa-ai-Prime-Big-Deal-Days-di-Amazon-Italia-con-sconti-fino-a-300.html",
+        "tickers": [
+          "AMZN"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
+        "description": "Dangbei is participating in Amazon's Prime Big Deal Days from October 4-10, 2025, offering discounts up to €300 on various 4K and portable projector models across multiple European markets.",
+        "keywords": [
+          "projectors",
+          "4K",
+          "Amazon",
+          "Prime Big Deal Days",
+          "smart technology"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Facilitating sales promotions for technology brands and providing platform for product discounts during Prime Big Deal Days"
+          }
+        ]
+      },
+      {
+        "id": "d4ed0090638093446b97cb08212b20115cca367c20a5dddca14cf6609f6f8a0c",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Ahorre hasta 300 € en proyectores Dangbei durante los Prime Big Deal Days de Amazon España",
+        "author": "Dangbei Press Team",
+        "published_utc": "2025-10-04T08:30:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161265/0/es/Ahorre-hasta-300-en-proyectores-Dangbei-durante-los-Prime-Big-Deal-Days-de-Amazon-Espa%C3%B1a.html",
+        "tickers": [
+          "AMZN"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
+        "description": "Dangbei is offering significant discounts on its range of 4K and portable projectors during Amazon's Prime Big Deal Days from October 4-10, 2025, with price reductions up to €300 across multiple projector models.",
+        "keywords": [
+          "projectors",
+          "4K",
+          "Amazon",
+          "Prime Big Deal Days",
+          "discounts",
+          "home entertainment"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Hosting a successful multi-country Prime Big Deal Days event that attracts technology vendors like Dangbei, demonstrating platform's attractiveness for product promotions"
+          }
+        ]
+      },
+      {
+        "id": "d01fb8a55a29f9d342c8ce43e380fd3bdc68da1f8c5ad46d66c6de787ecb2e00",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Dangbei Joins Amazon Italy’s Prime Big Deal Days with Savings Up to €300",
+        "author": "Dangbei Pr Team",
+        "published_utc": "2025-10-04T08:30:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161264/0/en/Dangbei-Joins-Amazon-Italy-s-Prime-Big-Deal-Days-with-Savings-Up-to-300.html",
+        "tickers": [
+          "AMZN"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
+        "description": "Dangbei is offering discounts up to €300 on its projector lineup during Amazon Italy's Prime Big Deal Days from October 4-10, 2025, featuring 4K and portable models with price reductions across various product lines.",
+        "keywords": [
+          "projectors",
+          "4K",
+          "Amazon",
+          "Prime Big Deal Days",
+          "discounts",
+          "laser projectors"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Hosting successful multi-country sales event that attracts technology vendors and provides consumer value"
+          }
+        ]
+      },
+      {
+        "id": "cba5e086d9be603e68d02601337c06faa813b481358d311e3236fd99b6146933",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Dangbei Joins Amazon’s Prime Big Deal Days in Germany with Discounts Up to 40%",
+        "author": "Dangbei Pr Team",
+        "published_utc": "2025-10-04T08:30:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161262/0/en/Dangbei-Joins-Amazon-s-Prime-Big-Deal-Days-in-Germany-with-Discounts-Up-to-40.html",
+        "tickers": [
+          "AMZN"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
+        "description": "Dangbei is offering significant discounts on its projector lineup during Amazon Germany's Prime Big Deal Days from October 4-10, 2025, with savings up to 40% on models ranging from entry-level to high-end 4K home cinema projectors.",
+        "keywords": [
+          "projectors",
+          "Amazon",
+          "4K",
+          "Prime Big Deal Days",
+          "discounts"
+        ],
+        "insights": [
+          {
+            "ticker": "AMZN",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Hosting a sales event that provides platform for product promotions and potentially increases customer engagement and sales"
+          }
+        ]
+      }
+    ]
+  }
+}

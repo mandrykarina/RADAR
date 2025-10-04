@@ -1,0 +1,38 @@
+{
+  "source": "marketaux",
+  "timestamp": "2025-10-04T18:11:43.954942",
+  "raw_data": {
+    "articles": [
+      {
+        "title": "The Pace of Innovation From Railroads to AI",
+        "description": "Looks at railroads, automobiles, radio, television, the internet, and AI to see how the the time from first demo to widespread usage has changed over time",
+        "url": "https://medium.com/lessons-from-history/the-pace-of-innovation-from-railroads-to-ai-1df357e67841",
+        "publishedAt": "2025-10-04T16:57:51.000000Z",
+        "source": {
+          "name": "medium.com"
+        },
+        "content": "The Pace of Innovation From Railroads to AI\n\nLooking at major technologies to see how long it takes for a prototype to achieve widespread usage Russell Salsbury..."
+      },
+      {
+        "title": "3 Reasons to Buy Uber Stock Like There's No Tomorrow",
+        "description": "Uber's stock has reached new heights through the first three quarters of 2025.",
+        "url": "https://finance.yahoo.com/news/3-reasons-buy-uber-stock-161500048.html",
+        "publishedAt": "2025-10-04T16:15:00.000000Z",
+        "source": {
+          "name": "finance.yahoo.com"
+        },
+        "content": "Key Points\n\nUber continues to post solid growth, and management sees opportunities to keep up the gains.\n\nCEO Dara Khosrowshahi deserves credit for transforming..."
+      },
+      {
+        "title": "Tech Week Singapore 2025: AI, cloud, and security in focus",
+        "description": "WITH three days to go, Singapore is putting artificial intelligence under bright lights. On Oct. 8, Tech Week Singapore 2025 opens at the Sands Expo & Convention Centre, bringing policymakers and big tech together. The program is built around real-world impact under the theme “Connected Futures, Boundless Impact.” On the floor and on stage, cloud, AI infrastructure, cybersecurity, data, digital marketing, and e-commerce will be presented as parts of the same system.",
+        "url": "https://www.manilatimes.net/2025/10/05/business/sunday-business-it/tech-week-singapore-2025-ai-cloud-and-security-in-focus/2194834",
+        "publishedAt": "2025-10-04T16:11:00.000000Z",
+        "source": {
+          "name": "manilatimes.net"
+        },
+        "content": "WITH three days to go, Singapore is putting artificial intelligence under bright lights. On Oct. 8, Tech Week Singapore 2025 opens at the Sands Expo & Conventio..."
+      }
+    ]
+  }
+}
