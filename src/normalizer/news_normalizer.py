@@ -14,11 +14,10 @@ import re
 # === Папки ===
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 PARSER_DIR = os.path.join(BASE_DIR, "parser")
-DATA_DIR = os.path.join(BASE_DIR, "data")
-NORMALIZED_DIR = os.path.join(DATA_DIR, "normalized")
-
+DATABASE_DIR = os.path.join(BASE_DIR, "database")
+os.makedirs(DATABASE_DIR, exist_ok=True)
 os.makedirs(PARSER_DIR, exist_ok=True)
-os.makedirs(NORMALIZED_DIR, exist_ok=True)
+
 
 # === Scraper API (для обхода 401/403) ===
 SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY", "")
@@ -233,7 +232,7 @@ def main(cycles: int = 2, delay: int = 5):
         print(f"\n🔁 ЦИКЛ {cycle}/{cycles} ({datetime.now(timezone.utc).strftime('%H:%M:%S')})")
         for source, (input_name, output_name) in sources.items():
             input_path = os.path.join(PARSER_DIR, input_name)
-            output_path = os.path.join(NORMALIZED_DIR, output_name)
+            output_path = os.path.join(DATABASE_DIR, output_name)
             normalize_file(input_path, output_path, source)
         if cycle < cycles:
             print(f"⏳ Пауза {delay} сек...\n")
@@ -241,5 +240,7 @@ def main(cycles: int = 2, delay: int = 5):
     print("\n✅ Все файлы сохранены в data/normalized/")
 
 
+# if __name__ == "__main__":
+#     main()
 if __name__ == "__main__":
-    main()
+    main(cycles=1, delay=0)

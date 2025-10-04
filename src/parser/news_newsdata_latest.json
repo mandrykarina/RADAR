@@ -1,110 +1,36 @@
 {
   "source": "newsdata",
-  "timestamp": "2025-10-04T18:20:12.421767",
+  "timestamp": "2025-10-04T21:34:20.477388",
   "raw_data": {
     "articles": [
       {
-        "article_id": "9decb797bd9bf2984f6edc980b58b501",
-        "title": "Gazze’de barış için kritik hamle! Hamas Trump’ın planına yanıt verdi, Erdoğan: “Soykırım son bulmalı”",
-        "link": "https://www.f5haber.com/dunya/gazzede-baris-icin-kritik-hamle-hamas-trumpin-planina-yanit-verdi-erdogan-soykirim-son-bulmali-6830724",
+        "article_id": "2b2490684aaf7e599a057efa17d56cbf",
+        "title": "رفع درجة الاستعدادات القصوى بالمحافظات بسبب ارتفاع منسوب نهر النيل.. ما القصة؟",
+        "link": "https://www.elbalad.news/6719709",
         "keywords": [
-          "recep tayyip erdoğan",
-          "abd",
-          "filistin",
-          "donald trump"
+          "قنا",
+          "الاقصر",
+          "المحافظات",
+          "تحقيقات وملفات",
+          "منسوب نهر النيل"
         ],
         "creator": [
-          "F5Haber"
+          "صدى البلد"
         ],
-        "description": "Hamas, Trump ve Netanyahu’nun Washington’da üzerinde anlaştığı Gazze barış planına yanıt verdi. Rehineleri serbest bırakmaya hazır olduğunu açıklayan Hamas, müzakerelere başlamak için arabuluculara çağrı yaptı. Cumhurbaşkanı Erdoğan, Hamas’ın yanıtını “yapıcı ve önemli bir adım” olarak değerlendirdi.",
+        "description": "وجه الدكتور خالد عبد الحليم، محافظ قنا، برفع درجة الاستعداد القصوى بجميع الأجهزة التنفيذية بالمحافظة، ومتابعة الموقف الميداني على مدار الساعة. صدى البلد : المصدر رفع درجة الاستعدادات القصوى بالمحافظات بسبب ارتفاع منسوب نهر النيل.. ما القصة؟",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:20:00",
+        "pubDate": "2025-10-04 09:33:52",
         "pubDateTZ": "UTC",
-        "image_url": "https://img.f5haber.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/04/404113-result-xr3u_cover.jpg",
+        "image_url": "https://media.elbalad.news/2025/10/large/719175255088820251004122409249.jpg",
         "video_url": null,
-        "source_id": "f5haber",
-        "source_name": "F5 Haber",
-        "source_priority": 1198295,
-        "source_url": "https://www.f5haber.com",
-        "source_icon": "https://n.bytvi.com/f5haber.png",
-        "language": "turkish",
-        "country": [
-          "turkey"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "2b77013fd9dfb5767563cf8dcc80191b",
-        "title": "Neiva es la ciudad que más crece en gasto: Camilo Herrera",
-        "link": "https://www.lanacion.com.co/neiva-es-la-ciudad-que-mas-crece-en-gasto-camilo-herrera/",
-        "keywords": [
-          "top-inicio",
-          "economía"
-        ],
-        "creator": [
-          "Caterin Manchola"
-        ],
-        "description": "Camilo Herrera es el fundador de la firma Raddar Consumer, dedicada a la medición del consumo de los hogares. El experto en economía habló con LA NACIÓN en el congreso de Confecámaras desarrollado en Cartagena. Cubrimiento especial. @cate_manchola Señor Herrera, ¿cómo va el gasto de los hogares? El gasto de los hogares sigue jalonando la [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:20:00",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.lanacion.com.co/wp-content/uploads/2025/10/CC25-01386-1024x682.jpg",
-        "video_url": null,
-        "source_id": "lanacion_co",
-        "source_name": "La Nacion",
-        "source_priority": 1007665,
-        "source_url": "https://www.lanacion.com.co",
-        "source_icon": "https://n.bytvi.com/lanacion_co.jpg",
-        "language": "spanish",
-        "country": [
-          "colombia"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "8a43c2f925c7b931af12d6d960bedd20",
-        "title": "إیران: قاعدة الفضاء فی تشابهار جاهزة لأول إطلاق بصاروخ یعمل بالوقود الصلب... وثلاثة أقمار جدیدة ستُطلق قریبًا",
-        "link": "https://tn.ai/3414852",
-        "keywords": [
-          "تکنولوجیا الفضاء"
-        ],
-        "creator": [
-          "وکالة تسنیم الدولیة للأنباء"
-        ],
-        "description": "أعلن رئیس منظمة الفضاء الإیرانیة، الدکتور حسن سالاریه، أن المرحلة الأولى من قاعدة الإطلاق الفضائیة فی تشابهار – المخصصة لإطلاق الصواریخ العاملة بالوقود الصلب – دخلت مراحلها النهائیة من الإنجاز، مؤکدًا أن الاستعدادات جاریة لتنفیذ أول عملیة إطلاق تجریبیة من القاعدة فی المستقبل القریب.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:52",
-        "pubDateTZ": "UTC",
-        "image_url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1403/10/16/140310161457284431835434.jpg",
-        "video_url": null,
-        "source_id": "tasnimnews",
-        "source_name": "خبرگزاری تسنیم",
-        "source_priority": 39844,
-        "source_url": "https://www.tasnimnews.com",
-        "source_icon": "https://n.bytvi.com/tasnimnews.png",
+        "source_id": "elbalad_news",
+        "source_name": "صدى البلد",
+        "source_priority": 66548,
+        "source_url": "https://www.elbalad.news",
+        "source_icon": "https://n.bytvi.com/elbalad_news.jpg",
         "language": "arabic",
         "country": [
-          "iran"
+          "egypt"
         ],
         "category": [
           "business"
@@ -119,31 +45,32 @@
         "duplicate": false
       },
       {
-        "article_id": "c39be096fc9208fd316a5b0123759802",
-        "title": "ឯកឧត្តមរដ្ឋមន្ត្រី ហួត ហាក់៖ មោទនភាពជាតិខ្មែរ! កម្ពុជាកំពុងសាទរចំពោះជើងហោះហើរត្រង់លើកដំបូងជាប្រវត្តិសាស្ត្ររបស់ក្រុមហ៊ុនអាកាសចរណ៍ Etihad Airways លំដាប់ពិភពលោក មកពីទីក្រុងអាប៊ូដាប៊ី ប្រទេសអារ៉ាប់រួម",
-        "link": "https://cen.com.kh/archives/866031.html",
+        "article_id": "38a4d65b52b592da90e9bf860798f74b",
+        "title": "أسعار الخضروات والفاكهة في سوق العبور اليوم السبت",
+        "link": "https://www.masrawy.com/news/news_economy/details/2025/10/4/2866036/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%81%D8%A7%D9%83%D9%87%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA",
         "keywords": [
-          "ព័ត៌មានជាតិ",
-          "telegram",
-          "សេដ្ឋកិច្ច"
+          "أسعار الخضروات",
+          "سوق العبور",
+          "أسعار الفاكهة",
+          "أسعار الخضروات والفاكهة"
         ],
         "creator": [
-          "Pen Srey Neat"
+          "مصراوي"
         ],
-        "description": "ភ្នំពេញ ៖ ព្រលានយន្តហោះអន្តរជាតិតេជោ ព្រឹកថ្ងៃទី៤ ខែតុលា ឆ្នាំ២០២៥ ឯកឧត្តម ហួត ហាក់ រដ្ឋមន្ត្រីក្រសួងទេសចរណ៍ ដឹកនាំប្រតិភូក្រសួងទេសចរណ៍ និងវិស័យឯកជន រួមជាមួយថ្នាក់ដឹកនាំអាកាសចរណ៍ស៊ីវិល អញ្ជើញទទួលបដិសណ្ឋារកិច្ចស្វាគមន៍យ៉ាងកក់ក្តៅដល់ក្រុមហ៊ុនអាកាសចរណ៍កម្រិតពិភពលោក Etihad Airways ដែលបានសម្រេចបើកជើងហោះហើរត្រង់ជាលើកដំបូង មកពីទីក្រុងអាប៊ូដាប៊ី ប្រទេសអារ៉ាប់រួម មកកាន់ព្រះរាជាណាចក្រកម្ពុជា ចុះចតដោយជោគជ័យ នៅអាកាសយានដ្ឋានអន្តរជាតិតេជោ នេះសបញ្ជាក់ឱ្យឃើញពីការចាប់ផ្តើមប្រតិបត្តិការហោះហើរភ្ជាប់កម្ពុជាទៅកាន់ពិភពលោក និងភ្ជាប់ពិភពលោកមកកាន់កម្ពុជា។ ក្នុងឱកាសពោរពេញដោយអត្ថន័យនេះ ឯកឧត្តមរដ្ឋមន្ត្រី បានគូសបញ្ជាក់ថា ការតភ្ជាប់ជើងហោះកម្រិតពិភពលោកនេះ ពិតជាបានឆ្លើយតបទៅនឹងតម្រូវការចាំបាច់នូវកំណើនភ្ញៀវទេសចរមកកាន់កម្ពុជា ជាពិសេសពិជាឆ្លើយតបទៅនឹងការជឿនលឿនយ៉ាងឆាប់រហ័សក្នុងវិស័យអាកាសចរណ៍របស់កម្ពុជានាប៉ុន្មានឆ្នាំចុងក្រោយនេះ។ ឯកឧត្តមរដ្ឋមន្ត្រី មានប្រសាសន៍បន្តថា ក្នុងន័យនេះបញ្ជាក់ឱ្យឃើញពីកិច្ចខិតខំប្រឹងប្រែងរបស់រាជរដ្ឋាភិបាលកម្ពុជា នីតិកាលទី៧នៃរដ្ឋសភា ក្រោមការដឹកនាំប្រកបដោយភាពប្រាកដនិយមរបស់ សម្តេចមហាបវរធិបតី ហ៊ុន ម៉ាណែត នាយករដ្ឋមន្ត្រី នៃព្រះរាជាណាចក្រកម្ពុជា។ បើតាមការបញ្ជាក់របស់ក្រុមហ៊ុន Etihad Airways (Cambodia) ចាប់ពីថ្ងៃទី៣ ខែតុលា ឆ្នាំ២០២៥ ក្រុមហ៊ុនអាកាសចរណ៍កម្រិតពិភពលោក Etihad Airways បានតភ្ជាប់ជើងហោះហើរត្រង់ជាលើកដំបូង ពីទីក្រុងអាប៊ូដាប៊ី មកកាន់រាជធានីភ្នំពេញ ដោយទទួលបានអ្នកដំណើរសរុបចំនួន ១៥៤នាក់ [...]",
+        "description": "أسعار الخضروات والفاكهة في سوق العبور اليوم السبت",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:49",
+        "pubDate": "2025-10-04 09:33:49",
         "pubDateTZ": "UTC",
-        "image_url": "https://cen.com.kh/wp-content/uploads/2025/10/%E1%9F%A5%E1%9F%A6%E1%9F%A7%E1%9F%A5%E1%9F%A7%E1%9F%A5%E1%9F%A6-696x365.jpg",
+        "image_url": "https://media.gemini.media/img/Thumb/2025/7/26/2025_7_26_16_46_32_771.webp",
         "video_url": null,
-        "source_id": "cen",
-        "source_name": "Cen",
-        "source_priority": 24690692,
-        "source_url": "https://cen.com.kh",
-        "source_icon": null,
-        "language": "khmer",
+        "source_id": "masrawy",
+        "source_name": "Masrawy",
+        "source_priority": 8056,
+        "source_url": "https://www.masrawy.com",
+        "source_icon": "https://n.bytvi.com/masrawy.png",
+        "language": "arabic",
         "country": [
-          "cambodia"
+          "egypt"
         ],
         "category": [
           "business"
@@ -158,31 +85,30 @@
         "duplicate": false
       },
       {
-        "article_id": "7754c96deb51b9102dda19356501d70a",
-        "title": "Vremenska prognoza za 4. oktobar",
-        "link": "https://www.danas.rs/vesti/drustvo/vremenska-prognoza-za-4-oktobar/",
+        "article_id": "4e539f73c1bfa245c0f0eb9bd4a28c26",
+        "title": "वाणिज्य मंत्री गोयल ने सिंगापुर के निवेशकों से भारत में अवसर तलाशने का आग्रह किया",
+        "link": "https://hindi.theprint.in/india/economy/commerce-minister-goyal-urges-singapore-investors-to-explore-opportunities-in-india/877139/",
         "keywords": [
-          "4. oktobar 2025",
-          "vremenska prognoza",
-          "društvo"
+          "अर्थजगत",
+          "bhasha wire"
         ],
         "creator": [
-          "Jasmina Lukac"
+          "भाषा"
         ],
-        "description": "U Srbiji će danas ujutro biti oblačno sa slabom kišom, u brdsko-planinskim predelima sa slabim snegom, pre podne se očekuje prestanak padavina, a od sredine dana i kratkotrajno razvedravanje sa zapada, saopštio je Republički hidrometeorološki zavod.Samo na severozapadu Vojvodine ujutru biće suvo uz malu i umerenu oblačnost, a tokom dana pretežno sunčano.",
+        "description": "सिंगापुर, चार अक्टूबर (भाषा) वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने सिंगापुर के निवेशकों से आर्थिक वृद्धि के क्षेत्र में भारत द्वारा प्रस्तुत अवसरों पर विचार करने का आग्रह किया। गोयल ने शनिवार को ‘इंडिया सिंगापुर: पार्टनरशिप फॉर ग्रोथ’ विषय पर निवेशकों के साथ एक बैठक में कहा, ”मैं आप सभी से आग्रह करूंगा कि [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:33",
+        "pubDate": "2025-10-04 09:33:39",
         "pubDateTZ": "UTC",
-        "image_url": "https://www.danas.rs/wp-content/uploads/2024/11/ofQNadGI-e1732281898717.jpg",
+        "image_url": "https://statichindi.theprint.in/wp-content/uploads/2023/06/RE6-696x392.jpg",
         "video_url": null,
-        "source_id": "danas",
-        "source_name": "Danas",
-        "source_priority": 145785,
-        "source_url": "https://www.danas.rs",
-        "source_icon": "https://n.bytvi.com/danas.png",
-        "language": "serbian",
+        "source_id": "theprint_hi",
+        "source_name": "Theprint Hindi",
+        "source_priority": 14094,
+        "source_url": "https://hindi.theprint.in",
+        "source_icon": "https://n.bytvi.com/theprint_hi.jpg",
+        "language": "hindi",
         "country": [
-          "serbia"
+          "india"
         ],
         "category": [
           "business"
@@ -194,152 +120,117 @@
         "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
         "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
         "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
+        "duplicate": true
       },
       {
-        "article_id": "8fe9c98986648dda99c8af604d7265b1",
-        "title": "Banjir di Selatan Sudan ragut 19 nyawa, jejaskan hampir 640,000 orang",
-        "link": "https://thesun.my/cerita/berita/banjir-di-selatan-sudan-ragut-19-nyawa-jejaskan-hampir-640000-orang-IG15027791",
+        "article_id": "81bc5337143e2261c9b644bb67544966",
+        "title": "Opinion | GST, Now Good & Simpler: Ushering In A New Revolution",
+        "link": "https://www.news18.com/opinion/opinion-gst-now-good-simpler-ushering-in-a-new-revolution-ws-kl-9613905.html",
         "keywords": [
-          "kematian",
-          "banjir",
-          "cuaca",
-          "hujan",
-          "thesun berita",
-          "south sudan"
+          "latest"
         ],
         "creator": [
-          "thesun berita"
+          "News18"
         ],
-        "description": "JUBA: Hujan lebat telah mencetuskan banjir besar di Selatan Sudan yang meragut 19 nyawa dan menjejaskan kira-kira 639,225 orang di 26 daerah melibatkan enam negeri.Pejabat PBB bagi Penyelarasan Hal Ehwal Kemanusiaan memaklumkan hampir 175,000 orang kini hilang tempat tinggal dan terpaksa berpindah ke kawasan tanah tinggi di 16 daerah.Risiko kesihatan semakin meningkat dengan bertambahnya kes malaria, jangkitan pernafasan dan cirit-birit menurut OCHA dalam laporan kemanusiaan terbarunya.Agensi itu turut melaporkan sekurang-kurangnya 121 kemudahan kesihatan terjejas akibat bencana banjir tersebut.Seramai 144 kes patukan ular dan 3,391 kes kekurangan zat makanan telah direkodkan di 11 daerah yang terjejas.Laporan itu dikeluarkan sehari selepas badan amal antarabangsa Save the Children memberi amaran tentang ancaman banjir tahun ini.Badan amal itu menganggarkan 1.4 juta penduduk di Selatan Sudan berdepan ancaman banjir dengan taburan hujan dijangka melebihi paras purata.Masyarakat sudah kehilangan tanah pertanian, sumber pendapatan, rumah serta akses kepada sekolah dan kemudahan kesihatan akibat bencana ini.Seramai 379,000 orang telah dipaksa berpindah akibat kenaikan paras air yang berterusan di kawasan terjejas. – Bernama-Xinhua",
+        "description": "The Har Ghar Swadeshi, Ghar Ghar Swadeshi campaign, together with GST 2.0, will not only brighten our homes this Diwali but will also uplift the lives of every Indian",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:13",
+        "pubDate": "2025-10-04 09:33:34",
         "pubDateTZ": "UTC",
-        "image_url": "https://thesun.my/binrepository/2025-10-02t100800z-1416879555-rc223hajdeqx-rtrmadp-3-sudan-floods_5709722_20251004141828.jpg",
+        "image_url": "https://images.news18.com/ibnlive/uploads/2025/09/gst-2025-09-46d90a1a346e134ab4b0dedeb030b20e-3x2.png",
         "video_url": null,
-        "source_id": "thesun_my",
-        "source_name": "Thesun",
-        "source_priority": 81564,
-        "source_url": "https://thesun.my",
-        "source_icon": "https://n.bytvi.com/thesun_my.png",
-        "language": "malay",
-        "country": [
-          "malaysia"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "012a83d3fef029eef9c2921f98127e64",
-        "title": "Bu ekmeği alan 1 hafta başka ekmek almıyor",
-        "link": "https://www.haberler.com/ekonomi/bu-ekmegi-alan-1-hafta-baska-ekmek-almiyor-19114148-haberi/",
-        "keywords": [
-          "tarım",
-          "ekmek",
-          "kürtün",
-          "yerel haberler",
-          "ekonomi",
-          "kültür"
-        ],
-        "creator": [
-          "Haberler"
-        ],
-        "description": "Gümüşhane'nin Kürtün ilçesinde yüz yıllık ekşi mayayla üretilen coğrafi işaret tescilli Araköy ekmeği, 8 saatlik zahmetli üretim süreci ve 4 kilogramlık devasa boyutuyla dikkat çekiyor.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:00",
-        "pubDateTZ": "UTC",
-        "image_url": "https://foto.haberler.com/haber/2025/10/04/bu-ekmegi-alan-1-hafta-baska-ekmek-almiyor-19114148_amp.jpg",
-        "video_url": null,
-        "source_id": "haberler",
-        "source_name": "Haberler",
-        "source_priority": 1358,
-        "source_url": "https://www.haberler.com",
-        "source_icon": "https://n.bytvi.com/haberler.png",
-        "language": "turkish",
-        "country": [
-          "turkey"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "a4e6527b4478bba69e169976b41d5886",
-        "title": "EPDK 7 şirkete lisans verdi: 3 sonlandırma, 1 iptal kararı Resmi Gazete’de",
-        "link": "https://www.dunya.com/sektorler/enerji/epdk-7-sirkete-lisans-verdi-3-sonlandirma-1-iptal-karari-resmi-gazetede-haberi-796871",
-        "keywords": null,
-        "creator": [
-          "Dünya Gazetesi"
-        ],
-        "description": "Enerji Piyasası Düzenleme Kurumu (EPDK), enerji piyasalarına yönelik yeni lisans kararlarını açıkladı. Kurum, 7 şirkete yeni lisans verirken 3 şirketin lisansını sonlandırdı, 1 şirketin lisansını iptal etti. Kararlar Resmî Gazete’nin bugünkü sayısında yayımlandı.",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:19:00",
-        "pubDateTZ": "UTC",
-        "image_url": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/04/kis-lastigi-tzbr_cover.png",
-        "video_url": null,
-        "source_id": "dunya",
-        "source_name": "Dünya Gazetesi",
-        "source_priority": 782673,
-        "source_url": "https://www.dunya.com",
-        "source_icon": "https://n.bytvi.com/dunya.png",
-        "language": "turkish",
-        "country": [
-          "turkey"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "640833cd556b53821a7c74f47c98c095",
-        "title": "FY2026 EPS Forecast for TFI International Lifted by Analyst",
-        "link": "https://www.americanbankingnews.com/2025/10/04/fy2026-eps-forecast-for-tfi-international-lifted-by-analyst.html",
-        "keywords": [
-          "market news",
-          "analyst articles - estimates"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "TFI International Inc (TSE:TFI – Free Report) – Equities research analysts at National Bank Financial raised their FY2026 earnings per share estimates for TFI International in a report issued on Tuesday, September 30th. National Bank Financial analyst C. Doerksen now expects that the company will post earnings per share of $8.20 for the year, up [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:18:54",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/tfi-international-inc-logo-1200x675.png?v=20211206125515",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
+        "source_id": "news18",
+        "source_name": "News 18",
+        "source_priority": 1063,
+        "source_url": "https://www.news18.com",
+        "source_icon": "https://n.bytvi.com/news18.png",
         "language": "english",
         "country": [
-          "united states of america"
+          "india"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "00f775f67dac888cb9adb977eebf6460",
+        "title": "Abia essential to Nigeria’s economic development, says Tinubu",
+        "link": "https://www.vanguardngr.com/2025/10/abia-essential-to-nigerias-economic-development-says-tinubu/",
+        "keywords": [
+          "news",
+          "abia"
+        ],
+        "creator": null,
+        "description": "President Bola Tinubu has said that Abia remains essential to the economic development plan of the Federal Government, hence its investment in the state.The post Abia essential to Nigeria’s economic development, says Tinubu appeared first on Vanguard News.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 09:33:19",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2025/09/President-Bola-Ahmed-Tinubu-1024x683.jpg",
+        "video_url": null,
+        "source_id": "vanguardngr",
+        "source_name": "Vanguard News",
+        "source_priority": 112890,
+        "source_url": "https://www.vanguardngr.com",
+        "source_icon": "https://n.bytvi.com/vanguardngr.png",
+        "language": "english",
+        "country": [
+          "nigeria"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "b55c8a170dbd59f89c22a0ffb47fdcb2",
+        "title": "Úmrtnosť na rakovinu klesá, no pribúda nových prípadov, najlepšie prežívajú pacienti s nádormi štítnej žľazy a semenníkov",
+        "link": "https://sita.sk/vzdravotnictve/umrtnost-na-rakovinu-klesa-no-pribuda-novych-pripadov-najlepsie-prezivaju-pacienti-s-nadormi-stitnej-zlazy-a-semennikov/",
+        "keywords": [
+          "zdravotníctvo",
+          "rakovina pankreasu",
+          "rakovina prsníka",
+          "rakovina hrubého čreva",
+          "rakovina semenníkov",
+          "úmrtnosť",
+          "rakovina štítnej žľazy",
+          "onkologické ochorenia",
+          "rakovina konečníka",
+          "rakovina kože",
+          "rakovina prostaty"
+        ],
+        "creator": [
+          "Boris Tytykalo"
+        ],
+        "description": "Index prežívania pacientov do päť rokov sa pohybuje medzi 58 % a 59 %, pričom prežívanie klesá s vekom. Národné centrum...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 09:33:15",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cdn.sita.sk/sites/32/2024/04/ako-zmenila-uznavana-slovenska-vedkyna-moznosti-ucinnej-prevencie-proti-rakovine-768x512.jpg",
+        "video_url": null,
+        "source_id": "sita",
+        "source_name": "Sita",
+        "source_priority": 2497371,
+        "source_url": "https://sita.sk",
+        "source_icon": "https://n.bytvi.com/sita.png",
+        "language": "slovak",
+        "country": [
+          "slovakia"
         ],
         "category": [
           "business"
@@ -354,27 +245,148 @@
         "duplicate": false
       },
       {
-        "article_id": "008616733357843ed692fcf06493bd3e",
-        "title": "Equities Analysts Offer Predictions for NIKE FY2026 Earnings",
-        "link": "https://www.americanbankingnews.com/2025/10/04/equities-analysts-offer-predictions-for-nike-fy2026-earnings.html",
+        "article_id": "a4e854629cd22f4211fca86a370dd84c",
+        "title": "Puducherry LAD imposes penalty on solid waste management firm for lapses in collection of trash",
+        "link": "https://www.thehindu.com/news/cities/puducherry/puducherry-lad-imposes-penalty-on-solid-waste-management-firm-for-lapses-in-collection-of-trash/article70124304.ece",
         "keywords": [
-          "market news",
-          "analyst articles - estimates"
+          "puducherry"
         ],
         "creator": [
-          "ABMN Staff"
+          "Rajesh B Nair"
         ],
-        "description": "NIKE, Inc. (NYSE:NKE – Free Report) – Research analysts at Telsey Advisory Group reduced their FY2026 earnings estimates for shares of NIKE in a research note issued to investors on Wednesday, October 1st. Telsey Advisory Group analyst C. Fernandez now expects that the footwear maker will post earnings per share of $1.66 for the year, [...]",
+        "description": "The LAD imposed penalty of ₹4 lakh last month on Green Warrior, the firm entrusted with the task to manage solid waste in the municipality limits of Puducherry, for lapses in the collection of garbage from residential areas of Puducherry and Oulgaret Municipalities",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 06:18:54",
+        "pubDate": "2025-10-04 09:33:08",
         "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/nike-inc-logo-1200x675.png?v=20231122113630",
+        "image_url": "https://th-i.thgim.com/public/incoming/a22nrs/article70124470.ece/alternates/LANDSCAPE_1200/2786_25_9_2025_16_26_41_3_09PY25WASTEONROAD3.JPG",
         "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
+        "source_id": "thehindu",
+        "source_name": "The Hindu",
+        "source_priority": 2972,
+        "source_url": "https://www.thehindu.com",
+        "source_icon": "https://n.bytvi.com/thehindu.png",
+        "language": "english",
+        "country": [
+          "india"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "7037b76b76f886c91a05c3f0a297a87a",
+        "title": "Brit Euromillions ticket holder scoops £26m jackpot",
+        "link": "https://www.birminghammail.co.uk/news/uk-news/brit-euromillions-ticket-holder-scoops-32610294",
+        "keywords": [
+          "news"
+        ],
+        "creator": [
+          "newsdesk@birminghamlive.co.uk (Matt LLoyd, Samantha Leathers)"
+        ],
+        "description": "The winning EuroMillions numbers for Friday, October 4, have been revealed - check your tickets now to see if you've won the £26million jackpot",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 09:33:04",
+        "pubDateTZ": "UTC",
+        "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article32495349.ece/ALTERNATES/s615/1_FRANCE-GAME-LOTTERY-PARIS-SPORTS-INTERNET.jpg",
+        "video_url": null,
+        "source_id": "birminghammail",
+        "source_name": "Birmingham Live",
+        "source_priority": 8610,
+        "source_url": "https://www.birminghammail.co.uk",
+        "source_icon": "https://n.bytvi.com/birminghammail.png",
+        "language": "english",
+        "country": [
+          "united kingdom"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "6c50c73b68b397bccb62a36b5bc39309",
+        "title": "ಅಕ್ರಮವಾಗಿ ಅಮೆರಿಕಕ್ಕೆ ಪ್ರವೇಶಿಸಿರುವ ಮಕ್ಕಳನ್ನು ದೇಶದಿಂದ ಗಡಿಪಾರು ಮಾಡೋಕೆ ಪ್ಲ್ಯಾನ್‌, 2,500 ಡಾಲರ್‌ ಆಫರ್ ಕೊಟ್ಟ ಟ್ರಂಪ್‌ ಸರಕಾರ",
+        "link": "https://vijaykarnataka.com/news/world/us-donald-trump-administration-offer-to-migrants-childresn-2500-dollars-to-voluntary-return-to-home-countries/videoshow/124305468.cms",
+        "keywords": [
+          "ಅಕ್ರಮವಾಗಿ ಅಮೆರಿಕಕ್ಕೆ ಪ್ರವೇಶಿಸಿದವರ ಗಡಿಪಾರು",
+          "trump administration offers 2500 dollars",
+          "ಇಮಿಗ್ರೇಷನ್‌ ಅಂಡ್‌ ಕಸ್ಟಮ್ಸ್‌ ಎನ್‌ಫೋರ್ಸ್‌ಮೆಂಟ್",
+          "ವಲಸಿಗ ಮಕ್ಕಳಿಗೆ 2500 ಡಾಲರ್‌",
+          "us encourage self deportation",
+          "ಡೊನಾಲ್ಡ್‌ ಟ್ರಂಪ್‌ ಆಡಳಿತದ ಆಫರ್‌",
+          "voluntarily return to home countries"
+        ],
+        "creator": [
+          "ಹೇಮಂತ್ ಕುಮಾರ್ ಎಸ್"
+        ],
+        "description": "ವೀಸಾ ಅವಧಿ ಮುಗಿದ ಮೇಲೂ ಅಮೆರಿಕದಲ್ಲೇ ಉಳಿಯುವವರ ಸಂಖ್ಯೆ ದೊಡ್ಡದು. ಅಲ್ಲೇ ಒಂದು ಕೆಲಸ ಹುಡುಕಿಕೊಂಡು, ಸ್ವಲ್ಪ ಹಣ ಕೂಡಿಟ್ಟು ತಮ್ಮ ದೇಶದಲ್ಲಿರುವ ಕುಟುಂಬಕ್ಕೆ ನೆರವಾಗಬೇಕು, ಮಾಡಿರುವ ಸಾಲ ತೀರಿಸಬೇಕು, ಒಳ್ಳೆಯ ಬದುಕು ಕಟ್ಟಿಕೊಳ್ಳಬೇಕು, ಅನ್ನೋ ಕನಸುಗಳು. ಆದರೆ, ಸೂಕ್ತ ದಾಖಲೆಗಳಿಲ್ಲದೆ, ಅಧಿಕೃತ ಅನುಮತಿ ಇಲ್ಲದೆ , ಹೇಗೋ ಅಮೆರಿಕದೊಳಗೆ ಪ್ರವೇಶ ಮಾಡಿ ಮತ್ತೆ ವಾಪಸ್‌ ಹೋಗದೆ ಅಡಗಿಕೊಳ್ಳುವ ಅಕ್ರಮ ವಲಸಿಗರನ್ನು ಟ್ರಂಪ್‌ ಆಡಳಿತ ಹುಡುಕುತ್ತಿದೆ. ಸಿಕ್ಕವರನ್ನು ಬಂಧಿಸಿ, ಕೋರ್ಟು-ಜೈಲು ಅಂತ ಕೋಳ ಹಾಕಿ ಓಡಾಡಿಸುತ್ತಿದೆ. ಇನ್ನೂ ಕೆಲವರನ್ನು ಗಡಿಪಾರು ಮಾಡುತ್ತಿದೆ. ಒಟ್ನಲ್ಲಿ ಅಕ್ರಮವಾಗಿ ನೆಲೆಸಿರೋರನ್ನು ಖಂಡಿತ ಬಿಡೋದಿಲ್ಲ ಅನ್ನೋ ಎಚ್ಚರಿಕೆಯನ್ನು ರವಾನಿಸಿದೆ ಐಸಿಇ, ಇಮಿಗ್ರೇಷನ್‌ ಅಂಡ್‌ ಕಸ್ಟಮ್ಸ್‌ ಎನ್‌ಫೋರ್ಸ್‌ಮೆಂಟ್‌. ತಾವಾಗಿಯೇ ಗಡಿಪಾರಾದ್ರೆ ಒಂದು ಸಾವಿರ ಡಾಲರ್‌ ನೆರವು ಕೊಡೋದಾಗೆ ಘೋಷಿಸಿದ್ದ ಸರಕಾರವು, ಅಕ್ರಮವಾಗಿ ಗಡಿದಾಟಿ ಅಮೆರಿಕಕ್ಕೆ ಬಂದಿದ್ದ ಮಕ್ಕಳಿಗೆ ಮತ್ತೊಂದು ಹೊಸ ಆಫರ್‌ ಮುಂದಿಟ್ಟಿದೆ.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 09:33:03",
+        "pubDateTZ": "UTC",
+        "image_url": "https://static.langimg.com/vk/thumb/124305468/us-donald-trump-administration-offer-to-migrants-childresn-2500-dollars-to-voluntary-return-to-home-countries.jpg?height=900&imgsize=91814&resizemode=75&width=1600",
+        "video_url": null,
+        "source_id": "vijaykarnataka",
+        "source_name": "Vijaya Karnataka",
+        "source_priority": 323577,
+        "source_url": "https://vijaykarnataka.com",
+        "source_icon": "https://n.bytvi.com/vijaykarnataka.png",
+        "language": "kannada",
+        "country": [
+          "india"
+        ],
+        "category": [
+          "business",
+          "lifestyle",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "e607bb466b199a69f5869e618165bcb9",
+        "title": "Greenwood Capital Associates LLC Reduces Holdings in Schrodinger, Inc. $SDGR",
+        "link": "https://www.watchlistnews.com/greenwood-capital-associates-llc-reduces-holdings-in-schrodinger-inc-sdgr/10821351.html",
+        "keywords": [
+          "sec filing articles",
+          "investing"
+        ],
+        "creator": [
+          "Hanz Christensen"
+        ],
+        "description": "Greenwood Capital Associates LLC lessened its stake in Schrodinger, Inc. (NASDAQ:SDGR – Free Report) by 5.0% in the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 21,993 shares of the company’s stock after selling 1,146 shares during the period. Greenwood Capital Associates [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 09:32:56",
+        "pubDateTZ": "UTC",
+        "image_url": "https://www.marketbeat.com/logos/schro%CC%88dinger-inc-logo-1200x675.png?v=20240515085346",
+        "video_url": null,
+        "source_id": "watchlistnews",
+        "source_name": "Watch List News",
+        "source_priority": 927984,
+        "source_url": "https://www.watchlistnews.com",
+        "source_icon": "https://n.bytvi.com/watchlistnews.png",
         "language": "english",
         "country": [
           "united states of america"

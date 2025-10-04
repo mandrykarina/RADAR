@@ -1,8 +1,195 @@
 {
   "source": "polygon",
-  "timestamp": "2025-10-04T18:20:19.063703",
+  "timestamp": "2025-10-04T21:34:32.117953",
   "raw_data": {
     "articles": [
+      {
+        "id": "d7e6f91c2b37444dc8a0e3f62d9542ba4dfdf7b1f5917b5ad0d6023a54f52233",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "CTO IMPORTANT DEADLINE: ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages CTO Realty Growth, Inc. Investors with Losses in Excess of $50K to Secure Counsel Before Important October 7 Deadline in Securities Class Action – CTO, CTO-PA",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T20:10:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161302/673/en/CTO-IMPORTANT-DEADLINE-ROSEN-A-TRUSTED-AND-LEADING-LAW-FIRM-Encourages-CTO-Realty-Growth-Inc-Investors-with-Losses-in-Excess-of-50K-to-Secure-Counsel-Before-Important-October-7-Dea.html",
+        "tickers": [
+          "CTO",
+          "CTOpA"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts CTO Realty Growth investors of a securities class action lawsuit alleging false financial statements and misleading disclosures about dividend sustainability and financial performance during February 2021 to June 2025.",
+        "keywords": [
+          "securities lawsuit",
+          "class action",
+          "investor rights",
+          "financial disclosure"
+        ],
+        "insights": [
+          {
+            "ticker": "CTO",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges the company made false statements about dividend sustainability, artificially inflated financial metrics, and overstated business prospects, suggesting potential financial misconduct"
+          },
+          {
+            "ticker": "CTOpA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges the company made false statements about dividend sustainability, artificially inflated financial metrics, and overstated business prospects, suggesting potential financial misconduct"
+          }
+        ]
+      },
+      {
+        "id": "33fa83d77e9a2d059f002c21d2360fbce0512cde849e980b4d2bffb18c0c9698",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "CTO 重要截止日期：廣受信賴的律所巨擘 ROSEN 呼籲蒙受損失超過 5 萬美元的 CTO Realty Growth, Inc. 投資人在證券集體訴訟重要截止日期 10 月 7 日前聘請律師 – CTO、CTO-PA",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T20:10:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161303/673/zh-hant/CTO-%E9%87%8D%E8%A6%81%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F-%E5%BB%A3%E5%8F%97%E4%BF%A1%E8%B3%B4%E7%9A%84%E5%BE%8B%E6%89%80%E5%B7%A8%E6%93%98-ROSEN-%E5%91%BC%E7%B1%B2%E8%92%99%E5%8F%97%E6%90%8D%E5%A4%B1%E8%B6%85%E9%81%8E-5-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84-CTO-Realty-Growth-Inc-%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9C%A8%E8%AD%89%E5%88%B8%E9%9B%86%E9%AB%94%E8%A8%B4%E8%A8%9F%E9%87%8D%E8%A6%81%E6%88%AA%E6%AD%A2%E6%97%A5%E6%9C%9F-10-%E6%9C%88-7-%E6%97%A5%E5%89%8D%E8%81%98%E8%AB%8B%E5%BE%8B%E5%B8%AB-CTO-CTO-PA.html",
+        "tickers": [
+          "CTO",
+          "CTOpA"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts investors who purchased CTO Realty Growth stock between February 2021 and June 2025 about an upcoming class action lawsuit deadline on October 7, 2025, alleging misleading financial statements and unsustainable dividend practices.",
+        "keywords": [
+          "securities lawsuit",
+          "class action",
+          "investor rights",
+          "financial disclosure"
+        ],
+        "insights": [
+          {
+            "ticker": "CTO",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made false statements about dividend sustainability, artificially inflated financial performance, and misrepresented business prospects, suggesting potential financial misconduct"
+          },
+          {
+            "ticker": "CTOpA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made false statements about dividend sustainability, artificially inflated financial performance, and misrepresented business prospects, suggesting potential financial misconduct"
+          }
+        ]
+      },
+      {
+        "id": "81e269e5d66208349c1a1ef3a59778f33e780998f20c002e5bd3ee1f5a20336c",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "Ethereum-Based Meme Coin MAGACOIN FINANCE Crosses $15.5M in Presale Funding",
+        "author": "Rebecca Miles",
+        "published_utc": "2025-10-04T19:26:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161299/0/en/Ethereum-Based-Meme-Coin-MAGACOIN-FINANCE-Crosses-15-5M-in-Presale-Funding.html",
+        "tickers": [
+          "CBTC",
+          "ETHV",
+          "XRPFF"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/d2315e60-36df-4b81-b5a7-6a7a332b5101",
+        "description": "MAGACOIN FINANCE, an Ethereum-based meme coin, has raised over $15.5 million in presale funding, attracting significant investor attention due to its strong presale performance and Ethereum network infrastructure.",
+        "keywords": [
+          "cryptocurrency",
+          "presale",
+          "meme coin",
+          "Ethereum",
+          "altcoin"
+        ],
+        "insights": [
+          {
+            "ticker": "CBTC",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Described as steady near key technical levels with no significant positive or negative indicators"
+          },
+          {
+            "ticker": "ETHV",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Noted as benefiting from institutional adoption and providing strong infrastructure for new projects"
+          },
+          {
+            "ticker": "XRPFF",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as being in the spotlight due to ETF speculation, but no definitive positive or negative assessment"
+          }
+        ]
+      },
+      {
+        "id": "9ae1b08555160ad0d4334d972ead39f0da3f23c00ce9923dc5afd8e2abf2768b",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "PUBM DEADLINE: ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages PubMatic, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – PUBM",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T18:25:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161296/673/en/PUBM-DEADLINE-ROSEN-A-TRUSTED-AND-LEADING-LAW-FIRM-Encourages-PubMatic-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-PUBM.html",
+        "tickers": [
+          "PUBM"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts PubMatic investors about a securities class action lawsuit regarding potentially misleading statements about business performance during February 27-August 11, 2025.",
+        "keywords": [
+          "securities",
+          "class action",
+          "investor rights",
+          "lawsuit"
+        ],
+        "insights": [
+          {
+            "ticker": "PUBM",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Lawsuit alleges company made false and misleading statements about business operations, including reduced ad spend and revenue from a top demand side platform buyer, which suggests potential financial misrepresentation"
+          }
+        ]
+      },
+      {
+        "id": "c20b6c747cf755e0ab50b0a03bf1d196623a91eb64a3e89896809c5ddfa807da",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Where Will Target Stock Be in 5 Years?",
+        "author": "Leo Sun",
+        "published_utc": "2025-10-04T18:19:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/where-will-target-stock-be-in-5-years/?source=iedfolrf0000001",
+        "tickers": [
+          "TGT",
+          "WMT"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835821/teen-shoppers-selfie.jpg",
+        "description": "Target, a major U.S. retailer, has experienced significant stock value decline from its 2021 peak due to pandemic aftermath, inflation, and political challenges. Despite difficulties, the company aims to grow revenue and maintain its Dividend King status by focusing on private labels, marketplace expansion, and technological improvements.",
+        "keywords": [
+          "retail",
+          "stock performance",
+          "dividend",
+          "inflation",
+          "e-commerce"
+        ],
+        "insights": [
+          {
+            "ticker": "TGT",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Stock has declined significantly but shows potential for modest growth through strategic initiatives; facing multiple challenges but maintaining long-term expansion plans"
+          },
+          {
+            "ticker": "WMT",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a larger rival to Target, but no specific performance details provided"
+          }
+        ]
+      },
       {
         "id": "52ce007a476086e1afae3dbf74b2c73d539aa41ae9c14643251e02e97dbce0a8",
         "publisher": {
@@ -1739,167 +1926,6 @@
             "ticker": "MRCC",
             "sentiment": "positive",
             "sentiment_reasoning": "Launched innovative product line with advanced technical improvements, focusing on safety, durability, and performance for commercial vehicles"
-          }
-        ]
-      },
-      {
-        "id": "75a8950573eca61852375d0998b04b6656359b789891c54d396fdd2e4fc9a8b7",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "Should You Buy Wolfspeed Stock Right Now?",
-        "author": "Johnny Rice",
-        "published_utc": "2025-10-04T08:31:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/should-you-buy-wolfspeed-right-now/?source=iedfolrf0000001",
-        "tickers": [
-          "WOLF"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/834815/wolfstockdilution.jpg",
-        "description": "Wolfspeed emerged from Chapter 11 bankruptcy by reducing debt by 70% and replacing existing stock with new shares, resulting in shareholders receiving only one new share for every 120 previously owned.",
-        "keywords": [
-          "bankruptcy",
-          "stock dilution",
-          "electric vehicle market",
-          "chipmaker"
-        ],
-        "insights": [
-          {
-            "ticker": "WOLF",
-            "sentiment": "negative",
-            "sentiment_reasoning": "The company underwent significant stock dilution, reduced shareholder value dramatically during bankruptcy, faces ongoing challenges in the electric vehicle market, and still has unresolved operational issues despite debt reduction"
-          }
-        ]
-      },
-      {
-        "id": "fb3f86c7837fc9559bdd1cccac234810119d8994aacbf9bcd43e3606d5a13af6",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Dangbei partecipa ai Prime Big Deal Days di Amazon Italia con sconti fino a 300 €",
-        "author": "Dangbei Pr Office",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161264/0/it/Dangbei-partecipa-ai-Prime-Big-Deal-Days-di-Amazon-Italia-con-sconti-fino-a-300.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is participating in Amazon's Prime Big Deal Days from October 4-10, 2025, offering discounts up to €300 on various 4K and portable projector models across multiple European markets.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon",
-          "Prime Big Deal Days",
-          "smart technology"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Facilitating sales promotions for technology brands and providing platform for product discounts during Prime Big Deal Days"
-          }
-        ]
-      },
-      {
-        "id": "d4ed0090638093446b97cb08212b20115cca367c20a5dddca14cf6609f6f8a0c",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Ahorre hasta 300 € en proyectores Dangbei durante los Prime Big Deal Days de Amazon España",
-        "author": "Dangbei Press Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161265/0/es/Ahorre-hasta-300-en-proyectores-Dangbei-durante-los-Prime-Big-Deal-Days-de-Amazon-Espa%C3%B1a.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is offering significant discounts on its range of 4K and portable projectors during Amazon's Prime Big Deal Days from October 4-10, 2025, with price reductions up to €300 across multiple projector models.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon",
-          "Prime Big Deal Days",
-          "discounts",
-          "home entertainment"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Hosting a successful multi-country Prime Big Deal Days event that attracts technology vendors like Dangbei, demonstrating platform's attractiveness for product promotions"
-          }
-        ]
-      },
-      {
-        "id": "d01fb8a55a29f9d342c8ce43e380fd3bdc68da1f8c5ad46d66c6de787ecb2e00",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Dangbei Joins Amazon Italy’s Prime Big Deal Days with Savings Up to €300",
-        "author": "Dangbei Pr Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161264/0/en/Dangbei-Joins-Amazon-Italy-s-Prime-Big-Deal-Days-with-Savings-Up-to-300.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is offering discounts up to €300 on its projector lineup during Amazon Italy's Prime Big Deal Days from October 4-10, 2025, featuring 4K and portable models with price reductions across various product lines.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon",
-          "Prime Big Deal Days",
-          "discounts",
-          "laser projectors"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Hosting successful multi-country sales event that attracts technology vendors and provides consumer value"
-          }
-        ]
-      },
-      {
-        "id": "cba5e086d9be603e68d02601337c06faa813b481358d311e3236fd99b6146933",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Dangbei Joins Amazon’s Prime Big Deal Days in Germany with Discounts Up to 40%",
-        "author": "Dangbei Pr Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161262/0/en/Dangbei-Joins-Amazon-s-Prime-Big-Deal-Days-in-Germany-with-Discounts-Up-to-40.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is offering significant discounts on its projector lineup during Amazon Germany's Prime Big Deal Days from October 4-10, 2025, with savings up to 40% on models ranging from entry-level to high-end 4K home cinema projectors.",
-        "keywords": [
-          "projectors",
-          "Amazon",
-          "4K",
-          "Prime Big Deal Days",
-          "discounts"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Hosting a sales event that provides platform for product promotions and potentially increases customer engagement and sales"
           }
         ]
       }
