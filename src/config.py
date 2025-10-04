@@ -4,15 +4,17 @@
 API_KEYS = {
     "newsapi": "bfab95463f0a470b89e8dd50ff0aebf7",
     "polygon": "fs0KdxS96Q8Pjt96G0T5KXT0rpKR_sip", 
-    "finnhub": "d3fqfopr01qolknedg00d3fqfopr01qolknedg0g",
-    "twelve_data": "6bd3056d165542f79bfb0224c1843db8",  # 🆕 НОВЫЙ API
+    "finnhub": "d3ghv7hr01qpep66viq0d3ghv7hr01qpep66viqg",
+    "marketaux": "O0PAhUdU3mm8MUwi8Tc1JXRDAb0pBU89fMnOivS9",
     "newsdata": "pub_3e37db7de78347b3af0f2cc25311109b"
 }
 
 RATE_LIMITS = {
-    "newsapi": 60, "polygon": 12, "finnhub": 1, 
-    "twelve_data": 1620,
-    "newsdata": 480
+    "newsapi": 60,
+    "polygon": 12,
+    "finnhub": 60,
+    "marketaux": 864,
+    "newsdata": 60
 }
 
 # ============= ПОИСКОВЫЕ КЛЮЧЕВЫЕ СЛОВА =============
@@ -95,30 +97,24 @@ FILTER_SETTINGS = {
 # ============= НАСТРОЙКИ ПОИСКА ДЛЯ API =============
 SEARCH_CONFIG = {
     "newsapi": {
-        "query": "finance OR economy OR market OR stock OR banking OR "
-                "investment OR bitcoin OR crypto OR inflation OR recession",
+        "query": "finance OR economy OR market OR stock OR banking OR investment OR bitcoin OR crypto OR inflation OR recession",
         "categories": ["business", "finance"],
         "language": "en",
         "page_size": 50
     },
-
     "polygon": {
         "limit": 50
     },
-
     "finnhub": {
         "category": "general"
     },
-
-    "twelve_data": {
-        "market": "stocks",
-        "direction": "gainers", 
-        "outputsize": 50
+    "marketaux": {
+        "limit": 50,
+        "must_have_entities": True,
+        "language": "en"
     },
-
     "newsdata": {
-        "query": "finance OR economy OR market OR stock OR banking OR "
-                "bitcoin OR crypto OR inflation OR recession",
+        "query": "finance OR economy OR market OR stock OR banking OR bitcoin OR crypto OR inflation OR recession",
         "categories": ["business", "finance"],
         "languages": ["en"],
         "size": 10
