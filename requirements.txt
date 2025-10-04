@@ -1,0 +1,36 @@
+psycopg2-binary==2.9.9
+sentence-transformers==2.7.0
+scikit-learn==1.5.0
+transformers==4.41.2
+torch==2.3.1
+numpy==1.26.4
+# --- Основные ---
+requests>=2.28.0
+beautifulsoup4
+lxml
+html5lib
+
+# --- Нормализация текста ---
+newspaper3k
+langdetect
+spacy
+nltk
+
+# --- Работа с файлами и JSON ---
+pandas
+
+# --- Вспомогательные ---
+tldextract
+feedparser
+python-dotenv
+
+# --- Для асинхронных или продвинутых запросов (если будешь расширять парсер) ---
+aiohttp
+httpx
+
+# --- Если используешь ScraperAPI ---
+fake-useragent
+
+# --- Утилиты разработки ---
+pytest
+ipython
