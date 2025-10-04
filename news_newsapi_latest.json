@@ -1,13 +1,13 @@
 {
   "source": "newsapi",
-  "timestamp": "2025-10-04T16:57:18.520064",
+  "timestamp": "2025-10-04T18:40:50.549221",
   "total_articles_from_api": 50,
   "filtered_articles_count": 47,
   "filtered_out_count": 3,
   "priority_articles_count": 3,
   "raw_api_response": {
     "status": "ok",
-    "totalResults": 4482,
+    "totalResults": 5106,
     "articles": [
       {
         "source": {
@@ -51,6 +51,19 @@
       {
         "source": {
           "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Elon Musk Fans Are Still Losing Ridiculous Amounts of Money to Crypto Scams",
+        "description": "\"I was devastated knowing I fell for something like this,\" wrote one person in Florida who said they lost $41,000.",
+        "url": "https://gizmodo.com/elon-musk-tesla-bitcoin-crypto-scams-price-2000666537",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/03/DOGE-1200x675.jpg",
+        "publishedAt": "2025-10-03T14:00:30Z",
+        "content": "If you’re going to run a crypto scam, it makes sense to invoke Elon Musk’s name. He is the wealthiest man in the world, after all, recently surpassing a net worth of $500 billion according to Forbes.… [+35371 chars]"
+      },
+      {
+        "source": {
+          "id": null,
           "name": "Yahoo Entertainment"
         },
         "author": "Jeannine Mancini",
@@ -73,6 +86,19 @@
         "urlToImage": "https://media.zenfs.com/en/zacks.com/7964272fa232b9e24703b1c33d6e6ba0",
         "publishedAt": "2025-10-03T06:59:00Z",
         "content": "Here are three stocks added to the Zacks Rank #5 (Strong Sell) List today:\r\nLightspeed POS LSPD provides one-stop commerce platform for merchants. The Zacks Consensus Estimate for its current year ea… [+956 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Zacks Equity Research",
+        "title": "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, IBM, D-Wave and IonQ",
+        "description": "NVDA, MSFT, IBM, QBTS, and IONQ are poised to benefit from quantum computing advancements, combining hardware breakthroughs, commercial traction, and...",
+        "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-091000163.html",
+        "urlToImage": "https://media.zenfs.com/en/zacks.com/cbfcc2d36e5d5391b79e00de30b0354f",
+        "publishedAt": "2025-10-03T09:10:00Z",
+        "content": "For Immediate Release\r\nChicago, IL – October 3, 2025 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and ev… [+6759 chars]"
       },
       {
         "source": {
@@ -180,6 +206,19 @@
       },
       {
         "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Alistair Barr",
+        "title": "OpenAI enters a special new phase of extreme influence",
+        "description": "OpenAI products and ideas are spooking investors and redefining industries like SaaS, e-commerce, and digital advertising.",
+        "url": "https://www.businessinsider.com/openai-extreme-influence-sam-altman-sora-saas-ecommerce-2025-10",
+        "urlToImage": "https://i.insider.com/68dec0905dbc4fd10daa0fc6?width=1200&format=jpeg",
+        "publishedAt": "2025-10-03T15:00:01Z",
+        "content": "Sam Altman, CEO OpenAI, photographed in BerlinIMAGO/BMF via Reuters Connect\r\n<ul><li>A version of this story originally appeared in the BI Tech Memo newsletter.</li><li>Sign up for the weekly BI Tech… [+3060 chars]"
+      },
+      {
+        "source": {
           "id": null,
           "name": "Kotaku"
         },
@@ -191,6 +230,19 @@
         "publishedAt": "2025-10-03T12:40:51Z",
         "content": "If youre ready to upgrade your old machine to something more efficient and fast, the 15-inch HP 250 G10 business laptop has dropped to below $1,000 on Amazon; a serious markdown from its original $2,… [+2131 chars]",
         "_priority": true
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Hannah Parker",
+        "title": "Goldman Sachs CEO says AI boom could feed stock market drawdown",
+        "description": "Goldman Sachs CEO David Solomon predicts a stock market reset is coming in the next 12 to 24 months following a “big investment cycle” in AI",
+        "url": "https://qz.com/goldman-sachs-ceo-ai-stock-market-drawdown",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XDs3l3y_22IiRoRgxXSpOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/af6c397ffc63e957fd1bd29adf3649ed",
+        "publishedAt": "2025-10-03T14:35:57Z",
+        "content": "Goldman Sachs CEO David Solomon says the stock market will soon experience a drawdown as the results from a big investment cycle in AI start to show: There are going to be winners and losers.\r\nI woul… [+1647 chars]"
       },
       {
         "source": {
@@ -309,6 +361,19 @@
         "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68df5bc0ccc866d9ea8fe06a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "publishedAt": "2025-10-03T12:32:10Z",
         "content": "HOUSTON, TEXAS - SEPTEMBER 23: Eli Lilly CEO David A. Ricks speaks at a press conference at Generation Park in Houston, Monday, Sept. 23, 2025. The company announced plans for a $6.5 billion biomanuf… [+3331 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Brandt Ranj",
+        "title": "A bundle with Amazon’s biggest smart display and a stand just got its biggest discount",
+        "description": "Amazon announced a bunch of new hardware earlier in the week, but the Echo Show 21 wasn’t updated and remains its biggest smart display. You can get a bundle that includes the Echo Show 21 and its Premium Adjustable Stand for $439.99 ($84.99 off) at Amazon. I…",
+        "url": "https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Amazon-Echo-Show-21-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-10-03T14:47:58Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found great deals on an Anker 3-in-1 Qi2 charger and JBL earbuds.\r\nWe also found great deals on an Anker 3-in-1 Qi2 charger and JBL earbuds.\r\nby\r\nBrandt … [+4500 chars]"
       },
       {
         "source": {
@@ -457,6 +522,19 @@
       {
         "source": {
           "id": null,
+          "name": "Forbes"
+        },
+        "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+        "title": "How RGTI Stock Rises To $350?",
+        "description": "The quantum computing industry has generally experienced a boom, with Rigetti outperforming its competitors. Here is what has been driving the momentum..",
+        "url": "https://www.forbes.com/sites/greatspeculations/2025/10/03/how-rgti-stock-rises-to-350/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dfd80a04c481d113ae71b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2025-10-03T14:07:11Z",
+        "content": "The Rigetti Computing logo appears on a smartphone screen and as the background on a laptop computer screen in this photo illustration in Athens, Greece, on September 25, 2025. (Photo by Nikolas Koko… [+7787 chars]"
+      },
+      {
+        "source": {
+          "id": null,
           "name": "Yahoo Entertainment"
         },
         "author": null,
@@ -547,6 +625,19 @@
       },
       {
         "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "jsor@businessinsider.com (Jennifer Sor)",
+        "title": "Goldman Sachs CEO David Solomon has 4 big predictions for markets and the economy in the next few years",
+        "description": "A stock market drop, losers and winners of the AI trade, and another booming year for dealmaking are on David Solomon's radar.",
+        "url": "https://www.businessinsider.com/goldman-sachs-david-solomon-stock-market-outlook-bull-market-economy-2025-10",
+        "urlToImage": "https://i.insider.com/68dfc6b31c1f80efbec4d8dd?width=1200&format=jpeg",
+        "publishedAt": "2025-10-03T14:41:15Z",
+        "content": "Goldman Sachs's top executive is feeling good about markets, with some important caveats.\r\nDavid Solomon, the bank's CEO, struck an upbeat tone when speaking about stocks and the US economy at Italia… [+3739 chars]"
+      },
+      {
+        "source": {
           "id": "the-times-of-india",
           "name": "The Times of India"
         },
@@ -570,97 +661,6 @@
         "urlToImage": "https://media.zenfs.com/en/reuters.com/905f2bda003a3c6f61a94b63fecfeef1",
         "publishedAt": "2025-10-03T03:18:44Z",
         "content": "By Leika Kihara\r\nOSAKA (Reuters) -Bank of Japan Governor Kazuo Ueda said inflation was on track to durably hit the bank's target but warned of global uncertainties that could discourage firms from ra… [+4171 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cointelegraph"
-        },
-        "author": "Cointelegraph by Ezra Reguerra",
-        "title": "Nomura moves to capture Japan’s booming institutional crypto market",
-        "description": "Nomura subsidiary Laser Digital confirmed to Cointelegraph that it is in talks with Japan’s FSA to apply for a crypto trading license, eyeing the country’s institutional investors.",
-        "url": "https://cointelegraph.com/news/nomura-laser-digital-japan-crypto-license",
-        "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-07/0197f8b8-1677-7484-ae80-453da323dcd1",
-        "publishedAt": "2025-10-03T12:16:56Z",
-        "content": "Financial services holding company Nomura Holdings is preparing to expand into Japans cryptocurrency market through its Switzerland-based subsidiary, Laser Digital Holdings.\r\nA Laser Digital spokespe… [+2514 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Dlnews.com"
-        },
-        "author": "Lance Datskoluo",
-        "title": "BlackRock, Fidelity pile in as crypto companies raise $3.3bn in September",
-        "description": "Investments in crypto startups on pace to reach $25 billion. This month saw raises for exchanges and infrastructure companies. Wall Street titans piling in.",
-        "url": "https://www.dlnews.com/articles/markets/crypto-companies-raise-over-3bn-in-september/",
-        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T90MtozIhalRioL8oT5fAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/9dce25dbaeb0fda7e8a74dfe31051166",
-        "publishedAt": "2025-10-03T08:52:28Z",
-        "content": "Seventy-seven crypto companies raised over $3.3 billion in September, according to DefiLlama data.\r\nThat brings the total funding for crypto companies to over $17 billion so far in 2025, outpacing 20… [+2318 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cryptonews"
-        },
-        "author": "Shalini Nagarajan",
-        "title": "Bitcoin Breaks $120K As ‘Uptober’ Momentum Rises, Shutdown Fails To Stall Gains",
-        "description": "Bitcoin pushed above $120,000 late Thursday, extending a strong run that began in September and kept rolling into October, a month traders call Uptober for...",
-        "url": "https://cryptonews.com/news/bitcoin-price-120k-uptober-momentum-rises/",
-        "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/9f74117bee5f1bf3dc7b3eb740ce5506",
-        "publishedAt": "2025-10-03T03:50:36Z",
-        "content": "Bitcoin pushed above $120,000 late Thursday, extending a strong run that began in September and kept rolling into October, a month traders call Uptober for its bullish record.\r\nThe move followed a qu… [+2462 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Cryptonews"
-        },
-        "author": "Shalini Nagarajan",
-        "title": "Nomura Unit Eyes Wider Access To Crypto Trading In Japan: Report",
-        "description": "Nomura Holdings is preparing to deepen its presence in Japan’s digital asset market as crypto activity surges, with its wholly owned subsidiary Laser Digital...",
-        "url": "https://cryptonews.com/news/nomura-unit-laser-eyes-wider-access-crypto-trading-japan/",
-        "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/fbd3e733373564c7110a44031f029bce",
-        "publishedAt": "2025-10-03T06:04:52Z",
-        "content": "Nomura Holdings is preparing to deepen its presence in Japans digital asset market as crypto activity surges, with its wholly owned subsidiary Laser Digital Holdings seeking a license to offer tradin… [+2326 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Yahoo Entertainment"
-        },
-        "author": "Pratyush Thakur",
-        "title": "Rothschild backs Coinbase while flags risks at Circle and Robinhood",
-        "description": "Investing.com -- Rothschild & Co took diverging views across three high-profile crypto-linked stocks, upgrading Coinbase to Buy while starting Circle CRCL...",
-        "url": "https://finance.yahoo.com/news/rothschild-backs-coinbase-while-flags-135425089.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2025-10-03T13:54:25Z",
-        "content": "Investing.com -- Rothschild &amp; Co took diverging views across three high-profile crypto-linked stocks, upgrading Coinbase to Buy while starting Circle CRCL) at Neutral and reiterating a Sell on Ro… [+2001 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "Biztoc.com"
-        },
-        "author": "benzinga.com",
-        "title": "'Shark Tank' Star Kevin O'Leary Says Bitcoin Mining, AI Data Centers Are Locked In A 'Power Struggle' Amid Scarce Electricity In US",
-        "description": "Renowned investor and \"Shark Tank\" personality Kevin O'Leary said Wednesday that artificial intelligence data centers and Bitcoin (CRYPTO: BTC) mining are “competing” for scarce electricity in North America.\nO’Leary Says US Doesn’t Have Much Power\nDuring an i…",
-        "url": "https://biztoc.com/x/5ab5d06304334bb8",
-        "urlToImage": "https://biztoc.com/cdn/5ab5d06304334bb8_s.webp",
-        "publishedAt": "2025-10-03T12:38:45Z",
-        "content": "Renowned investor and \"Shark Tank\" personality Kevin O'Leary said Wednesday that artificial intelligence data centers and Bitcoin (CRYPTO: BTC) mining are competing for scarce electricity in North Am… [+136 chars]"
-      },
-      {
-        "source": {
-          "id": null,
-          "name": "CoinDesk"
-        },
-        "author": "Shaurya Malwa",
-        "title": "BNB Breakout Over $1.1K Leaves Bitcoin, Dogecoin Behind, With Ecosystem Tokens in Focus",
-        "description": "Pancakeswap’s CAKE is up nearly 30% in the past 24 hours, with newer token ASTER up 18%. Memes like FLOKI, CAT and others are yet to catch up to fundamental plays, however.",
-        "url": "https://www.coindesk.com/markets/2025/10/03/bnb-breakout-over-usd1-1k-leaves-bitcoin-dogecoin-behind-with-ecosystem-tokens-in-focus",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f58b872f36faa40471414291a300a0c24aafdd54-1919x1080.jpg?auto=format",
-        "publishedAt": "2025-10-03T06:02:47Z",
-        "content": "BNBs push above $1,100 has shifted attention to the BNB Chains native names, with investors rotating into protocols that capture fees and on-chain activity.\r\nActivity on the network has risen partly … [+1656 chars]"
       }
     ]
   },
@@ -749,6 +749,19 @@
     {
       "source": {
         "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Elon Musk Fans Are Still Losing Ridiculous Amounts of Money to Crypto Scams",
+      "description": "\"I was devastated knowing I fell for something like this,\" wrote one person in Florida who said they lost $41,000.",
+      "url": "https://gizmodo.com/elon-musk-tesla-bitcoin-crypto-scams-price-2000666537",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/DOGE-1200x675.jpg",
+      "publishedAt": "2025-10-03T14:00:30Z",
+      "content": "If you’re going to run a crypto scam, it makes sense to invoke Elon Musk’s name. He is the wealthiest man in the world, after all, recently surpassing a net worth of $500 billion according to Forbes.… [+35371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Jeannine Mancini",
@@ -771,6 +784,19 @@
       "urlToImage": "https://media.zenfs.com/en/zacks.com/7964272fa232b9e24703b1c33d6e6ba0",
       "publishedAt": "2025-10-03T06:59:00Z",
       "content": "Here are three stocks added to the Zacks Rank #5 (Strong Sell) List today:\r\nLightspeed POS LSPD provides one-stop commerce platform for merchants. The Zacks Consensus Estimate for its current year ea… [+956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Zacks Equity Research",
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, IBM, D-Wave and IonQ",
+      "description": "NVDA, MSFT, IBM, QBTS, and IONQ are poised to benefit from quantum computing advancements, combining hardware breakthroughs, commercial traction, and...",
+      "url": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-091000163.html",
+      "urlToImage": "https://media.zenfs.com/en/zacks.com/cbfcc2d36e5d5391b79e00de30b0354f",
+      "publishedAt": "2025-10-03T09:10:00Z",
+      "content": "For Immediate Release\r\nChicago, IL – October 3, 2025 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and ev… [+6759 chars]"
     },
     {
       "source": {
@@ -878,6 +904,32 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alistair Barr",
+      "title": "OpenAI enters a special new phase of extreme influence",
+      "description": "OpenAI products and ideas are spooking investors and redefining industries like SaaS, e-commerce, and digital advertising.",
+      "url": "https://www.businessinsider.com/openai-extreme-influence-sam-altman-sora-saas-ecommerce-2025-10",
+      "urlToImage": "https://i.insider.com/68dec0905dbc4fd10daa0fc6?width=1200&format=jpeg",
+      "publishedAt": "2025-10-03T15:00:01Z",
+      "content": "Sam Altman, CEO OpenAI, photographed in BerlinIMAGO/BMF via Reuters Connect\r\n<ul><li>A version of this story originally appeared in the BI Tech Memo newsletter.</li><li>Sign up for the weekly BI Tech… [+3060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Hannah Parker",
+      "title": "Goldman Sachs CEO says AI boom could feed stock market drawdown",
+      "description": "Goldman Sachs CEO David Solomon predicts a stock market reset is coming in the next 12 to 24 months following a “big investment cycle” in AI",
+      "url": "https://qz.com/goldman-sachs-ceo-ai-stock-market-drawdown",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XDs3l3y_22IiRoRgxXSpOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/quartz_855/af6c397ffc63e957fd1bd29adf3649ed",
+      "publishedAt": "2025-10-03T14:35:57Z",
+      "content": "Goldman Sachs CEO David Solomon says the stock market will soon experience a drawdown as the results from a big investment cycle in AI start to show: There are going to be winners and losers.\r\nI woul… [+1647 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -953,6 +1005,19 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68df5bc0ccc866d9ea8fe06a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-10-03T12:32:10Z",
       "content": "HOUSTON, TEXAS - SEPTEMBER 23: Eli Lilly CEO David A. Ricks speaks at a press conference at Generation Park in Houston, Monday, Sept. 23, 2025. The company announced plans for a $6.5 billion biomanuf… [+3331 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "A bundle with Amazon’s biggest smart display and a stand just got its biggest discount",
+      "description": "Amazon announced a bunch of new hardware earlier in the week, but the Echo Show 21 wasn’t updated and remains its biggest smart display. You can get a bundle that includes the Echo Show 21 and its Premium Adjustable Stand for $439.99 ($84.99 off) at Amazon. I…",
+      "url": "https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Amazon-Echo-Show-21-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T14:47:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found great deals on an Anker 3-in-1 Qi2 charger and JBL earbuds.\r\nWe also found great deals on an Anker 3-in-1 Qi2 charger and JBL earbuds.\r\nby\r\nBrandt … [+4500 chars]"
     },
     {
       "source": {
@@ -1087,6 +1152,19 @@
     {
       "source": {
         "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "How RGTI Stock Rises To $350?",
+      "description": "The quantum computing industry has generally experienced a boom, with Rigetti outperforming its competitors. Here is what has been driving the momentum..",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/10/03/how-rgti-stock-rises-to-350/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dfd80a04c481d113ae71b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-10-03T14:07:11Z",
+      "content": "The Rigetti Computing logo appears on a smartphone screen and as the background on a laptop computer screen in this photo illustration in Athens, Greece, on September 25, 2025. (Photo by Nikolas Koko… [+7787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": null,
@@ -1177,6 +1255,19 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jsor@businessinsider.com (Jennifer Sor)",
+      "title": "Goldman Sachs CEO David Solomon has 4 big predictions for markets and the economy in the next few years",
+      "description": "A stock market drop, losers and winners of the AI trade, and another booming year for dealmaking are on David Solomon's radar.",
+      "url": "https://www.businessinsider.com/goldman-sachs-david-solomon-stock-market-outlook-bull-market-economy-2025-10",
+      "urlToImage": "https://i.insider.com/68dfc6b31c1f80efbec4d8dd?width=1200&format=jpeg",
+      "publishedAt": "2025-10-03T14:41:15Z",
+      "content": "Goldman Sachs's top executive is feeling good about markets, with some important caveats.\r\nDavid Solomon, the bank's CEO, struck an upbeat tone when speaking about stocks and the US economy at Italia… [+3739 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -1187,97 +1278,6 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/905f2bda003a3c6f61a94b63fecfeef1",
       "publishedAt": "2025-10-03T03:18:44Z",
       "content": "By Leika Kihara\r\nOSAKA (Reuters) -Bank of Japan Governor Kazuo Ueda said inflation was on track to durably hit the bank's target but warned of global uncertainties that could discourage firms from ra… [+4171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "author": "Cointelegraph by Ezra Reguerra",
-      "title": "Nomura moves to capture Japan’s booming institutional crypto market",
-      "description": "Nomura subsidiary Laser Digital confirmed to Cointelegraph that it is in talks with Japan’s FSA to apply for a crypto trading license, eyeing the country’s institutional investors.",
-      "url": "https://cointelegraph.com/news/nomura-laser-digital-japan-crypto-license",
-      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-07/0197f8b8-1677-7484-ae80-453da323dcd1",
-      "publishedAt": "2025-10-03T12:16:56Z",
-      "content": "Financial services holding company Nomura Holdings is preparing to expand into Japans cryptocurrency market through its Switzerland-based subsidiary, Laser Digital Holdings.\r\nA Laser Digital spokespe… [+2514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dlnews.com"
-      },
-      "author": "Lance Datskoluo",
-      "title": "BlackRock, Fidelity pile in as crypto companies raise $3.3bn in September",
-      "description": "Investments in crypto startups on pace to reach $25 billion. This month saw raises for exchanges and infrastructure companies. Wall Street titans piling in.",
-      "url": "https://www.dlnews.com/articles/markets/crypto-companies-raise-over-3bn-in-september/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T90MtozIhalRioL8oT5fAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/9dce25dbaeb0fda7e8a74dfe31051166",
-      "publishedAt": "2025-10-03T08:52:28Z",
-      "content": "Seventy-seven crypto companies raised over $3.3 billion in September, according to DefiLlama data.\r\nThat brings the total funding for crypto companies to over $17 billion so far in 2025, outpacing 20… [+2318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cryptonews"
-      },
-      "author": "Shalini Nagarajan",
-      "title": "Bitcoin Breaks $120K As ‘Uptober’ Momentum Rises, Shutdown Fails To Stall Gains",
-      "description": "Bitcoin pushed above $120,000 late Thursday, extending a strong run that began in September and kept rolling into October, a month traders call Uptober for...",
-      "url": "https://cryptonews.com/news/bitcoin-price-120k-uptober-momentum-rises/",
-      "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/9f74117bee5f1bf3dc7b3eb740ce5506",
-      "publishedAt": "2025-10-03T03:50:36Z",
-      "content": "Bitcoin pushed above $120,000 late Thursday, extending a strong run that began in September and kept rolling into October, a month traders call Uptober for its bullish record.\r\nThe move followed a qu… [+2462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cryptonews"
-      },
-      "author": "Shalini Nagarajan",
-      "title": "Nomura Unit Eyes Wider Access To Crypto Trading In Japan: Report",
-      "description": "Nomura Holdings is preparing to deepen its presence in Japan’s digital asset market as crypto activity surges, with its wholly owned subsidiary Laser Digital...",
-      "url": "https://cryptonews.com/news/nomura-unit-laser-eyes-wider-access-crypto-trading-japan/",
-      "urlToImage": "https://media.zenfs.com/en/cryptonews_us_711/fbd3e733373564c7110a44031f029bce",
-      "publishedAt": "2025-10-03T06:04:52Z",
-      "content": "Nomura Holdings is preparing to deepen its presence in Japans digital asset market as crypto activity surges, with its wholly owned subsidiary Laser Digital Holdings seeking a license to offer tradin… [+2326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Pratyush Thakur",
-      "title": "Rothschild backs Coinbase while flags risks at Circle and Robinhood",
-      "description": "Investing.com -- Rothschild & Co took diverging views across three high-profile crypto-linked stocks, upgrading Coinbase to Buy while starting Circle CRCL...",
-      "url": "https://finance.yahoo.com/news/rothschild-backs-coinbase-while-flags-135425089.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2025-10-03T13:54:25Z",
-      "content": "Investing.com -- Rothschild &amp; Co took diverging views across three high-profile crypto-linked stocks, upgrading Coinbase to Buy while starting Circle CRCL) at Neutral and reiterating a Sell on Ro… [+2001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "benzinga.com",
-      "title": "'Shark Tank' Star Kevin O'Leary Says Bitcoin Mining, AI Data Centers Are Locked In A 'Power Struggle' Amid Scarce Electricity In US",
-      "description": "Renowned investor and \"Shark Tank\" personality Kevin O'Leary said Wednesday that artificial intelligence data centers and Bitcoin (CRYPTO: BTC) mining are “competing” for scarce electricity in North America.\nO’Leary Says US Doesn’t Have Much Power\nDuring an i…",
-      "url": "https://biztoc.com/x/5ab5d06304334bb8",
-      "urlToImage": "https://biztoc.com/cdn/5ab5d06304334bb8_s.webp",
-      "publishedAt": "2025-10-03T12:38:45Z",
-      "content": "Renowned investor and \"Shark Tank\" personality Kevin O'Leary said Wednesday that artificial intelligence data centers and Bitcoin (CRYPTO: BTC) mining are competing for scarce electricity in North Am… [+136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Shaurya Malwa",
-      "title": "BNB Breakout Over $1.1K Leaves Bitcoin, Dogecoin Behind, With Ecosystem Tokens in Focus",
-      "description": "Pancakeswap’s CAKE is up nearly 30% in the past 24 hours, with newer token ASTER up 18%. Memes like FLOKI, CAT and others are yet to catch up to fundamental plays, however.",
-      "url": "https://www.coindesk.com/markets/2025/10/03/bnb-breakout-over-usd1-1k-leaves-bitcoin-dogecoin-behind-with-ecosystem-tokens-in-focus",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f58b872f36faa40471414291a300a0c24aafdd54-1919x1080.jpg?auto=format",
-      "publishedAt": "2025-10-03T06:02:47Z",
-      "content": "BNBs push above $1,100 has shifted attention to the BNB Chains native names, with investors rotating into protocols that capture fees and on-chain activity.\r\nActivity on the network has risen partly … [+1656 chars]"
     }
   ],
   "filter_settings_used": {

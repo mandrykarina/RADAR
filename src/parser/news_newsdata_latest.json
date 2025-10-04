@@ -1,0 +1,425 @@
+{
+  "source": "newsdata",
+  "timestamp": "2025-10-04T15:59:50.278517",
+  "raw_data": {
+    "articles": [
+      {
+        "article_id": "fa897036e736a846e896309d81dfb51c",
+        "title": "Montgomery County Soil and Water awarded $569,993 state grant for project at Minden farm",
+        "link": "https://www.dailygazette.com/the_recorder/montgomery-county-soil-and-water-awarded-569-993-state-grant-for-project-at-minden-farm/article_23f1cd65-4833-4e37-99fe-e9cf2022ebe3.html",
+        "keywords": [
+          "agricultural nonpoint source pollution abatement and control program",
+          "federal grant",
+          "soil health",
+          "clean water",
+          "montgomery county",
+          "kathy hochul",
+          "water quality",
+          "beef farm",
+          "corey nellis",
+          "montgomery county soil and water conservation district",
+          "clean air and green jobs environmental jobs act",
+          "minden",
+          "mohawk river watershed",
+          "state grant",
+          "environmental protection fund",
+          "fonda"
+        ],
+        "creator": [
+          "Ashley Onyon"
+        ],
+        "description": "Local water quality and soil health will be protected through a project at a Minden beef farm supported by a $569,993 state grant awarded to the Montgomery County Soil and Water Conservation District.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:59:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/custom/image/2c4dbcd4-2c97-11ee-8535-9737ebc25907.png?resize=600%2C315",
+        "video_url": null,
+        "source_id": "dailygazette",
+        "source_name": "Dailygazette.com",
+        "source_priority": 12631,
+        "source_url": "https://www.dailygazette.com",
+        "source_icon": "https://n.bytvi.com/dailygazette.jpg",
+        "language": "english",
+        "country": [
+          "united states of america"
+        ],
+        "category": [
+          "environment",
+          "top",
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "7b3ebda660021b0ce91c2a283d6e67bb",
+        "title": "Để laptop theo 7 cách này chứng tỏ bạn EQ thấp!",
+        "link": "https://cafebiz.vn/de-laptop-theo-7-cach-nay-chung-to-ban-eq-thap-176251004100714958.chn",
+        "keywords": null,
+        "creator": [
+          "Theo Đông"
+        ],
+        "description": "Khám phá 7 thói quen đặt laptop tiết lộ ngay mức EQ thấp mà ít ai để ý.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:59:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2025/10/4/avatar1759547199913-17595472008942056287626.jpeg",
+        "video_url": null,
+        "source_id": "cafebiz",
+        "source_name": "Cafebiz",
+        "source_priority": 619255,
+        "source_url": "https://cafebiz.vn",
+        "source_icon": "https://n.bytvi.com/cafebiz.png",
+        "language": "vietnamese",
+        "country": [
+          "vietnam"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": true
+      },
+      {
+        "article_id": "9417658bf0c36e09db39e01e3f0f3615",
+        "title": "Tories say ‘God Save the King’ should remain an option",
+        "link": "https://www.brandonsun.com/local/2025/10/03/tories-say-god-save-the-king-should-remain-an-option",
+        "keywords": [
+          "local"
+        ],
+        "creator": [
+          "By Carol Sanders"
+        ],
+        "description": "WINNIPEG — With U.S. President Donald Trump threatening Canada’s economy and sovereignty, Manitoba Tories say now is not the time to scrap legislation requiring the singing of the royal anthem in scho...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:58:50",
+        "pubDateTZ": "UTC",
+        "image_url": "https://www.brandonsun.com/wp-content/uploads/sites/3/2025/10/3628264_web1_250305-Wayne-Ewasko0027.jpg",
+        "video_url": null,
+        "source_id": "brandonsun",
+        "source_name": "Brandonsun",
+        "source_priority": 1087928,
+        "source_url": "https://www.brandonsun.com",
+        "source_icon": "https://n.bytvi.com/brandonsun.png",
+        "language": "english",
+        "country": [
+          "canada"
+        ],
+        "category": [
+          "business",
+          "politics",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "f41b0e35b22272ae6dadb090fedc64b5",
+        "title": "Rupiah Menguat di Bawah Rp 16.600, Simak Sentimen yang Menopangnya",
+        "link": "https://investasi.kontan.co.id/news/rupiah-menguat-di-bawah-rp-16600-simak-sentimen-yang-menopangnya",
+        "keywords": [
+          "valuta",
+          "nilai tukar rupiah",
+          "indonesia",
+          "pemerintah",
+          "berita nasional",
+          "penguatan kurs rupiah",
+          "kebijakan ekonomi",
+          "rupiah"
+        ],
+        "creator": [
+          "Rilanda Virasma"
+        ],
+        "description": "Rupiah di pasar spot tampil perkasa setelah ditutup menguat 0,21% ke Rp 16.563 per dolar atau naik 1,05% dalam sepekan",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:58:50",
+        "pubDateTZ": "UTC",
+        "image_url": "https://foto.kontan.co.id/ZtesAfd30IhbUFWaAaxbxIwBQAU=/smart/2019/01/07/411698438p.jpg",
+        "video_url": null,
+        "source_id": "kontan_co_id",
+        "source_name": "Kontan Co Id",
+        "source_priority": 387546,
+        "source_url": "https://www.kontan.co.id",
+        "source_icon": "https://n.bytvi.com/kontan_co_id.jpg",
+        "language": "indonesian",
+        "country": [
+          "indonesia"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "32510f1ed7e18483753de88fb07f9dca",
+        "title": "Deliveroo UAE Becomes Part of DoorDash Following Completed Acquisition",
+        "link": "https://menafn.com/1110149002/Deliveroo-UAE-Becomes-Part-of-DoorDash-Following-Completed-Acquisition",
+        "keywords": [
+          "company",
+          "part",
+          "doordash",
+          "becomes",
+          "contract",
+          "completed",
+          "following",
+          "acquisition",
+          "fund",
+          "deliveroo",
+          "investment",
+          "employee"
+        ],
+        "creator": [
+          "marketing@menafn.com (MENAFN)"
+        ],
+        "description": "(MENAFN - Soul Communications) Deliveroo UAE today announced that it has officially become part of DoorDash, following the successful completion of the acquisition. In an open letter, ...",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:58:43",
+        "pubDateTZ": "UTC",
+        "image_url": "https://menafn.com/updates/pr/2025-10/04/pr_13625_478a0a71_image_story.jpeg",
+        "video_url": null,
+        "source_id": "menafn",
+        "source_name": "Menafn",
+        "source_priority": 1117534,
+        "source_url": "https://menafn.com",
+        "source_icon": "https://n.bytvi.com/menafn.png",
+        "language": "english",
+        "country": [
+          "montenegro",
+          "bosnia and herzegovina",
+          "cyprus",
+          "united kingdom",
+          "albania",
+          "malta",
+          "ireland",
+          "macedonia",
+          "spain",
+          "moldova",
+          "france",
+          "germany",
+          "san marino",
+          "switzerland",
+          "poland",
+          "netherland",
+          "hungary",
+          "italy",
+          "belgium",
+          "austria",
+          "greece",
+          "russia",
+          "sweden",
+          "norway",
+          "portugal",
+          "romania",
+          "serbia",
+          "bulgaria",
+          "czech republic",
+          "latvia",
+          "lithuania",
+          "slovakia",
+          "slovenia",
+          "ukraine",
+          "andorra",
+          "kosovo",
+          "liechtenstein",
+          "finland",
+          "monaco",
+          "vatican",
+          "belarus",
+          "denmark",
+          "estonia",
+          "luxembourg",
+          "iceland"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": true
+      },
+      {
+        "article_id": "99680a335be43c888b3ec985d16d6ec2",
+        "title": "How misinformation throws Nigerian women into surrogacy ditch",
+        "link": "https://dailytrust.com/how-misinformation-throws-nigerian-women-into-surrogacy-ditch/",
+        "keywords": [
+          "investigation",
+          "news"
+        ],
+        "creator": [
+          ". ."
+        ],
+        "description": "When Temitope Afolabi realised that her husband could be imprisoned due to a N48 million debt he incurred from a bad business deal, she resolved to become a surrogate mother to earn money to save him. She had initially considered selling one of her kidneys, but unable to find a source, she settled for being [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:58:29",
+        "pubDateTZ": "UTC",
+        "image_url": "https://dailytrust.com/wp-content/uploads/2025/10/A-photo-of-Temitope-Afolabi-a-surrogate-in-Nigeria.jpg",
+        "video_url": null,
+        "source_id": "dailytrust",
+        "source_name": "Daily Trust",
+        "source_priority": 40583,
+        "source_url": "https://dailytrust.com",
+        "source_icon": "https://n.bytvi.com/dailytrust.png",
+        "language": "english",
+        "country": [
+          "nigeria"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "a0bbc3c6c18a6f1701018a736eaa18fb",
+        "title": "उपत्यका भित्रिने बाहिरिने सवारी ३ दिन बन्द, प्रदेशमा लामो दुरीको गाडी संचालन पनि रोकिँदै",
+        "link": "https://bizmandu.com/content/20251004094322.html",
+        "keywords": [
+          "updates",
+          "banner news"
+        ],
+        "creator": [
+          "Sahayog Ranjit"
+        ],
+        "description": "काठमाडौं । देशका अधिकांश भेगमा वर्षा भइरहेको छ। जसकारण विभिन्न क्षेत्रमा सडक अवरुद्ध हुने क्रम बढेको छ। भारी वर्षा र अति भारी वर्षाका कारण हुन सक्ने विपदलाई मध्यनजर गर्दै मुख्य राजमार्ग र काठमाडौं भित्रिने र बाहिरिने सवारी संचालनमा रोक लगाइएको छ। कोशी, मधेश, बागमती, गण्डकी र लुम्बिनी प्रदेशका सबै जिल्लाबाट चल्ने लामो दुरीका सवारी संचालनमा [...]The post उपत्यका भित्रिने बाहिरिने सवारी ३ दिन बन्द, प्रदेशमा लामो दुरीको गाडी संचालन पनि रोकिँदै appeared first on BIZMANDU.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:58:22",
+        "pubDateTZ": "UTC",
+        "image_url": "https://bizmandu.com/wp-content/uploads/2024/09/BP-Highway-Blocked-due-to-Landslide-Kavrevanjyang-Bizmandu-Rabin-Khaki-1.jpg",
+        "video_url": null,
+        "source_id": "bizmandu",
+        "source_name": "Bizmandu",
+        "source_priority": 2171773,
+        "source_url": "https://bizmandu.com",
+        "source_icon": "https://n.bytvi.com/bizmandu.png",
+        "language": "nepali",
+        "country": [
+          "nepal"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "ace28844850cc5d1326777ddd572b01a",
+        "title": "What are the Mega Millions numbers for Friday, Oct. 3? Jackpot stands at $520 million",
+        "link": "https://www.yahoo.com/news/articles/mega-millions-numbers-friday-oct-035746624.html",
+        "keywords": [
+          "mega millions"
+        ],
+        "creator": [
+          "The Courier Journal"
+        ],
+        "description": "Is today your lucky day? The numbers for the Mega Millions jackpot will be drawn at around 11 p.m. Eastern Daylight Time.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:57:46",
+        "pubDateTZ": "UTC",
+        "image_url": "https://s.yimg.com/ny/api/res/1.2/ZTkPCgst8H74Oza5P8YZ2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI7Y2Y9d2VicA--/https://media.zenfs.com/en/the-courier-journal/32d1872fcca4c82581bd5aaff5156f56",
+        "video_url": null,
+        "source_id": "yahoo",
+        "source_name": "Yahoo! News",
+        "source_priority": 17,
+        "source_url": "https://news.yahoo.com",
+        "source_icon": "https://n.bytvi.com/yahoo.png",
+        "language": "english",
+        "country": [
+          "united states of america"
+        ],
+        "category": [
+          "business",
+          "top"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "16caaf1feb861cfbd51aebcf691234d2",
+        "title": "India Eyes More S-400 Batches; Procurement on Agenda for Putin’s December Visit",
+        "link": "https://www.ndtvprofit.com/nation/india-eyes-more-s-400-batches-procurement-on-agenda-for-putins-december-visit",
+        "keywords": [
+          "defence"
+        ],
+        "creator": [
+          "Ann Jacob"
+        ],
+        "description": "India is looking into procuring additional batches of the highly effective S-400 surface-to-air missile systems from Russia, after the weapons proved to be \"very effective\" during a recent military exercise, \"Operation Sindoor,\" according to people familiar with the matter.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 03:57:38",
+        "pubDateTZ": "UTC",
+        "image_url": "https://media.assettype.com/bloombergquint/2025-10-04/h0j8934j/leon-andov-hc8XEuCO9go-unsplash.jpg?auto=format%2Ccompress&enlarge=true&fit=max&h=675&w=1200",
+        "video_url": null,
+        "source_id": "ndtvprofit",
+        "source_name": "Ndtv Profit",
+        "source_priority": 32180,
+        "source_url": "https://www.ndtvprofit.com",
+        "source_icon": "https://n.bytvi.com/ndtvprofit.png",
+        "language": "english",
+        "country": [
+          "india"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      }
+    ]
+  }
+}
