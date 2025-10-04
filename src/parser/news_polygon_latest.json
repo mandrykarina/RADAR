@@ -1,8 +1,267 @@
 {
   "source": "polygon",
-  "timestamp": "2025-10-04T17:23:43.669959",
+  "timestamp": "2025-10-04T18:20:19.063703",
   "raw_data": {
     "articles": [
+      {
+        "id": "52ce007a476086e1afae3dbf74b2c73d539aa41ae9c14643251e02e97dbce0a8",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, A LEADING AND RANKED FIRM, Encourages Cytokinetics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – CYTK",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T18:00:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161295/673/en/ROSEN-A-LEADING-AND-RANKED-FIRM-Encourages-Cytokinetics-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-CYTK.html",
+        "tickers": [
+          "CYTK"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm is notifying Cytokinetics investors about a potential securities class action lawsuit related to misleading statements about a New Drug Application submission and FDA approval timeline for aficamten.",
+        "keywords": [
+          "securities class action",
+          "FDA",
+          "drug approval",
+          "investor rights"
+        ],
+        "insights": [
+          {
+            "ticker": "CYTK",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges the company made false or misleading statements about its drug approval process, potentially causing investor damages, which suggests significant regulatory and disclosure issues"
+          }
+        ]
+      },
+      {
+        "id": "45dc1c1de619ab56d7a25d7748ec4c205ff25dcd801a98f42769afa8f1514652",
+        "publisher": {
+          "name": "GlobeNewswire Inc.",
+          "homepage_url": "https://www.globenewswire.com",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+        },
+        "title": "ROSEN, HIGHLY RANKED INVESTOR COUNSEL, Encourages Fortinet, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – FTNT",
+        "author": "Rosen Law Firm",
+        "published_utc": "2025-10-04T17:43:00Z",
+        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161294/673/en/ROSEN-HIGHLY-RANKED-INVESTOR-COUNSEL-Encourages-Fortinet-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-FTNT.html",
+        "tickers": [
+          "FTNT"
+        ],
+        "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm alerts Fortinet investors about a potential securities class action lawsuit alleging false statements regarding FortiGate unit upgrades and revenue projections during the period of November 8, 2024 to August 6, 2025.",
+        "keywords": [
+          "securities lawsuit",
+          "investor rights",
+          "class action",
+          "FortiGate",
+          "misrepresentation"
+        ],
+        "insights": [
+          {
+            "ticker": "FTNT",
+            "sentiment": "negative",
+            "sentiment_reasoning": "The lawsuit alleges that Fortinet made materially false and misleading statements about their product refresh cycle, revenue projections, and upgrade potential, suggesting intentional misrepresentation of business performance"
+          }
+        ]
+      },
+      {
+        "id": "ee663f27e41039d3c433870d3d43d578bfb87e7030e40f0b3c435a8a5c4eef13",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "If You Invested $10,000 in Apple Stock 10 Years Ago, Here's How Much You'd Have Today",
+        "author": "Neil Patel",
+        "published_utc": "2025-10-04T17:32:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/invested-10000-apple-stock-10-years-ago-how-much/?source=iedfolrf0000001",
+        "tickers": [
+          "AAPL",
+          "NVDA"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835750/excited-happy-person-waving-fist-and-looking-at-phone.jpg",
+        "description": "An analysis of Apple's stock performance over the past decade reveals an impressive 938% total return, transforming a $10,000 investment into $103,800, significantly outperforming the S&P 500's 321% return.",
+        "keywords": [
+          "Apple",
+          "stock investment",
+          "market performance",
+          "technology",
+          "long-term returns"
+        ],
+        "insights": [
+          {
+            "ticker": "AAPL",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Strong financial performance with 119% net income growth, successful product diversification, growing services division, and significant stock price appreciation"
+          },
+          {
+            "ticker": "NVDA",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Briefly mentioned in context of market valuation, no detailed performance analysis provided"
+          }
+        ]
+      },
+      {
+        "id": "78fc23a99dec1c88ecc2e2613145b6a15e7e9063f43188ee0a3192835ffc8e38",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Where Will Plug Power Be in 25 Years?",
+        "author": "Ryan Vanzo",
+        "published_utc": "2025-10-04T17:14:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/where-will-plug-power-be-in-25-years/?source=iedfolrf0000001",
+        "tickers": [
+          "PLUG"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835703/gettyimages-175165308-1201x802-c248ac3.jpg",
+        "description": "Plug Power, a hydrogen fuel cell company, has struggled to achieve profitability despite promising renewable energy technology. While hydrogen fuel shows potential, significant challenges remain in cost-competitiveness and technology adoption.",
+        "keywords": [
+          "hydrogen fuel",
+          "renewable energy",
+          "fuel cells",
+          "clean technology",
+          "energy innovation"
+        ],
+        "insights": [
+          {
+            "ticker": "PLUG",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Persistent financial challenges, substantial quarterly losses ($227 million), ongoing profitability issues, and uncertainty about long-term technology adoption and market viability"
+          }
+        ]
+      },
+      {
+        "id": "56a344e69b93059f352e09b2e3b0ee0ee0ecea96c0c68da367323c95af936df7",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Beyond Streaming: Netflix's Quiet Moves Into Gaming and Live Experiences",
+        "author": "Lawrence Nga",
+        "published_utc": "2025-10-04T17:14:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/beyond-streaming-netflixs-quiet-moves-into-gaming/?source=iedfolrf0000001",
+        "tickers": [
+          "NFLX",
+          "DIS"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/833183/gettyimages-1670575525-601x401-05d96dc.jpg",
+        "description": "Netflix is diversifying its business model by exploring gaming, immersive venues, live sports, and entertainment, aiming to transform from a pure streaming platform into a broader entertainment ecosystem.",
+        "keywords": [
+          "streaming",
+          "gaming",
+          "live events",
+          "expansion",
+          "entertainment"
+        ],
+        "insights": [
+          {
+            "ticker": "NFLX",
+            "sentiment": "positive",
+            "sentiment_reasoning": "Demonstrating strategic growth by exploring multiple entertainment avenues like gaming, themed venues, live sports, and expanding content formats to increase user engagement and potential revenue streams"
+          },
+          {
+            "ticker": "DIS",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "Mentioned as a comparative reference for Netflix's venue strategy"
+          }
+        ]
+      },
+      {
+        "id": "187af7009c119f69915248c420b9956b1c56ab6a8a6f3c7362fd85d98b283db7",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "Don't Miss This Major Announcement From The Trade Desk and What It Means for the Long Term",
+        "author": "Daniel Sparks",
+        "published_utc": "2025-10-04T17:07:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/dont-miss-this-major-announcement-from-the-trade-d/?source=iedfolrf0000001",
+        "tickers": [
+          "TTD",
+          "ROKU",
+          "AMZN"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/836233/streaming-tv.jpg",
+        "description": "The Trade Desk partnered with DirecTV to co-develop a custom version of its Ventura TV operating system, aiming to create a neutral platform for smart TV advertising with improved transparency and efficiency.",
+        "keywords": [
+          "connected TV",
+          "advertising",
+          "TV operating system",
+          "digital ads",
+          "streaming"
+        ],
+        "insights": [
+          {
+            "ticker": "TTD",
+            "sentiment": "neutral",
+            "sentiment_reasoning": "The partnership offers potential strategic benefits but comes with operational challenges and uncertain near-term financial impact"
+          },
+          {
+            "ticker": "ROKU",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Positioned as a competitor with potential conflicts of interest in the TV OS and advertising space"
+          },
+          {
+            "ticker": "AMZN",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Viewed as a competing platform with potential conflicts between content ownership and advertising"
+          }
+        ]
+      },
+      {
+        "id": "aca539035bdbdab05c0d4ee20d5d3fba6a3a8ed8cb964fd3d9f52efda3133922",
+        "publisher": {
+          "name": "The Motley Fool",
+          "homepage_url": "https://www.fool.com/",
+          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+        },
+        "title": "2 Problems Rivian, Lucid, and Tesla Will Face After the EV Tax Credit Expiration",
+        "author": "Ryan Vanzo",
+        "published_utc": "2025-10-04T17:05:00Z",
+        "article_url": "https://www.fool.com/investing/2025/10/04/rivian-and-lucid-face-a-harsh-reality-after-the-ev/?source=iedfolrf0000001",
+        "tickers": [
+          "TSLA",
+          "RIVN",
+          "LCID"
+        ],
+        "image_url": "https://g.foolcdn.com/editorial/images/835557/gettyimages-152404829-1200x960-4134ff9.jpg",
+        "description": "Electric vehicle manufacturers Tesla, Rivian, and Lucid face significant financial challenges due to the elimination of U.S. tax credits and CAFE regulatory credits by September 30, 2025, which will likely reduce EV demand and eliminate a profitable revenue stream.",
+        "keywords": [
+          "electric vehicles",
+          "EV subsidies",
+          "tax credits",
+          "regulatory credits",
+          "automotive industry"
+        ],
+        "insights": [
+          {
+            "ticker": "TSLA",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose billions in annual revenue from regulatory credits and face potential reduced demand due to tax credit elimination"
+          },
+          {
+            "ticker": "RIVN",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose $100 million in credit revenue and struggle with profitability amid reduced EV demand"
+          },
+          {
+            "ticker": "LCID",
+            "sentiment": "negative",
+            "sentiment_reasoning": "Will lose hundreds of millions in profitable credit sales and face challenges with budget vehicle market entry"
+          }
+        ]
+      },
       {
         "id": "f354bb85aaa360e795790eb49452f306f4b7bbc59bc20d9a5aa97b106aa6b154",
         "publisher": {
@@ -1641,208 +1900,6 @@
             "ticker": "AMZN",
             "sentiment": "positive",
             "sentiment_reasoning": "Hosting a sales event that provides platform for product promotions and potentially increases customer engagement and sales"
-          }
-        ]
-      },
-      {
-        "id": "8edf9be333cd774ffc755a60327b3a83d07e62d229a74c83b1340b1d47b0ee51",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Dangbei participe aux Prime Big Deal Days d’Amazon France cet automne avec des réductions allant jusqu’à 300 €",
-        "author": "Dangbei Pr Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161263/0/fr/Dangbei-participe-aux-Prime-Big-Deal-Days-d-Amazon-France-cet-automne-avec-des-r%C3%A9ductions-allant-jusqu-%C3%A0-300.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is participating in Amazon France's Prime Big Deal Days from October 4-10, 2025, offering discounts up to €300 on various 4K and portable projectors across different models and price ranges.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon",
-          "Prime Big Deal Days",
-          "home cinema",
-          "portable technology"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Providing platform for product promotions and enabling sales events that benefit both consumers and vendors"
-          }
-        ]
-      },
-      {
-        "id": "82f84f8fdf8efb88975bffea2c96b667a2adf5fac53cb82d8546bce07a4d8f25",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Dangbei Joins Amazon France’s Prime Big Deal Days This Autumn with Savings Up to €300",
-        "author": "Dangbei Pr Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161263/0/en/Dangbei-Joins-Amazon-France-s-Prime-Big-Deal-Days-This-Autumn-with-Savings-Up-to-300.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is offering substantial discounts on its range of 4K and portable projectors during Amazon Prime Big Deal Days from October 4-10, 2025, with savings up to €300 across multiple models.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon",
-          "Prime Big Deal Days",
-          "discounts",
-          "home cinema"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Hosting a successful multi-country Prime Big Deal Days event that attracts diverse product offerings and promotes sales across different markets"
-          }
-        ]
-      },
-      {
-        "id": "70470afdaf66156f757b6d8c0e56441a801b0f6a39483919e40f66d9dcbef896",
-        "publisher": {
-          "name": "GlobeNewswire Inc.",
-          "homepage_url": "https://www.globenewswire.com",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-        },
-        "title": "Save Up to €300 on Dangbei Projectors During Amazon Spain’s Prime Big Deal Days",
-        "author": "Dangbei Pr Team",
-        "published_utc": "2025-10-04T08:30:00Z",
-        "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161265/0/en/Save-Up-to-300-on-Dangbei-Projectors-During-Amazon-Spain-s-Prime-Big-Deal-Days.html",
-        "tickers": [
-          "AMZN"
-        ],
-        "image_url": "https://ml.globenewswire.com/Resource/Download/7e1ec6ec-1b9c-431d-a98a-4db1103602ba",
-        "description": "Dangbei is offering discounts up to €300 on its range of 4K and portable projectors during Amazon Prime Big Deal Days from October 4-10, 2025, across multiple European markets including Spain, Germany, and France.",
-        "keywords": [
-          "projectors",
-          "4K",
-          "Amazon Prime",
-          "deals",
-          "home cinema",
-          "portable technology"
-        ],
-        "insights": [
-          {
-            "ticker": "AMZN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "Hosting a successful multi-country Prime Big Deal Days event that attracts diverse product offerings from technology brands like Dangbei"
-          }
-        ]
-      },
-      {
-        "id": "0de71c68dec864eef2a5244dc590357c9ce6fc93fc246ccc54f7505f55c875df",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "The Stock Market Is Historically Pricey: Here's 1 Reason Target Is Still a No-Brainer Buy",
-        "author": "Reuben Gregg Brewer",
-        "published_utc": "2025-10-04T07:32:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/the-stock-market-is-historically-pricey-heres-1-re/?source=iedfolrf0000001",
-        "tickers": [
-          "TGT"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/834818/23_11_02-a-person-examining-the-pieces-of-a-broken-piggy-bank-_mf-dload-gettyimages-1410584108.jpg",
-        "description": "Target's stock has fallen 40% over the past year, but the company is positioning for a potential turnaround with a new CEO and showing signs of improvement in customer traffic.",
-        "keywords": [
-          "retail",
-          "stock market",
-          "turnaround",
-          "dividend",
-          "investment"
-        ],
-        "insights": [
-          {
-            "ticker": "TGT",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "Despite a 40% stock decline and weak Q2 sales, the company shows potential for recovery with improved customer traffic and a new leadership strategy"
-          }
-        ]
-      },
-      {
-        "id": "2a13fd1344474c8891e37ceb44906b117293160528ce64ede5c5d2d32ee392d0",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "Want to Start Earning More Passive Income in October? Buy This High-Yield Dividend Stock and Never Look Back.",
-        "author": "Matt Dilallo",
-        "published_utc": "2025-10-04T07:31:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/start-earning-more-passive-income-in-october/?source=iedfolrf0000001",
-        "tickers": [
-          "O"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/835902/realty_income_logo_on_smartphone_ai_o.jpg",
-        "description": "Realty Income, a large REIT with over 15,600 properties, offers a stable 5.4% monthly dividend yield with a consistent history of dividend growth, making it an attractive passive income investment option.",
-        "keywords": [
-          "passive income",
-          "dividend",
-          "REIT",
-          "real estate",
-          "monthly dividend"
-        ],
-        "insights": [
-          {
-            "ticker": "O",
-            "sentiment": "positive",
-            "sentiment_reasoning": "The article highlights the company's strong financial profile, consistent dividend growth (132 times raised since 1994), diversified property portfolio, low-risk investment strategy, and significant market opportunity, making it an attractive long-term investment for passive income"
-          }
-        ]
-      },
-      {
-        "id": "562193ee03b54129269a6707692a19991c7ee5428175c40b20ce3ace8e1a4887",
-        "publisher": {
-          "name": "The Motley Fool",
-          "homepage_url": "https://www.fool.com/",
-          "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-          "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-        },
-        "title": "My Top Value Stock to Buy for 2026 (and It's Not Even Close)",
-        "author": "Ryan Vanzo",
-        "published_utc": "2025-10-04T07:23:00Z",
-        "article_url": "https://www.fool.com/investing/2025/10/04/my-top-value-stock-to-buy-for-2026-and-its-not-eve/?source=iedfolrf0000001",
-        "tickers": [
-          "RIVN",
-          "TSLA"
-        ],
-        "image_url": "https://g.foolcdn.com/editorial/images/835206/gettyimages-1262967772-1200x600-7cb9712.jpg",
-        "description": "Rivian is positioned for potential growth in 2026 with plans to launch three affordable SUV electric vehicle models, presenting an attractive investment opportunity after a significant market valuation decline.",
-        "keywords": [
-          "electric vehicles",
-          "EV",
-          "value stocks",
-          "investment",
-          "Rivian",
-          "Tesla"
-        ],
-        "insights": [
-          {
-            "ticker": "RIVN",
-            "sentiment": "positive",
-            "sentiment_reasoning": "The article suggests Rivian has potential for significant growth with upcoming affordable SUV model launches, currently undervalued market cap, and a mature EV market environment"
-          },
-          {
-            "ticker": "TSLA",
-            "sentiment": "neutral",
-            "sentiment_reasoning": "Used as a comparative benchmark for Rivian's potential growth trajectory, highlighted as a successful EV company with past significant stock performance"
           }
         ]
       }

@@ -20,8 +20,8 @@ NORMALIZED_DIR = os.path.join(DATA_DIR, "normalized")
 os.makedirs(PARSER_DIR, exist_ok=True)
 os.makedirs(NORMALIZED_DIR, exist_ok=True)
 
-# === ScraperAPI (для обхода 401/403) ===
-SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY", "")  # можно задать через .env
+# === Scraper API (для обхода 401/403) ===
+SCRAPER_API_KEY = os.getenv("SCRAPER_API_KEY", "")
 SCRAPER_API_URL = f"https://api.scraperapi.com?api_key={SCRAPER_API_KEY}&url=" if SCRAPER_API_KEY else None
 
 # === Уровни доверия источникам ===
@@ -49,6 +49,19 @@ def extract_keywords(text: str, top_n: int = 10) -> list:
     return [w for w, _ in Counter(words).most_common(top_n)]
 
 
+def is_truncated_text(text: str) -> bool:
+    """Проверяет, усечён ли текст (есть многоточие или фраза [+123 chars])"""
+    if not text:
+        return True
+    if len(text.strip()) < 200:
+        return True
+    if "..." in text.strip()[-10:]:
+        return True
+    if re.search(r"\[\+\d+\schars\]", text):
+        return True
+    return False
+
+
 def enrich_from_url(article: dict) -> dict:
     """Скачивает текст новости по URL и дополняет недостающие поля"""
     url = article.get("url")
@@ -67,12 +80,11 @@ def enrich_from_url(article: dict) -> dict:
         "Connection": "keep-alive",
     }
 
-    # === 1️⃣ Попытка через newspaper3k ===
+    # === 1️⃣ Newspaper3k ===
     try:
         art = Article(url)
         art.download()
         art.parse()
-
         if art.text and len(art.text) > 200:
             article["content"] = art.text.strip()
             if art.authors:
@@ -87,12 +99,12 @@ def enrich_from_url(article: dict) -> dict:
                     pass
 
             article["keywords"] = extract_keywords(art.text)
-            print(f"✅ Newspaper3k успешно извлек {len(art.text)} символов из {url[:60]}...")
+            print(f"✅ Newspaper3k извлек {len(art.text)} символов из {url[:60]}...")
             return article
     except Exception:
         pass
 
-    # === 2️⃣ Попытка вручную через requests + BeautifulSoup ===
+    # === 2️⃣ Requests + BeautifulSoup ===
     try:
         resp = requests.get(url, headers=headers, timeout=10)
         if resp.status_code == 200:
@@ -107,11 +119,11 @@ def enrich_from_url(article: dict) -> dict:
                         article["language"] = detect(text[:500])
                     except:
                         pass
-                print(f"✅ BeautifulSoup успешно извлек {len(text)} символов из {url[:60]}...")
+                print(f"✅ BeautifulSoup извлёк {len(text)} символов из {url[:60]}...")
                 return article
         elif resp.status_code in (401, 403) and SCRAPER_API_URL:
-            # === 3️⃣ Попытка через ScraperAPI ===
-            print(f"⚠️ 401 для {url[:70]}... → ScraperAPI")
+            # === 3️⃣ ScraperAPI ===
+            print(f"⚠️ 401 для {url[:60]}... → ScraperAPI")
             scraper_url = SCRAPER_API_URL + url
             r2 = requests.get(scraper_url, headers=headers, timeout=15)
             if r2.status_code == 200:
@@ -175,8 +187,8 @@ def normalize_article(article: dict, source: str) -> dict:
         "published_at": article.get("published_at") or None,
     }
 
-    # Попробуем обогатить недостающие поля по URL
-    if not normalized["content"] or len(normalized["content"]) < 200:
+    # 🚀 Новый фильтр: проверяем, обрезан ли текст
+    if is_truncated_text(normalized["content"]):
         normalized = enrich_from_url(normalized)
 
     return normalized

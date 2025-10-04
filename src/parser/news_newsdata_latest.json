@@ -1,28 +1,263 @@
 {
   "source": "newsdata",
-  "timestamp": "2025-10-04T17:22:48.470388",
+  "timestamp": "2025-10-04T18:20:12.421767",
   "raw_data": {
     "articles": [
       {
-        "article_id": "57ae030a74fe0d6951642e9f4335345a",
-        "title": "Erzincan'da Marka Denetimleri Esnafı Mağdur Ediyor",
-        "link": "https://www.haberler.com/yerel/erzincan-da-marka-denetimleri-esnafi-magdur-ediyor-19114095-haberi/",
+        "article_id": "9decb797bd9bf2984f6edc980b58b501",
+        "title": "Gazze’de barış için kritik hamle! Hamas Trump’ın planına yanıt verdi, Erdoğan: “Soykırım son bulmalı”",
+        "link": "https://www.f5haber.com/dunya/gazzede-baris-icin-kritik-hamle-hamas-trumpin-planina-yanit-verdi-erdogan-soykirim-son-bulmali-6830724",
         "keywords": [
-          "erzincan",
-          "3-sayfa",
+          "recep tayyip erdoğan",
+          "abd",
+          "filistin",
+          "donald trump"
+        ],
+        "creator": [
+          "F5Haber"
+        ],
+        "description": "Hamas, Trump ve Netanyahu’nun Washington’da üzerinde anlaştığı Gazze barış planına yanıt verdi. Rehineleri serbest bırakmaya hazır olduğunu açıklayan Hamas, müzakerelere başlamak için arabuluculara çağrı yaptı. Cumhurbaşkanı Erdoğan, Hamas’ın yanıtını “yapıcı ve önemli bir adım” olarak değerlendirdi.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:20:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://img.f5haber.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/04/404113-result-xr3u_cover.jpg",
+        "video_url": null,
+        "source_id": "f5haber",
+        "source_name": "F5 Haber",
+        "source_priority": 1198295,
+        "source_url": "https://www.f5haber.com",
+        "source_icon": "https://n.bytvi.com/f5haber.png",
+        "language": "turkish",
+        "country": [
+          "turkey"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "2b77013fd9dfb5767563cf8dcc80191b",
+        "title": "Neiva es la ciudad que más crece en gasto: Camilo Herrera",
+        "link": "https://www.lanacion.com.co/neiva-es-la-ciudad-que-mas-crece-en-gasto-camilo-herrera/",
+        "keywords": [
+          "top-inicio",
+          "economía"
+        ],
+        "creator": [
+          "Caterin Manchola"
+        ],
+        "description": "Camilo Herrera es el fundador de la firma Raddar Consumer, dedicada a la medición del consumo de los hogares. El experto en economía habló con LA NACIÓN en el congreso de Confecámaras desarrollado en Cartagena. Cubrimiento especial. @cate_manchola Señor Herrera, ¿cómo va el gasto de los hogares? El gasto de los hogares sigue jalonando la [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:20:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://www.lanacion.com.co/wp-content/uploads/2025/10/CC25-01386-1024x682.jpg",
+        "video_url": null,
+        "source_id": "lanacion_co",
+        "source_name": "La Nacion",
+        "source_priority": 1007665,
+        "source_url": "https://www.lanacion.com.co",
+        "source_icon": "https://n.bytvi.com/lanacion_co.jpg",
+        "language": "spanish",
+        "country": [
+          "colombia"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "8a43c2f925c7b931af12d6d960bedd20",
+        "title": "إیران: قاعدة الفضاء فی تشابهار جاهزة لأول إطلاق بصاروخ یعمل بالوقود الصلب... وثلاثة أقمار جدیدة ستُطلق قریبًا",
+        "link": "https://tn.ai/3414852",
+        "keywords": [
+          "تکنولوجیا الفضاء"
+        ],
+        "creator": [
+          "وکالة تسنیم الدولیة للأنباء"
+        ],
+        "description": "أعلن رئیس منظمة الفضاء الإیرانیة، الدکتور حسن سالاریه، أن المرحلة الأولى من قاعدة الإطلاق الفضائیة فی تشابهار – المخصصة لإطلاق الصواریخ العاملة بالوقود الصلب – دخلت مراحلها النهائیة من الإنجاز، مؤکدًا أن الاستعدادات جاریة لتنفیذ أول عملیة إطلاق تجریبیة من القاعدة فی المستقبل القریب.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:19:52",
+        "pubDateTZ": "UTC",
+        "image_url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1403/10/16/140310161457284431835434.jpg",
+        "video_url": null,
+        "source_id": "tasnimnews",
+        "source_name": "خبرگزاری تسنیم",
+        "source_priority": 39844,
+        "source_url": "https://www.tasnimnews.com",
+        "source_icon": "https://n.bytvi.com/tasnimnews.png",
+        "language": "arabic",
+        "country": [
+          "iran"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "c39be096fc9208fd316a5b0123759802",
+        "title": "ឯកឧត្តមរដ្ឋមន្ត្រី ហួត ហាក់៖ មោទនភាពជាតិខ្មែរ! កម្ពុជាកំពុងសាទរចំពោះជើងហោះហើរត្រង់លើកដំបូងជាប្រវត្តិសាស្ត្ររបស់ក្រុមហ៊ុនអាកាសចរណ៍ Etihad Airways លំដាប់ពិភពលោក មកពីទីក្រុងអាប៊ូដាប៊ី ប្រទេសអារ៉ាប់រួម",
+        "link": "https://cen.com.kh/archives/866031.html",
+        "keywords": [
+          "ព័ត៌មានជាតិ",
+          "telegram",
+          "សេដ្ឋកិច្ច"
+        ],
+        "creator": [
+          "Pen Srey Neat"
+        ],
+        "description": "ភ្នំពេញ ៖ ព្រលានយន្តហោះអន្តរជាតិតេជោ ព្រឹកថ្ងៃទី៤ ខែតុលា ឆ្នាំ២០២៥ ឯកឧត្តម ហួត ហាក់ រដ្ឋមន្ត្រីក្រសួងទេសចរណ៍ ដឹកនាំប្រតិភូក្រសួងទេសចរណ៍ និងវិស័យឯកជន រួមជាមួយថ្នាក់ដឹកនាំអាកាសចរណ៍ស៊ីវិល អញ្ជើញទទួលបដិសណ្ឋារកិច្ចស្វាគមន៍យ៉ាងកក់ក្តៅដល់ក្រុមហ៊ុនអាកាសចរណ៍កម្រិតពិភពលោក Etihad Airways ដែលបានសម្រេចបើកជើងហោះហើរត្រង់ជាលើកដំបូង មកពីទីក្រុងអាប៊ូដាប៊ី ប្រទេសអារ៉ាប់រួម មកកាន់ព្រះរាជាណាចក្រកម្ពុជា ចុះចតដោយជោគជ័យ នៅអាកាសយានដ្ឋានអន្តរជាតិតេជោ នេះសបញ្ជាក់ឱ្យឃើញពីការចាប់ផ្តើមប្រតិបត្តិការហោះហើរភ្ជាប់កម្ពុជាទៅកាន់ពិភពលោក និងភ្ជាប់ពិភពលោកមកកាន់កម្ពុជា។ ក្នុងឱកាសពោរពេញដោយអត្ថន័យនេះ ឯកឧត្តមរដ្ឋមន្ត្រី បានគូសបញ្ជាក់ថា ការតភ្ជាប់ជើងហោះកម្រិតពិភពលោកនេះ ពិតជាបានឆ្លើយតបទៅនឹងតម្រូវការចាំបាច់នូវកំណើនភ្ញៀវទេសចរមកកាន់កម្ពុជា ជាពិសេសពិជាឆ្លើយតបទៅនឹងការជឿនលឿនយ៉ាងឆាប់រហ័សក្នុងវិស័យអាកាសចរណ៍របស់កម្ពុជានាប៉ុន្មានឆ្នាំចុងក្រោយនេះ។ ឯកឧត្តមរដ្ឋមន្ត្រី មានប្រសាសន៍បន្តថា ក្នុងន័យនេះបញ្ជាក់ឱ្យឃើញពីកិច្ចខិតខំប្រឹងប្រែងរបស់រាជរដ្ឋាភិបាលកម្ពុជា នីតិកាលទី៧នៃរដ្ឋសភា ក្រោមការដឹកនាំប្រកបដោយភាពប្រាកដនិយមរបស់ សម្តេចមហាបវរធិបតី ហ៊ុន ម៉ាណែត នាយករដ្ឋមន្ត្រី នៃព្រះរាជាណាចក្រកម្ពុជា។ បើតាមការបញ្ជាក់របស់ក្រុមហ៊ុន Etihad Airways (Cambodia) ចាប់ពីថ្ងៃទី៣ ខែតុលា ឆ្នាំ២០២៥ ក្រុមហ៊ុនអាកាសចរណ៍កម្រិតពិភពលោក Etihad Airways បានតភ្ជាប់ជើងហោះហើរត្រង់ជាលើកដំបូង ពីទីក្រុងអាប៊ូដាប៊ី មកកាន់រាជធានីភ្នំពេញ ដោយទទួលបានអ្នកដំណើរសរុបចំនួន ១៥៤នាក់ [...]",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:19:49",
+        "pubDateTZ": "UTC",
+        "image_url": "https://cen.com.kh/wp-content/uploads/2025/10/%E1%9F%A5%E1%9F%A6%E1%9F%A7%E1%9F%A5%E1%9F%A7%E1%9F%A5%E1%9F%A6-696x365.jpg",
+        "video_url": null,
+        "source_id": "cen",
+        "source_name": "Cen",
+        "source_priority": 24690692,
+        "source_url": "https://cen.com.kh",
+        "source_icon": null,
+        "language": "khmer",
+        "country": [
+          "cambodia"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "7754c96deb51b9102dda19356501d70a",
+        "title": "Vremenska prognoza za 4. oktobar",
+        "link": "https://www.danas.rs/vesti/drustvo/vremenska-prognoza-za-4-oktobar/",
+        "keywords": [
+          "4. oktobar 2025",
+          "vremenska prognoza",
+          "društvo"
+        ],
+        "creator": [
+          "Jasmina Lukac"
+        ],
+        "description": "U Srbiji će danas ujutro biti oblačno sa slabom kišom, u brdsko-planinskim predelima sa slabim snegom, pre podne se očekuje prestanak padavina, a od sredine dana i kratkotrajno razvedravanje sa zapada, saopštio je Republički hidrometeorološki zavod.Samo na severozapadu Vojvodine ujutru biće suvo uz malu i umerenu oblačnost, a tokom dana pretežno sunčano.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:19:33",
+        "pubDateTZ": "UTC",
+        "image_url": "https://www.danas.rs/wp-content/uploads/2024/11/ofQNadGI-e1732281898717.jpg",
+        "video_url": null,
+        "source_id": "danas",
+        "source_name": "Danas",
+        "source_priority": 145785,
+        "source_url": "https://www.danas.rs",
+        "source_icon": "https://n.bytvi.com/danas.png",
+        "language": "serbian",
+        "country": [
+          "serbia"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "8fe9c98986648dda99c8af604d7265b1",
+        "title": "Banjir di Selatan Sudan ragut 19 nyawa, jejaskan hampir 640,000 orang",
+        "link": "https://thesun.my/cerita/berita/banjir-di-selatan-sudan-ragut-19-nyawa-jejaskan-hampir-640000-orang-IG15027791",
+        "keywords": [
+          "kematian",
+          "banjir",
+          "cuaca",
+          "hujan",
+          "thesun berita",
+          "south sudan"
+        ],
+        "creator": [
+          "thesun berita"
+        ],
+        "description": "JUBA: Hujan lebat telah mencetuskan banjir besar di Selatan Sudan yang meragut 19 nyawa dan menjejaskan kira-kira 639,225 orang di 26 daerah melibatkan enam negeri.Pejabat PBB bagi Penyelarasan Hal Ehwal Kemanusiaan memaklumkan hampir 175,000 orang kini hilang tempat tinggal dan terpaksa berpindah ke kawasan tanah tinggi di 16 daerah.Risiko kesihatan semakin meningkat dengan bertambahnya kes malaria, jangkitan pernafasan dan cirit-birit menurut OCHA dalam laporan kemanusiaan terbarunya.Agensi itu turut melaporkan sekurang-kurangnya 121 kemudahan kesihatan terjejas akibat bencana banjir tersebut.Seramai 144 kes patukan ular dan 3,391 kes kekurangan zat makanan telah direkodkan di 11 daerah yang terjejas.Laporan itu dikeluarkan sehari selepas badan amal antarabangsa Save the Children memberi amaran tentang ancaman banjir tahun ini.Badan amal itu menganggarkan 1.4 juta penduduk di Selatan Sudan berdepan ancaman banjir dengan taburan hujan dijangka melebihi paras purata.Masyarakat sudah kehilangan tanah pertanian, sumber pendapatan, rumah serta akses kepada sekolah dan kemudahan kesihatan akibat bencana ini.Seramai 379,000 orang telah dipaksa berpindah akibat kenaikan paras air yang berterusan di kawasan terjejas. – Bernama-Xinhua",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:19:13",
+        "pubDateTZ": "UTC",
+        "image_url": "https://thesun.my/binrepository/2025-10-02t100800z-1416879555-rc223hajdeqx-rtrmadp-3-sudan-floods_5709722_20251004141828.jpg",
+        "video_url": null,
+        "source_id": "thesun_my",
+        "source_name": "Thesun",
+        "source_priority": 81564,
+        "source_url": "https://thesun.my",
+        "source_icon": "https://n.bytvi.com/thesun_my.png",
+        "language": "malay",
+        "country": [
+          "malaysia"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "012a83d3fef029eef9c2921f98127e64",
+        "title": "Bu ekmeği alan 1 hafta başka ekmek almıyor",
+        "link": "https://www.haberler.com/ekonomi/bu-ekmegi-alan-1-hafta-baska-ekmek-almiyor-19114148-haberi/",
+        "keywords": [
+          "tarım",
+          "ekmek",
+          "kürtün",
           "yerel haberler",
-          "yerel",
           "ekonomi",
-          "hukuk"
+          "kültür"
         ],
         "creator": [
           "Haberler"
         ],
-        "description": "Erzincan'da artan marka denetimleri ve imitasyon ürün gerekçesiyle açılan davalar, konfeksiyon ve giyim sektöründeki esnafı zor durumda bırakıyor. Esnaf, yüksek tazminat talepleriyle karşı karşıya kaldıklarını ve iş yerlerini kapatma noktasına geldiklerini belirtiyor.",
+        "description": "Gümüşhane'nin Kürtün ilçesinde yüz yıllık ekşi mayayla üretilen coğrafi işaret tescilli Araköy ekmeği, 8 saatlik zahmetli üretim süreci ve 4 kilogramlık devasa boyutuyla dikkat çekiyor.",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:22:00",
+        "pubDate": "2025-10-04 06:19:00",
         "pubDateTZ": "UTC",
-        "image_url": "https://foto.haberler.com/haber/2025/10/04/erzincan-da-esnaf-imitasyon-urun-davalariyla-19114095_amp.jpg",
+        "image_url": "https://foto.haberler.com/haber/2025/10/04/bu-ekmegi-alan-1-hafta-baska-ekmek-almiyor-19114148_amp.jpg",
         "video_url": null,
         "source_id": "haberler",
         "source_name": "Haberler",
@@ -46,21 +281,56 @@
         "duplicate": false
       },
       {
-        "article_id": "ef3ef73a225b1573092f1824cd18def3",
-        "title": "Truist Financial Issues Positive Forecast for Bank of New York Mellon (NYSE:BK) Stock Price",
-        "link": "https://www.americanbankingnews.com/2025/10/04/truist-financial-issues-positive-forecast-for-bank-of-new-york-mellon-nysebk-stock-price.html",
+        "article_id": "a4e6527b4478bba69e169976b41d5886",
+        "title": "EPDK 7 şirkete lisans verdi: 3 sonlandırma, 1 iptal kararı Resmi Gazete’de",
+        "link": "https://www.dunya.com/sektorler/enerji/epdk-7-sirkete-lisans-verdi-3-sonlandirma-1-iptal-karari-resmi-gazetede-haberi-796871",
+        "keywords": null,
+        "creator": [
+          "Dünya Gazetesi"
+        ],
+        "description": "Enerji Piyasası Düzenleme Kurumu (EPDK), enerji piyasalarına yönelik yeni lisans kararlarını açıkladı. Kurum, 7 şirkete yeni lisans verirken 3 şirketin lisansını sonlandırdı, 1 şirketin lisansını iptal etti. Kararlar Resmî Gazete’nin bugünkü sayısında yayımlandı.",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "pubDate": "2025-10-04 06:19:00",
+        "pubDateTZ": "UTC",
+        "image_url": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/04/kis-lastigi-tzbr_cover.png",
+        "video_url": null,
+        "source_id": "dunya",
+        "source_name": "Dünya Gazetesi",
+        "source_priority": 782673,
+        "source_url": "https://www.dunya.com",
+        "source_icon": "https://n.bytvi.com/dunya.png",
+        "language": "turkish",
+        "country": [
+          "turkey"
+        ],
+        "category": [
+          "business"
+        ],
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "duplicate": false
+      },
+      {
+        "article_id": "640833cd556b53821a7c74f47c98c095",
+        "title": "FY2026 EPS Forecast for TFI International Lifted by Analyst",
+        "link": "https://www.americanbankingnews.com/2025/10/04/fy2026-eps-forecast-for-tfi-international-lifted-by-analyst.html",
         "keywords": [
-          "analyst articles - us",
-          "market news"
+          "market news",
+          "analyst articles - estimates"
         ],
         "creator": [
           "ABMN Staff"
         ],
-        "description": "Bank of New York Mellon (NYSE:BK – Get Free Report) had its price objective upped by Truist Financial from $109.00 to $118.00 in a research report issued to clients and investors on Thursday,Benzinga reports. The firm presently has a “hold” rating on the bank’s stock. Truist Financial’s target price indicates a potential upside of 10.82% [...]",
+        "description": "TFI International Inc (TSE:TFI – Free Report) – Equities research analysts at National Bank Financial raised their FY2026 earnings per share estimates for TFI International in a report issued on Tuesday, September 30th. National Bank Financial analyst C. Doerksen now expects that the company will post earnings per share of $8.20 for the year, up [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:19",
+        "pubDate": "2025-10-04 06:18:54",
         "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/the-bank-of-new-york-mellon-co-logo-1200x675.png?v=20240108101436",
+        "image_url": "https://www.marketbeat.com/logos/tfi-international-inc-logo-1200x675.png?v=20211206125515",
         "video_url": null,
         "source_id": "americanbankingnews",
         "source_name": "Americanbankingnews",
@@ -84,287 +354,21 @@
         "duplicate": false
       },
       {
-        "article_id": "45444f09ed07919a6e74f8323c64620a",
-        "title": "Keurig Dr Pepper (NASDAQ:KDP) Given New $29.00 Price Target at The Goldman Sachs Group",
-        "link": "https://www.americanbankingnews.com/2025/10/04/keurig-dr-pepper-nasdaqkdp-given-new-29-00-price-target-at-the-goldman-sachs-group.html",
+        "article_id": "008616733357843ed692fcf06493bd3e",
+        "title": "Equities Analysts Offer Predictions for NIKE FY2026 Earnings",
+        "link": "https://www.americanbankingnews.com/2025/10/04/equities-analysts-offer-predictions-for-nike-fy2026-earnings.html",
         "keywords": [
-          "analyst articles - us",
-          "market news"
+          "market news",
+          "analyst articles - estimates"
         ],
         "creator": [
           "ABMN Staff"
         ],
-        "description": "Keurig Dr Pepper (NASDAQ:KDP – Get Free Report) had its price target cut by equities research analysts at The Goldman Sachs Group from $34.00 to $29.00 in a research report issued on Thursday,Benzinga reports. The firm currently has a “neutral” rating on the stock. The Goldman Sachs Group’s price target would suggest a potential upside [...]",
+        "description": "NIKE, Inc. (NYSE:NKE – Free Report) – Research analysts at Telsey Advisory Group reduced their FY2026 earnings estimates for shares of NIKE in a research note issued to investors on Wednesday, October 1st. Telsey Advisory Group analyst C. Fernandez now expects that the footwear maker will post earnings per share of $1.66 for the year, [...]",
         "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
+        "pubDate": "2025-10-04 06:18:54",
         "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/keurig-dr-pepper-inc-logo-1200x675.jpg?v=20231214130413",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "a01419dbd020a615f7324829bb2bd4cd",
-        "title": "Insmed (NASDAQ:INSM) Stock Price Expected to Rise, TD Cowen Analyst Says",
-        "link": "https://www.americanbankingnews.com/2025/10/04/insmed-nasdaqinsm-stock-price-expected-to-rise-td-cowen-analyst-says.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "Insmed (NASDAQ:INSM – Get Free Report) had its price target raised by equities research analysts at TD Cowen from $154.00 to $193.00 in a report issued on Thursday,Benzinga reports. The firm presently has a “buy” rating on the biopharmaceutical company’s stock. TD Cowen’s target price would suggest a potential upside of 22.80% from the stock’s [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/insmed-incorporated-logo-1200x675.jpg?v=20221122124124",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "8ca962551900cb507aebde928a2c1da3",
-        "title": "Axcelis Technologies (NASDAQ:ACLS) Stock Price Expected to Rise, DA Davidson Analyst Says",
-        "link": "https://www.americanbankingnews.com/2025/10/04/axcelis-technologies-nasdaqacls-stock-price-expected-to-rise-da-davidson-analyst-says.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "Axcelis Technologies (NASDAQ:ACLS – Get Free Report) had its target price increased by research analysts at DA Davidson from $90.00 to $110.00 in a research report issued on Thursday,Benzinga reports. The brokerage presently has a “buy” rating on the semiconductor company’s stock. DA Davidson’s price objective would indicate a potential upside of 24.00% from the [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/axcelis-technologies-inc-logo-1200x675.jpg",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "e1b8dde882c6942b365045d743de8e91",
-        "title": "The Goldman Sachs Group Forecasts Strong Price Appreciation for Vita Coco (NASDAQ:COCO) Stock",
-        "link": "https://www.americanbankingnews.com/2025/10/04/the-goldman-sachs-group-forecasts-strong-price-appreciation-for-vita-coco-nasdaqcoco-stock.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "Vita Coco (NASDAQ:COCO – Get Free Report) had its price target raised by equities researchers at The Goldman Sachs Group from $41.00 to $47.00 in a research note issued to investors on Thursday,Benzinga reports. The brokerage currently has a “buy” rating on the stock. The Goldman Sachs Group’s price objective would indicate a potential upside [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/the-vita-coco-company-inc-logo-1200x675.jpg?v=20240521143003",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "f91cabcc2338df87d4d0e711c5d3701a",
-        "title": "CRH (NYSE:CRH) Given New $140.00 Price Target at Truist Financial",
-        "link": "https://www.americanbankingnews.com/2025/10/04/crh-nysecrh-given-new-140-00-price-target-at-truist-financial.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "CRH (NYSE:CRH – Get Free Report) had its price objective increased by equities research analysts at Truist Financial from $125.00 to $140.00 in a research note issued on Thursday,Benzinga reports. The firm currently has a “buy” rating on the construction company’s stock. Truist Financial’s target price indicates a potential upside of 16.66% from the stock’s [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/crh-plc-logo-1200x675.jpg",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "460f7ef778f29199429f9ed57202b693",
-        "title": "Kenvue (NYSE:KVUE) Price Target Cut to $19.00 by Analysts at The Goldman Sachs Group",
-        "link": "https://www.americanbankingnews.com/2025/10/04/kenvue-nysekvue-price-target-cut-to-19-00-by-analysts-at-the-goldman-sachs-group.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "Kenvue (NYSE:KVUE – Get Free Report) had its target price dropped by The Goldman Sachs Group from $22.00 to $19.00 in a research note issued to investors on Thursday,Benzinga reports. The brokerage currently has a “neutral” rating on the stock. The Goldman Sachs Group’s price objective suggests a potential upside of 20.29% from the company’s [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/kenvue-inc-logo-1200x675.jpg?v=20230508144051",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "3d1cc38f295eb1858bc3d541d2c3ef82",
-        "title": "The Goldman Sachs Group Cuts TransUnion (NYSE:TRU) Price Target to $83.00",
-        "link": "https://www.americanbankingnews.com/2025/10/04/the-goldman-sachs-group-cuts-transunion-nysetru-price-target-to-83-00.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "TransUnion (NYSE:TRU – Get Free Report) had its target price dropped by equities researchers at The Goldman Sachs Group from $96.00 to $83.00 in a report released on Thursday,Benzinga reports. The firm presently has a “neutral” rating on the business services provider’s stock. The Goldman Sachs Group’s price target points to a potential upside of [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:18",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/transunion-logo-1200x675.jpg?v=20221109120455",
-        "video_url": null,
-        "source_id": "americanbankingnews",
-        "source_name": "Americanbankingnews",
-        "source_priority": 4239970,
-        "source_url": "https://www.americanbankingnews.com",
-        "source_icon": "https://n.bytvi.com/americanbankingnews.jpg",
-        "language": "english",
-        "country": [
-          "united states of america"
-        ],
-        "category": [
-          "business"
-        ],
-        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-        "ai_content": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-        "duplicate": false
-      },
-      {
-        "article_id": "514f456f16b5480366548e660d0f11ca",
-        "title": "Novogen (NASDAQ:KZIA) Price Target Raised to $20.00 at Maxim Group",
-        "link": "https://www.americanbankingnews.com/2025/10/04/novogen-nasdaqkzia-price-target-raised-to-20-00-at-maxim-group.html",
-        "keywords": [
-          "analyst articles - us",
-          "market news"
-        ],
-        "creator": [
-          "ABMN Staff"
-        ],
-        "description": "Novogen (NASDAQ:KZIA – Get Free Report) had its target price increased by equities researchers at Maxim Group from $15.00 to $20.00 in a report released on Thursday,Benzinga reports. The firm presently has a “buy” rating on the stock. Maxim Group’s price target suggests a potential upside of 204.88% from the stock’s previous close. Several other [...]",
-        "content": "ONLY AVAILABLE IN PAID PLANS",
-        "pubDate": "2025-10-04 05:21:17",
-        "pubDateTZ": "UTC",
-        "image_url": "https://www.marketbeat.com/logos/kazia-therapeutics-limited-logo-1200x675.png?v=20230118143047",
+        "image_url": "https://www.marketbeat.com/logos/nike-inc-logo-1200x675.png?v=20231122113630",
         "video_url": null,
         "source_id": "americanbankingnews",
         "source_name": "Americanbankingnews",

@@ -1,14 +1,268 @@
 [
   {
+    "id": "52ce007a476086e1afae3dbf74b2c73d539aa41ae9c14643251e02e97dbce0a8",
+    "title": "ROSEN, A LEADING AND RANKED FIRM, Encourages Cytokinetics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – CYTK",
+    "content": "Rosen Law Firm is notifying Cytokinetics investors about a potential securities class action lawsuit related to misleading statements about a New Drug Application submission and FDA approval timeline for aficamten.",
+    "url": null,
+    "source": "polygon",
+    "author": "Rosen Law Firm",
+    "language": "en",
+    "country": null,
+    "category": "general",
+    "tags": [],
+    "tickers": [
+      "CYTK"
+    ],
+    "keywords": [
+      "securities class action",
+      "FDA",
+      "drug approval",
+      "investor rights"
+    ],
+    "entities": [
+      "Rosen Law Firm",
+      "FDA",
+      "New Drug Application"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:44.868332+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "45dc1c1de619ab56d7a25d7748ec4c205ff25dcd801a98f42769afa8f1514652",
+    "title": "ROSEN, HIGHLY RANKED INVESTOR COUNSEL, Encourages Fortinet, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action – FTNT",
+    "content": "Rosen Law Firm alerts Fortinet investors about a potential securities class action lawsuit alleging false statements regarding FortiGate unit upgrades and revenue projections during the period of November 8, 2024 to August 6, 2025.",
+    "url": null,
+    "source": "polygon",
+    "author": "Rosen Law Firm",
+    "language": "en",
+    "country": null,
+    "category": "general",
+    "tags": [],
+    "tickers": [
+      "FTNT"
+    ],
+    "keywords": [
+      "securities lawsuit",
+      "investor rights",
+      "class action",
+      "FortiGate",
+      "misrepresentation"
+    ],
+    "entities": [
+      "Rosen Law Firm",
+      "FortiGate"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:44.920473+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "ee663f27e41039d3c433870d3d43d578bfb87e7030e40f0b3c435a8a5c4eef13",
+    "title": "If You Invested $10,000 in Apple Stock 10 Years Ago, Here's How Much You'd Have Today",
+    "content": "An analysis of Apple's stock performance over the past decade reveals an impressive 938% total return, transforming a $10,000 investment into $103,800, significantly outperforming the S&P 500's 321% return.",
+    "url": null,
+    "source": "polygon",
+    "author": "Neil Patel",
+    "language": "en",
+    "country": null,
+    "category": "finance",
+    "tags": [],
+    "tickers": [
+      "AAPL",
+      "NVDA"
+    ],
+    "keywords": [
+      "Apple",
+      "stock investment",
+      "market performance",
+      "technology",
+      "long-term returns"
+    ],
+    "entities": [
+      "Apple"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:44.970504+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "78fc23a99dec1c88ecc2e2613145b6a15e7e9063f43188ee0a3192835ffc8e38",
+    "title": "Where Will Plug Power Be in 25 Years?",
+    "content": "Plug Power, a hydrogen fuel cell company, has struggled to achieve profitability despite promising renewable energy technology. While hydrogen fuel shows potential, significant challenges remain in cost-competitiveness and technology adoption.",
+    "url": null,
+    "source": "polygon",
+    "author": "Ryan Vanzo",
+    "language": "en",
+    "country": null,
+    "category": "tech",
+    "tags": [],
+    "tickers": [
+      "PLUG"
+    ],
+    "keywords": [
+      "hydrogen fuel",
+      "renewable energy",
+      "fuel cells",
+      "clean technology",
+      "energy innovation"
+    ],
+    "entities": [
+      "Plug Power"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:45.020311+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "56a344e69b93059f352e09b2e3b0ee0ee0ecea96c0c68da367323c95af936df7",
+    "title": "Beyond Streaming: Netflix's Quiet Moves Into Gaming and Live Experiences",
+    "content": "Netflix is diversifying its business model by exploring gaming, immersive venues, live sports, and entertainment, aiming to transform from a pure streaming platform into a broader entertainment ecosystem.",
+    "url": null,
+    "source": "polygon",
+    "author": "Lawrence Nga",
+    "language": "en",
+    "country": null,
+    "category": "tech",
+    "tags": [],
+    "tickers": [
+      "NFLX",
+      "DIS"
+    ],
+    "keywords": [
+      "streaming",
+      "gaming",
+      "live events",
+      "expansion",
+      "entertainment"
+    ],
+    "entities": [
+      "Netflix"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:45.069377+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "187af7009c119f69915248c420b9956b1c56ab6a8a6f3c7362fd85d98b283db7",
+    "title": "Don't Miss This Major Announcement From The Trade Desk and What It Means for the Long Term",
+    "content": "The Trade Desk partnered with DirecTV to co-develop a custom version of its Ventura TV operating system, aiming to create a neutral platform for smart TV advertising with improved transparency and efficiency.",
+    "url": null,
+    "source": "polygon",
+    "author": "Daniel Sparks",
+    "language": "en",
+    "country": null,
+    "category": "tech",
+    "tags": [],
+    "tickers": [
+      "TTD",
+      "ROKU",
+      "AMZN"
+    ],
+    "keywords": [
+      "connected TV",
+      "advertising",
+      "TV operating system",
+      "digital ads",
+      "streaming"
+    ],
+    "entities": [
+      "Ventura TV"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:45.098037+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
+    "id": "aca539035bdbdab05c0d4ee20d5d3fba6a3a8ed8cb964fd3d9f52efda3133922",
+    "title": "2 Problems Rivian, Lucid, and Tesla Will Face After the EV Tax Credit Expiration",
+    "content": "Electric vehicle manufacturers Tesla, Rivian, and Lucid face significant financial challenges due to the elimination of U.S. tax credits and CAFE regulatory credits by September 30, 2025, which will likely reduce EV demand and eliminate a profitable revenue stream.",
+    "url": null,
+    "source": "polygon",
+    "author": "Ryan Vanzo",
+    "language": "en",
+    "country": null,
+    "category": "general",
+    "tags": [],
+    "tickers": [
+      "TSLA",
+      "RIVN",
+      "LCID"
+    ],
+    "keywords": [
+      "electric vehicles",
+      "EV subsidies",
+      "tax credits",
+      "regulatory credits",
+      "automotive industry"
+    ],
+    "entities": [
+      "U.S.",
+      "EV"
+    ],
+    "sentiment": null,
+    "relevance": null,
+    "hotness": null,
+    "source_credibility": 4,
+    "credibility_score": null,
+    "is_duplicate": -1,
+    "collected_at": "2025-10-04T18:12:45.148104+00:00",
+    "created_at": null,
+    "updated_at": null,
+    "published_at": null
+  },
+  {
     "id": "f354bb85aaa360e795790eb49452f306f4b7bbc59bc20d9a5aa97b106aa6b154",
     "title": "Microsoft Stock Investors Are Growing More Concerned",
     "content": "Microsoft is experiencing investor skepticism about its substantial investments in artificial intelligence, with concerns that large capital expenditures might not generate sufficient returns.",
     "url": null,
     "source": "polygon",
     "author": "Parkev Tatevosian",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "MSFT",
@@ -24,14 +278,16 @@
       "Capital Expenditures",
       "Investor Concerns"
     ],
-    "entities": [],
+    "entities": [
+      "Microsoft"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.189037+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -43,9 +299,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rick Orford",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "SOUN",
@@ -58,14 +314,16 @@
       "automotive",
       "enterprise solutions"
     ],
-    "entities": [],
+    "entities": [
+      "SoundHound AI"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.215148+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -77,9 +335,9 @@
     "url": null,
     "source": "polygon",
     "author": "Neil Patel",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "UBER",
@@ -99,7 +357,7 @@
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.227593+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -111,9 +369,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bragar Eagel & Squire, P.C.",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "VFC",
@@ -127,14 +385,21 @@
       "investor rights",
       "misleading statements"
     ],
-    "entities": [],
+    "entities": [
+      "Cytokinetics",
+      "RCI Hospitality Holdings",
+      "V.F. Corporation",
+      "Quanex Building Products",
+      "Bragar Eagel & Squire",
+      "P.C."
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.248723+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -146,9 +411,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bragar Eagel & Squire, P.C.",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "LNTH"
@@ -160,14 +425,17 @@
       "investor rights",
       "Pylarify"
     ],
-    "entities": [],
+    "entities": [
+      "Lantheus Holdings",
+      "Pylarify"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.273769+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -179,9 +447,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bragar Eagel & Squire, P.C.",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "TROX",
@@ -195,14 +463,19 @@
       "investor rights",
       "financial misrepresentation"
     ],
-    "entities": [],
+    "entities": [
+      "Bragar Eagel & Squire",
+      "Tronox",
+      "Quantum",
+      "Fly-E"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.299223+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -214,9 +487,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rosen Law Firm",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "NGG"
@@ -227,14 +500,18 @@
       "power grid",
       "Heathrow fire"
     ],
-    "entities": [],
+    "entities": [
+      "Reuters",
+      "Rosen Law Firm",
+      "National Grid"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.333140+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -246,9 +523,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rosen Law Firm",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "VFC"
@@ -259,14 +536,18 @@
       "investor rights",
       "turnaround plan"
     ],
-    "entities": [],
+    "entities": [
+      "Vans",
+      "Rosen Law Firm",
+      "V.F. Corporation"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.365523+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -278,9 +559,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rosen Law Firm",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "SNAP"
@@ -291,14 +572,17 @@
       "investor rights",
       "advertising revenue"
     ],
-    "entities": [],
+    "entities": [
+      "Rosen Law Firm",
+      "Snap Inc."
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.385511+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -310,9 +594,9 @@
     "url": null,
     "source": "polygon",
     "author": "David Jagielski",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "TLRY"
@@ -324,14 +608,16 @@
       "investment",
       "marijuana reform"
     ],
-    "entities": [],
+    "entities": [
+      "Tilray Brands"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.419979+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -343,9 +629,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bragar Eagel & Squire, P.C.",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "JSPR",
@@ -357,14 +643,16 @@
       "manufacturing compliance",
       "clinical trials"
     ],
-    "entities": [],
+    "entities": [
+      "Jasper Therapeutics"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.460826+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -376,9 +664,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bragar Eagel & Squire, P.C.",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "FTNT"
@@ -391,14 +679,16 @@
       "firewalls",
       "upgrade cycle"
     ],
-    "entities": [],
+    "entities": [
+      "Fortinet"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.482170+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -410,9 +700,9 @@
     "url": null,
     "source": "polygon",
     "author": "James Altucher",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "T",
@@ -433,14 +723,16 @@
       "telecom disruption",
       "global connectivity"
     ],
-    "entities": [],
+    "entities": [
+      "Elon Musk's"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.515152+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -452,9 +744,9 @@
     "url": null,
     "source": "polygon",
     "author": "Joshua H. Grabar",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "ELV",
@@ -468,14 +760,20 @@
       "fiduciary duty",
       "class action lawsuit"
     ],
-    "entities": [],
+    "entities": [
+      "Humana",
+      "Maison Solutions",
+      "Elevance Health",
+      "Grabar Law Office",
+      "Vestis Corp"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.540201+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -487,9 +785,9 @@
     "url": null,
     "source": "polygon",
     "author": "Ryan Vanzo",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "RIVN",
@@ -503,14 +801,16 @@
       "Rivian",
       "Tesla"
     ],
-    "entities": [],
+    "entities": [
+      "EV"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.577070+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -522,9 +822,9 @@
     "url": null,
     "source": "polygon",
     "author": "Travis Hoium",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "SOFI"
@@ -542,7 +842,7 @@
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.614445+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -554,9 +854,9 @@
     "url": null,
     "source": "polygon",
     "author": "William Dahl",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "AG",
@@ -571,14 +871,16 @@
       "renewable energy",
       "electric vehicles"
     ],
-    "entities": [],
+    "entities": [
+      "First Majestic Silver"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.644378+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -590,9 +892,9 @@
     "url": null,
     "source": "polygon",
     "author": "Daniel Sparks",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "TSLA",
@@ -606,14 +908,18 @@
       "federal tax credit",
       "autonomous driving"
     ],
-    "entities": [],
+    "entities": [
+      "Q3",
+      "Q4",
+      "Tesla"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.686578+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -625,9 +931,9 @@
     "url": null,
     "source": "polygon",
     "author": "Halper Sadeh Llc",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "WOW",
@@ -647,7 +953,7 @@
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.716370+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -659,9 +965,9 @@
     "url": null,
     "source": "polygon",
     "author": "Halper Sadeh Llc",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "ODP",
@@ -674,14 +980,17 @@
       "mergers",
       "acquisitions"
     ],
-    "entities": [],
+    "entities": [
+      "Air Lease Corporation",
+      "ODP Corporation"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.745664+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -693,9 +1002,9 @@
     "url": null,
     "source": "polygon",
     "author": "Halper Sadeh Llc",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "VECO",
@@ -715,7 +1024,7 @@
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.769166+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -727,9 +1036,9 @@
     "url": null,
     "source": "polygon",
     "author": "Halper Sadeh Llc",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "PRO",
@@ -742,14 +1051,17 @@
       "corporate sales",
       "mergers"
     ],
-    "entities": [],
+    "entities": [
+      "PROS Holdings",
+      "Merus N.V."
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.783392+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -761,9 +1073,9 @@
     "url": null,
     "source": "polygon",
     "author": "Direxion",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "AAPU"
@@ -773,14 +1085,16 @@
       "investment assets",
       "fund closure"
     ],
-    "entities": [],
+    "entities": [
+      "WFH"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.799667+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -792,9 +1106,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rosen Law Firm",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "FCX"
@@ -805,14 +1119,18 @@
       "mining incident",
       "stock drop"
     ],
-    "entities": [],
+    "entities": [
+      "Rosen Law Firm",
+      "Indonesia",
+      "Freeport-McMoRan"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.824981+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -824,9 +1142,9 @@
     "url": null,
     "source": "polygon",
     "author": "James Brumley",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "AMZN",
@@ -840,14 +1158,17 @@
       "stock analysis",
       "investing"
     ],
-    "entities": [],
+    "entities": [
+      "Amazon",
+      "DraftKings"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.856761+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -859,9 +1180,9 @@
     "url": null,
     "source": "polygon",
     "author": "Lawrence Nga",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "COST"
@@ -873,14 +1194,16 @@
       "international expansion",
       "e-commerce"
     ],
-    "entities": [],
+    "entities": [
+      "Costco"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.883648+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -892,9 +1215,9 @@
     "url": null,
     "source": "polygon",
     "author": "Leo Sun",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "META",
@@ -910,14 +1233,18 @@
       "social media",
       "semiconductors"
     ],
-    "entities": [],
+    "entities": [
+      "Meta Platforms",
+      "CrowdStrike",
+      "Motley Fool"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.921336+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -929,9 +1256,9 @@
     "url": null,
     "source": "polygon",
     "author": "Daniel Miller",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "ALB",
@@ -945,14 +1272,17 @@
       "beverages",
       "investment"
     ],
-    "entities": [],
+    "entities": [
+      "Constellation Brands",
+      "Albemarle"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.955289+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -964,9 +1294,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bleichmar Fonti & Auld Llp",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "CHTR"
@@ -978,14 +1308,18 @@
       "stock price",
       "lawsuit"
     ],
-    "entities": [],
+    "entities": [
+      "the Affordable Connectivity Program",
+      "ACP",
+      "Charter Communications"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:45.988562+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -997,9 +1331,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bleichmar Fonti & Auld Llp",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "MLTX"
@@ -1011,14 +1345,16 @@
       "stock price",
       "clinical trials"
     ],
-    "entities": [],
+    "entities": [
+      "MoonLake"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.015022+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1030,9 +1366,9 @@
     "url": null,
     "source": "polygon",
     "author": "Bleichmar Fonti & Auld Llp",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "KMX"
@@ -1044,14 +1380,16 @@
       "tariffs",
       "earnings report"
     ],
-    "entities": [],
+    "entities": [
+      "CarMax"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.037895+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1063,9 +1401,9 @@
     "url": null,
     "source": "polygon",
     "author": "Rich Smith",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "NOC"
@@ -1077,14 +1415,18 @@
       "ISS",
       "commercial resupply"
     ],
-    "entities": [],
+    "entities": [
+      "Sierra Space's",
+      "NASA",
+      "Commercial Re-Supply"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.064158+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1096,9 +1438,9 @@
     "url": null,
     "source": "polygon",
     "author": "Chris Neiger",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "COST"
@@ -1110,14 +1452,16 @@
       "growth",
       "investment"
     ],
-    "entities": [],
+    "entities": [
+      "Costco"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.084646+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1129,9 +1473,9 @@
     "url": null,
     "source": "polygon",
     "author": "Tim Green",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "IBM",
@@ -1145,14 +1489,18 @@
       "enterprise solutions",
       "technology innovation"
     ],
-    "entities": [],
+    "entities": [
+      "IBM",
+      "AI",
+      "HSBC"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.114578+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1164,9 +1512,9 @@
     "url": null,
     "source": "polygon",
     "author": "Dangbei Pr Team",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "AMZN"
@@ -1178,14 +1526,18 @@
       "Prime Big Deal Days",
       "discounts"
     ],
-    "entities": [],
+    "entities": [
+      "Dangbei",
+      "Amazon",
+      "UK"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.142555+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1197,9 +1549,9 @@
     "url": null,
     "source": "polygon",
     "author": "Driv (Tenneco)",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "MRCC",
@@ -1212,14 +1564,16 @@
       "vehicle safety",
       "automotive parts"
     ],
-    "entities": [],
+    "entities": [
+      "Monroe"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.177486+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1231,9 +1585,9 @@
     "url": null,
     "source": "polygon",
     "author": "Sylvain Gary",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "tech",
     "tags": [],
     "tickers": [
       "MRCC"
@@ -1244,14 +1598,16 @@
       "automotive parts",
       "suspension technology"
     ],
-    "entities": [],
+    "entities": [
+      "Monroe"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.217213+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1263,9 +1619,9 @@
     "url": null,
     "source": "polygon",
     "author": "Johnny Rice",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "WOLF"
@@ -1283,7 +1639,7 @@
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.246670+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1295,9 +1651,9 @@
     "url": null,
     "source": "polygon",
     "author": "Dangbei Pr Office",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "finance",
     "tags": [],
     "tickers": [
       "AMZN"
@@ -1309,14 +1665,17 @@
       "Prime Big Deal Days",
       "smart technology"
     ],
-    "entities": [],
+    "entities": [
+      "Dangbei",
+      "Amazon"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.275967+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1328,9 +1687,9 @@
     "url": null,
     "source": "polygon",
     "author": "Dangbei Press Team",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "AMZN"
@@ -1343,14 +1702,17 @@
       "discounts",
       "home entertainment"
     ],
-    "entities": [],
+    "entities": [
+      "Dangbei",
+      "Amazon"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.301468+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1362,9 +1724,9 @@
     "url": null,
     "source": "polygon",
     "author": "Dangbei Pr Team",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "AMZN"
@@ -1377,14 +1739,17 @@
       "discounts",
       "laser projectors"
     ],
-    "entities": [],
+    "entities": [
+      "Amazon Italy's",
+      "Dangbei"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.337094+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
@@ -1396,9 +1761,9 @@
     "url": null,
     "source": "polygon",
     "author": "Dangbei Pr Team",
-    "language": null,
+    "language": "en",
     "country": null,
-    "category": null,
+    "category": "general",
     "tags": [],
     "tickers": [
       "AMZN"
@@ -1410,217 +1775,17 @@
       "Prime Big Deal Days",
       "discounts"
     ],
-    "entities": [],
+    "entities": [
+      "Dangbei",
+      "Amazon Germany's"
+    ],
     "sentiment": null,
     "relevance": null,
     "hotness": null,
     "source_credibility": 4,
     "credibility_score": null,
     "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "8edf9be333cd774ffc755a60327b3a83d07e62d229a74c83b1340b1d47b0ee51",
-    "title": "Dangbei participe aux Prime Big Deal Days d’Amazon France cet automne avec des réductions allant jusqu’à 300 €",
-    "content": "Dangbei is participating in Amazon France's Prime Big Deal Days from October 4-10, 2025, offering discounts up to €300 on various 4K and portable projectors across different models and price ranges.",
-    "url": null,
-    "source": "polygon",
-    "author": "Dangbei Pr Team",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "AMZN"
-    ],
-    "keywords": [
-      "projectors",
-      "4K",
-      "Amazon",
-      "Prime Big Deal Days",
-      "home cinema",
-      "portable technology"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "82f84f8fdf8efb88975bffea2c96b667a2adf5fac53cb82d8546bce07a4d8f25",
-    "title": "Dangbei Joins Amazon France’s Prime Big Deal Days This Autumn with Savings Up to €300",
-    "content": "Dangbei is offering substantial discounts on its range of 4K and portable projectors during Amazon Prime Big Deal Days from October 4-10, 2025, with savings up to €300 across multiple models.",
-    "url": null,
-    "source": "polygon",
-    "author": "Dangbei Pr Team",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "AMZN"
-    ],
-    "keywords": [
-      "projectors",
-      "4K",
-      "Amazon",
-      "Prime Big Deal Days",
-      "discounts",
-      "home cinema"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "70470afdaf66156f757b6d8c0e56441a801b0f6a39483919e40f66d9dcbef896",
-    "title": "Save Up to €300 on Dangbei Projectors During Amazon Spain’s Prime Big Deal Days",
-    "content": "Dangbei is offering discounts up to €300 on its range of 4K and portable projectors during Amazon Prime Big Deal Days from October 4-10, 2025, across multiple European markets including Spain, Germany, and France.",
-    "url": null,
-    "source": "polygon",
-    "author": "Dangbei Pr Team",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "AMZN"
-    ],
-    "keywords": [
-      "projectors",
-      "4K",
-      "Amazon Prime",
-      "deals",
-      "home cinema",
-      "portable technology"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "0de71c68dec864eef2a5244dc590357c9ce6fc93fc246ccc54f7505f55c875df",
-    "title": "The Stock Market Is Historically Pricey: Here's 1 Reason Target Is Still a No-Brainer Buy",
-    "content": "Target's stock has fallen 40% over the past year, but the company is positioning for a potential turnaround with a new CEO and showing signs of improvement in customer traffic.",
-    "url": null,
-    "source": "polygon",
-    "author": "Reuben Gregg Brewer",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "TGT"
-    ],
-    "keywords": [
-      "retail",
-      "stock market",
-      "turnaround",
-      "dividend",
-      "investment"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "2a13fd1344474c8891e37ceb44906b117293160528ce64ede5c5d2d32ee392d0",
-    "title": "Want to Start Earning More Passive Income in October? Buy This High-Yield Dividend Stock and Never Look Back.",
-    "content": "Realty Income, a large REIT with over 15,600 properties, offers a stable 5.4% monthly dividend yield with a consistent history of dividend growth, making it an attractive passive income investment option.",
-    "url": null,
-    "source": "polygon",
-    "author": "Matt Dilallo",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "O"
-    ],
-    "keywords": [
-      "passive income",
-      "dividend",
-      "REIT",
-      "real estate",
-      "monthly dividend"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
-    "created_at": null,
-    "updated_at": null,
-    "published_at": null
-  },
-  {
-    "id": "562193ee03b54129269a6707692a19991c7ee5428175c40b20ce3ace8e1a4887",
-    "title": "My Top Value Stock to Buy for 2026 (and It's Not Even Close)",
-    "content": "Rivian is positioned for potential growth in 2026 with plans to launch three affordable SUV electric vehicle models, presenting an attractive investment opportunity after a significant market valuation decline.",
-    "url": null,
-    "source": "polygon",
-    "author": "Ryan Vanzo",
-    "language": null,
-    "country": null,
-    "category": null,
-    "tags": [],
-    "tickers": [
-      "RIVN",
-      "TSLA"
-    ],
-    "keywords": [
-      "electric vehicles",
-      "EV",
-      "value stocks",
-      "investment",
-      "Rivian",
-      "Tesla"
-    ],
-    "entities": [],
-    "sentiment": null,
-    "relevance": null,
-    "hotness": null,
-    "source_credibility": 4,
-    "credibility_score": null,
-    "is_duplicate": -1,
-    "collected_at": "2025-10-04T17:18:34.223715+00:00",
+    "collected_at": "2025-10-04T18:12:46.371271+00:00",
     "created_at": null,
     "updated_at": null,
     "published_at": null
