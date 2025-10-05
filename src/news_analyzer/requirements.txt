@@ -1,0 +1,105 @@
+openai>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+transformers>=4.21.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+spacy>=3.4.0
+nltk>=3.8.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+textblob>=0.17.0
+yfinance>=0.2.0
+beautifulsoup4>=4.11.0
+aiohttp>=3.8.0
+asyncio-throttle>=1.0.0
+charset-normalizer>=3.0.0
+chardet>=5.0.0
+httpx>=0.25.0
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=2.0.0
+pydantic>=2.0.0
+spacy>=3.4.0
+accelerate>=0.20.0
+datasets>=2.12.0
+python-dotenv>=1.0.0
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=2.0.0
+pydantic>=2.0.0
+spacy>=3.4.0
+accelerate>=0.20.0
+datasets>=2.12.0
+python-dotenv>=1.0.0
+
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=2.0.0
+pydantic>=2.0.0
+spacy>=3.4.0
+accelerate>=0.20.0
+datasets>=2.12.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+nltk>=3.8.1
+textblob>=0.17.1
+langdetect>=1.0.9
+pytz>=2023.3
+
+
+# RADAR v3.0 - Высокопроизводительная система анализа новостей
+# Базовые зависимости
+pandas>=1.5.0
+numpy>=1.21.0
+python-dotenv>=0.19.0
+pathlib
+datetime
+
+# Машинное обучение и NLP
+torch>=1.11.0
+transformers>=4.21.0
+spacy>=3.4.0
+scikit-learn>=1.1.0
+
+# Языковые модели
+ru-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.4.0/ru_core_news_sm-3.4.0-py3-none-any.whl
+
+# Веб и API
+requests>=2.28.0
+httpx>=0.23.0
+aiohttp>=3.8.0
+
+# Асинхронность и производительность
+asyncio
+asyncio-pool>=0.6.0
+aiomultiprocess>=0.9.0
+uvloop>=0.17.0; sys_platform != "win32"
+
+# Обработка данных
+pydantic>=1.9.0
+python-json-logger>=2.0.0
+regex>=2022.7.0
+
+# Кеширование и хранение
+redis>=4.3.0
+sqlite3
+
+# Утилиты
+tqdm>=4.64.0
+rich>=12.5.0
+click>=8.1.0
+
+# Тестирование (dev)
+pytest>=7.1.0
+pytest-asyncio>=0.19.0
+pytest-benchmark>=3.4.0
+
+# Мониторинг производительности
+psutil>=5.9.0
+memory-profiler>=0.60.0

@@ -1,36 +1,56 @@
+# === Основные библиотеки ===
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# === Обработка HTML / веб ===
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+html5lib>=1.1
+tldextract>=3.4.0
+feedparser>=6.0.0
+fake-useragent>=1.5.0
+httpx>=0.25.0
+aiohttp>=3.8.0
+
+# === NLP и машинное обучение ===
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+spacy>=3.4.0
+nltk>=3.8.1
+textblob>=0.17.1
+langdetect>=1.0.9
+newspaper3k>=0.2.8
+
+# === Модели SpaCy ===
+ru-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_sm-3.4.0/ru_core_news_sm-3.4.0-py3-none-any.whl
+
+# === Дополнительно для асинхронности и ускорения ===
+asyncio-throttle>=1.0.0
+asyncio-pool>=0.6.0
+aiomultiprocess>=0.9.0
+uvloop>=0.17.0; sys_platform != "win32"
+
+# === Кеширование и базы данных ===
+redis>=4.3.0
 psycopg2-binary==2.9.9
-sentence-transformers==2.7.0
-scikit-learn==1.5.0
-transformers==4.41.2
-torch==2.3.1
-numpy==1.26.4
-# --- Основные ---
-requests>=2.28.0
-beautifulsoup4
-lxml
-html5lib
+sqlite3  # встроен в Python, можно не ставить отдельно
 
-# --- Нормализация текста ---
-newspaper3k
-langdetect
-spacy
-nltk
+# === Утилиты и логирование ===
+tqdm>=4.64.0
+rich>=12.5.0
+click>=8.1.0
+regex>=2022.7.0
+python-json-logger>=2.0.0
+memory-profiler>=0.60.0
+psutil>=5.9.0
 
-# --- Работа с файлами и JSON ---
-pandas
-
-# --- Вспомогательные ---
-tldextract
-feedparser
-python-dotenv
-
-# --- Для асинхронных или продвинутых запросов (если будешь расширять парсер) ---
-aiohttp
-httpx
-
-# --- Если используешь ScraperAPI ---
-fake-useragent
-
-# --- Утилиты разработки ---
-pytest
-ipython
+# === Тестирование и разработка ===
+pytest>=7.1.0
+pytest-asyncio>=0.19.0
+pytest-benchmark>=3.4.0
+ipython>=8.0.0
